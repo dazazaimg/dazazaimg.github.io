@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>系统提示</title>
+<base href="http://cp.tcisv.cn/admin/" />
+<link href="/public/template/default/css/index.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body{padding-top:100px;}
+#closeMsg{width:500px;margin:auto;}
+</style>
+</head>
+<body>
+<div id="closeMsg" class="boxWrap">
+    <div class="box">
+        <h2>站点关闭提示</h2>
+        <div class="boxContent">当您看到此信息时，说明当前站点已关闭，请稍候再来看下！</div><!--boxContent-->
+    </div><!--box-->
+<div><!--boxWrap-->
+</body>
+</html>
