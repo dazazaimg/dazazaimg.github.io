@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>404 文件未找到</title>
+<style type="text/css">
+<!--
+body,a,p {font-family: Arial, Helvetica, sans-serif;text-decoration: none;padding:0px;margin:0px;}
+.main {font-size: 36px;}
+.title {font-size: large;background: black;color: white;padding:2px 6px 1px 6px;}
+-->
+</style>
+</head>
+
+<body>
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="75"><img src="http://yo2.cn/errors/images/yo2.gif" width="75" height="80" alt="yo2" longdesc="http://yo2.cn" /></td>
+    <td width="505"><div style="float:right;text-align:right;font-size:12px;"><a href="mailto:support@yo2.cn"><font color="#999999">联系我们</font></a></div><span class="main"><strong>blog</strong> Service </span></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><p><span class="title">404 File not found </span></p>
+      <p>&nbsp;</p>
+      <p><font color="#666666">您所访问的文件不存在</font></p>
+	  <p id="info" style="display:none"></p><script src="http://yo2.cn/errors/info.js" language="javascript"></script>
+    <p>&nbsp;</p><p><a href="http://yo2.cn"><font color="#999999">yo2.cn</font></a></p></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+</html>
