@@ -1,0 +1,856 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+<head profile="http://gmpg.org/xfn/11">
+<title>嘻来嚷往</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="WordPress 2.8.4"/>
+<link rel="stylesheet" href="/css/style.css" type="text/css" media="screen" />
+<!--[if lte IE 7]><style media="screen,projection" type="text/css">@import "/css/style-ie.css";</style><![endif]-->
+<!--[if IE 6]><script type="text/javascript" src="/js/DD_belatedPNG_0.0.7a-min.js"></script>
+<script type="text/javascript">DD_belatedPNG.fix('#header_social img, #header_topbanner, #body, #footer');</script><![endif]-->
+<link rel="alternate" type="application/rss+xml" title="订阅嘻来嚷往" href="http://feed.feedsky.com/xlrw" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link rel="openid.server" href="http://www.myopenid.com/server" />
+<link rel="openid.delegate" href="http://freezeblue.myopenid.com/" />
+<script type='text/javascript' src='http://xirang.us/wp-includes/js/jquery/jquery.js?ver=1.3.2'></script>
+<script type='text/javascript' src='http://xirang.us/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=5.3.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://xirang.us/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://xirang.us/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='嘻来嚷往' href='http://xirang.us' />
+<meta name="generator" content="WordPress 2.8.4" />
+<meta name="description" content="if you see something, say something." />
+<meta name="keywords" content="qt, c++, cpp, php, wordpress, internet, google,编程,博客,赚钱,天文,地理,音乐,艺术,绘画,电影,谷歌,摄影,建筑,windows, linux, novelty, movie, music, art,  photography" />
+<link rel="canonical" href="http://xirang.us/" />
+</head>
+<body class="home blog">
+<div id="page">
+<!--[if IE]><table width="100%"><tbody><tr><td align="center"><a href="http://www.stopie.com" target="_blank" title="Why we want to stop Internet Explorer? / 为什么要终结IE浏览器？"><img style="verticle-align:middle;" src="http://www.stopie.com/stopie.gif"/></a></td><td><p class="bsie" align="center">您正在使用不符合网络标准的 Internet Explorer 或是基于其核心的浏览器<br/><a href="/please-use-none-ie-browser">点击这里下载并使用优秀的浏览器</a>，您将会看到一个更加漂亮的『嘻来嚷往』<a></p></td></tr></tbody></table><![endif]-->
+<div id="toppanel">
+	<p><a href="/">http://xirang.us</a></p>
+		<ul id="header_social">
+		<li><a href="http://feeds.feedburner.com/xlrw" target="_blank"><img style="padding:4px 0px 0 5px;"src="http://feeds.feedburner.com/~fc/xlrw?bg=bd1016&amp;fg=ffffff&amp;anim=0" title="通过Feedburner订阅本站" /></a></li>
+		<li><a href="http://feed.xirang.us" target="_blank"><img style="padding:2px 0px 0 5px;" src="http://img.feedsky.com/feed/xlrw/sc/gif" title="通过Feedsky订阅本站" /></a></li>
+		<li><a href="http://clustrmaps.com/counter/maps.php?url=http://xirang.us" target="_blank"><img style="padding:1px 0px 2px 5px;" src="/cgi-sys/Count.cgi?df=visitor.dat|display=Counter|ft=3|md=5|dd=B" title="总访问量" /></a></li>
+	</ul>
+</div>
+<div id="header">
+	<div id="logo">
+		<a href="/">嘻来嚷往</a>
+		<div class="description">If you see something, say something.</div>
+	</div>
+	<div id="main_search">
+        <form method="get" id="searchform_top" action="/">
+            <div>
+                <input type="text" value="请输入您想搜索的内容" name="s" id="searchform_top_text" onfocus="if (this.value == '请输入您想搜索的内容') {this.value = '';}" onblur="if (this.value == '') {this.value = '请输入您想搜索的内容';}" /><input type="submit" id="gosearch" value="搜索" />
+            </div>
+        </form>
+    </div>
+</div>
+<div id="menu">
+	<div id="mainmenu">
+		<ul>
+			<li><a href="/">首页</a></li>
+			<li><a href="/blue">文章类目</a>
+				<ul>
+					<li><a href="/topics/it" >信息时代</a>
+						<ul class='children'>
+							<li><a href="/topics/it/internet">互联网络</a></li>
+							<li><a href="/topics/it/software">软件世界</a>
+							<li><a href="/topics/it/it-industry">业界观察</a></li>
+							<li><a href="/topics/it/programming">编程开发</a></li>
+						</ul>
+					</li>
+					<li><a href="/topics/city">城市经纬</a>
+						<ul class='children'>
+							<li><a href="/topics/city/wanderer">城市浪游</a></li>
+							<li><a href="/topics/city/urban-plan">城市规划</a></li>
+						</ul>
+					</li>
+					<li><a href="/topics/art">文学艺术</a>
+						<ul class='children'>
+							<li><a href="/topics/art/design">创意设计</a></li>
+							<li><a href="/topics/art/literature">文采熠熠</a></li>
+							<li><a href="/topics/art/photography">流光溢彩</a></li>
+							<li><a href="/topics/art/music"">音乐驿站</a></li>
+						</ul>
+					</li>
+					<li><a href="/topics/spirit">时代精神</a>
+						<ul class='children'>
+							<li><a href="/topics/spirit/politics-economy">政治经济</a></li>
+							<li><a href="/topics/spirit/society">社会视角</a></li>
+						</ul>
+					</li>
+					<li><a href="/topics/science">科学探索</a>
+						<ul class='children'>
+							<li><a href="/topics/science/geographic">国家地理</a></li>
+							<li><a href="/topics/science/logic">数理逻辑</a></li>
+							<li><a href="/topics/science/astronomy">星光闪耀</a></li>
+							<li><a href="/topics/science/biology">生命之谜</a></li>
+						</ul>
+					</li>
+					<li><a href="/topics/talking">闲趣杂谈</a>
+						<ul class='children'>
+							<li><a href="/topics/talking/opinion">一己之见</a></li>
+							<li><a href="/topics/talking/funny">开心一笑</a></li>
+							<li><a href="/topics/talking/mood">心情随笔</a></li>
+							<li><a href="/topics/talking/misc">杂七杂八</a></li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+			<li><a href='/become-an-author' >成为作者</a></li>			
+			<li><a href='/guestbook' >留言簿</a></li>
+			<li><a href='/copyright' >著作权</a></li>
+			<li><a href='/about' >关于</a></li>
+			<li><a href='/affairs' >联系我们</a></li>
+			<li><a href='http://gallery.xirang.us' target='_blank'>图片站</a></li>
+			<li><a href='/help' >帮助</a>
+				<ul>
+					<li><a href='/please-use-none-ie-browser' >请使用非IE核心浏览器</a></li>
+					<li><a href='/how-to-set-avatar'>如何设定您的头像</a></li>
+					<li><a href='/generate-copyright' >为作品生成著作权信息</a></li>
+				</ul>
+			</li>
+			<li><a href='http://feed.xirang.us' target='_blank' >全文RSS订阅</a>
+				<ul>
+					<li><a href='http://feed.xirang.us' target='_blank'>直接订阅(Feedsky)</a></li>
+					<li><a href='http://feeds.feedburner.com/xlrw' target='_blank'>直接订阅(Feedburner)</a></li>
+					<li><a href='http://www.feedsky.com/msub_wr.html?burl=xlrw' target='_blank'>邮件订阅(Feedsky)</a></li>
+					<li><a href='http://feedburner.google.com/fb/a/mailverify?uri=xlrw&amp;loc=en_US' target='_blank'>邮件订阅(Feedburner)</a></li>
+				</ul>
+			</li>
+			<li><a href="http://xirang.us/wp-login.php?action=register">注册</a></li>
+			<li><a href="http://xirang.us/wp-login.php">登录</a></li>
+		</ul>
+	</div>
+</div>
+<div id="body">
+	<div id="content" class="narrowcolumn">
+	
+	<script type="text/javascript" src="/js/stepcarousel.js"></script>
+	<script type="text/javascript">
+		
+		stepcarousel.setup({
+			galleryid: 'stepcarouse_tl',
+			beltclass: 'stepcarouse_belt_tl',
+			panelclass: 'stepcarouse_tl_thumb',
+						autostep: {enable:true, moveby:1, pause:6000},
+			panelbehavior: {speed:500, wraparound:false, persist:false},
+			defaultbuttons: {enable: false, moveby: 1},
+			statusvars: ['statusA', 'statusB', 'statusC'],
+			contenttype: ['inline']
+		})
+		
+	</script>
+	<div id="carousel_t1">
+		<div id="carousel_t1_box">
+			<div id="stepcarouse_tl">
+				<div class="stepcarouse_belt_tl">
+												<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(/media/featured/firedragon.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/10/hongkong2-culture" rel="bookmark">香港浪游（二）——谁不“文化”</a></h2>
+						<p>香港没有文化？没有什么文化？没有文化什么？今年中秋国庆一起来，8天的长假让大陆人民很开心。HK居然只给了国庆一天假期，实在是让人不爽。从Iris很不爽这一点看来，说明国庆文化已经深深扎根于Iris心中。而HK在一点上和祖国不合拍，实在是很没文化的表现。因此，中秋佳节Iris就冲着据说很有香港传统文化气息的铜锣湾大坑中秋火龙会去了，准备体验一下什么叫香港传统文化。 <a href="http://xirang.us/2009/10/hongkong2-culture" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/hongkong1.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/wander-hk-1" rel="bookmark">香港浪游（一）——SOHO区、石板街、中区警署</a></h2>
+						<p>都市浪游者，这个称呼始于本雅明，指那些游荡于都市丛林之中，游荡着、观察着、思索着的独特个体。在西方，甚至已形成一种浪游文化。
+第一次见到这个字眼就很是喜欢，觉其有种60年代的颓废气息，但又不乏新世纪的诡异气质。因此，后来建议Tim将城市专篇里单列一项为：城市浪游。旨在为生活于都市中的人们提供另一种独特的城市经历和另一种看城市的角度。 <a href="http://xirang.us/2009/09/wander-hk-1" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/haizi.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/read-poem-of-haizi" rel="bookmark">读海子的诗：《写给脖子上的菩萨 》</a></h2>
+						<p>海子是我最喜欢的诗人之一，人民文学出版社的《海子的诗》，我通读过一遍，现在闲暇时光常常拿起来随手翻上几页，就算读不懂也念出来两句，久之，对一些海子的诗就有了一点自己的想法，考虑到现代诗其实是个很好的东西但往往被大众忽略和不屑，所以愿意冒着被攻讦的危险，写出来自己的想法，这样的意义有两个：一是对平常不怎么读现代诗歌、缺乏兴趣的朋友，可以从这里开始，走入现代诗歌的领地；二是对和我有相同的对现代诗爱好的朋友，以文会友，做一点交流，因为作品其实是活在读者心灵里的，这样可以使这些诗歌更有生命力。 <a href="http://xirang.us/2009/09/read-poem-of-haizi" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10001/umbrella.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/umbrella-art-installation" rel="bookmark">令人称奇的雨伞艺术</a></h2>
+						<p>瞧瞧人们的想象力吧，想不到普普通通的雨伞也能这样玩。 <a href="http://xirang.us/2009/09/umbrella-art-installation" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10001/naoshima.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/tourism-in-naoshima" rel="bookmark">对于建筑艺术，空间，文化，社会问题与经济发展之间的必然与非必然联系的认识与体验</a></h2>
+						<p>直岛——对于建筑艺术，空间，文化，社会问题与经济发展之间的必然与非必然联系的认识与体验。 <a href="http://xirang.us/2009/09/tourism-in-naoshima" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/muji.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/love-muji" rel="bookmark">MUJI的哲学——浮躁世界的一点清风</a></h2>
+						<p>最近一段时间，控上了MUJI（汉字译名无印良品），连续几次去商场，搬了大件小件回来。今日聊天，发现一向立于潮流较前沿的Tim同志居然不知MUJI。大惊，虽然MUJI奉行的就是无品牌主义，可难道真的如此没有知名度？因为最近大爱，Iris遂决定立刻为其写文。 <a href="http://xirang.us/2009/09/love-muji" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/photo-for-fun.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/15-places-for-you-to-have-fun-with-your-photos" rel="bookmark">15个给照片找乐子的地方</a></h2>
+						<p>多年的网络生活中，我发现了一些可以在线修改、编辑和增强图片效果的网站。就算不会使用任何图像处理软件，您一样可用您的照片在这些网站找乐子。所以我准备为此写一篇新文章，我做了一些调查后收集了15个最优秀的图片在线编辑网站。所有的这些网站都让我耳目一新，并且为它们的处理效果啧啧赞叹！ <a href="http://xirang.us/2009/09/15-places-for-you-to-have-fun-with-your-photos" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/miranda.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/miranda-im-7-in-1" rel="bookmark">多协议即时通讯软件 Miranda IM 七合一美化增强版</a></h2>
+						<p>集成 MSN + GTalk + Twitter + Facebook + QQ + Fetion + Weather 的七合一、无广告、无弹窗、不臃肿的超级... <a href="http://xirang.us/2009/09/miranda-im-7-in-1" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/win-logo.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/09/install-windows-7-from-hdd-by-win-pe" rel="bookmark">利用Win PE不刻盘为裸机安装Windows 7</a></h2>
+						<p>利用Win PE制作可启动U盘，不刻光盘10分钟为裸机安装全新Windows... <a href="http://xirang.us/2009/09/install-windows-7-from-hdd-by-win-pe" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								<!-- stepcarouse_tl_thumb -->
+								<div class="stepcarouse_tl_thumb" style="background:url(http://gallery.xirang.us/albums/userpics/10002/omax.jpg) no-repeat;">
+					<!-- stepcarouse_tl_entry -->
+					<div class="stepcarouse_tl_entry">
+						<h2><a href="http://xirang.us/2009/08/advertisement-is-an-art-omax-wide-angle-lens" rel="bookmark">广告是一门艺术：偷窥的最高境界！</a></h2>
+						<p>春光乍泄，偷窥无罪！印度摄影器材制造商 Omax Photographics 的超广角镜头系列广告把偷窥的境界发挥到了极致，非常有内涵地借用时下最撩人的... <a href="http://xirang.us/2009/08/advertisement-is-an-art-omax-wide-angle-lens" rel="bookmark">阅读全文……</a></p>
+					</div>
+					<!-- /stepcarouse_tl_entry -->
+				</div>
+				<!-- /stepcarouse_tl_thumb -->
+								</div>
+			</div>
+		</div>
+		<div id="board_carusel_nav">
+			<ul>
+							<li id="board_carusel_nav_1"><a  class="selected" href="javascript:stepcarousel.stepTo('stepcarouse_tl', 1)">1</a></li>
+							<li id="board_carusel_nav_2"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 2)">2</a></li>
+							<li id="board_carusel_nav_3"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 3)">3</a></li>
+							<li id="board_carusel_nav_4"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 4)">4</a></li>
+							<li id="board_carusel_nav_5"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 5)">5</a></li>
+							<li id="board_carusel_nav_6"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 6)">6</a></li>
+							<li id="board_carusel_nav_7"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 7)">7</a></li>
+							<li id="board_carusel_nav_8"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 8)">8</a></li>
+							<li id="board_carusel_nav_9"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 9)">9</a></li>
+							<li id="board_carusel_nav_10"><a  href="javascript:stepcarousel.stepTo('stepcarouse_tl', 10)">10</a></li>
+						</ul>
+		</div>
+	</div><!-- carousel_t1 -->
+
+	
+		
+			<div class="post-1053 post hentry category-wanderer category-city category-mood category-talking tag-185 tag-253" id="post-1053">
+				<div class="post_comm">
+					<p class="post_date">2009年10月20日</p>
+					<p class="post_author">作者：<span><a href="/author/Iris" target="_self">Iris</a></span></p>
+											<p class="post_comments">热度：<span>25 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/details-of-hk-3#comments" title="小细节看香港（三）——高架下的风景 上的评论"><span>2 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/details-of-hk-3" rel="bookmark" title="到这篇文章的永久链接">小细节看香港（三）——高架下的风景</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/city/wanderer" title="查看 城市浪游 的全部文章" rel="category tag">城市浪游</a> |  <a href="http://xirang.us/topics/city" title="查看 城市经纬 的全部文章" rel="category tag">城市经纬</a> |  <a href="http://xirang.us/topics/talking/mood" title="查看 心情随笔 的全部文章" rel="category tag">心情随笔</a> |  <a href="http://xirang.us/topics/talking" title="查看 闲趣杂谈 的全部文章" rel="category tag">闲趣杂谈</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e9%a6%99%e6%b8%af" rel="tag">香港</a> | <a href="http://xirang.us/tag/%e9%ab%98%e6%9e%b6" rel="tag">高架</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>该死的执照考试临近了，Iris还挣扎在一堆琐事之中。</p>
+<p>下定决心闭关两周，认真复习，可惜定力不足，每日仍然四处闲晃。</p>
+<p>罢，罢，罢，顺其自然吧。近日拍得几张可爱的照片，禁不住想拿来同大家分享。</p>
+<p>到HK一段时日，在遮天蔽日的石屎森林中徘徊，这种密度确实也算是人类社会的极限了。</p>
+<p>不过，偶尔也会透过层层的人造物，看到些许其自然和可爱之处。</p>
+<p>某日为觅食，寻至一高架之下，正值明媚天气，阳光费力从楼群中穿过，照射入高架之下，竟然映出一片灿烂的图景，让人不由从上山下坡的烦闷中陡然解脱，恢复了同天气一样的明媚心情。</p>
+<p style="text-align: center;"><img class="size-large wp-image-1054  aligncenter" title="天堂阶梯" src="http://xirang.us/media/2009/10/IMG_0573-600x800.jpg" alt="天堂阶梯" width="600" height="800" /></p>
+<p>我给其命名为天堂阶梯，或者叫梦幻阶梯更好些？踩着这样的阶梯，就如同在一片奇妙的海洋中遨游，行走的过程也充满乐趣。</p>
+<p> <a href="http://xirang.us/2009/10/details-of-hk-3#more-1053" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/details-of-hk-3"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1048 post hentry category-internet category-it tag-169 tag-113" id="post-1048">
+				<div class="post_comm">
+					<p class="post_date">2009年10月20日</p>
+					<p class="post_author">作者：<span><a href="/author/tim" target="_self">Tim</a></span></p>
+											<p class="post_comments">热度：<span>151 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#comments" title="TinEye：相似图片搜索引擎 上的评论"><span>20 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images" rel="bookmark" title="到这篇文章的永久链接">TinEye：相似图片搜索引擎</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/it/internet" title="查看 互联网络 的全部文章" rel="category tag">互联网络</a> |  <a href="http://xirang.us/topics/it" title="查看 信息时代 的全部文章" rel="category tag">信息时代</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e5%9b%be%e5%83%8f%e5%a4%84%e7%90%86" rel="tag">图像处理</a> | <a href="http://xirang.us/tag/%e5%ae%9e%e7%94%a8%e7%bd%91%e7%ab%99" rel="tag">实用网站</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>相似图片搜索引擎可不等同于图片搜索引擎。图片搜索引擎使用文字搜索图片，相似图片搜索引擎则用图片搜索图片。这听起来有点像绕口令……</p>
+<p>Tim第一次认识它是去年在<a href="http://bbs.sjtu.edu.cn" target="_blank">饮水思源</a>上著名的3P版，此版上常常有人贴出某位AV女优的照片询问是谁，于是有人推荐：用照片寻人，最好方法不是问人，而是问<a href="http://adf.ly/jOz" target="_blank">TinEye</a>。</p>
+<p>今日发现<a href="http://www.cnbeta.com/articles/95906.htm" target="_blank">cnBeta</a>上居然才出现关于<a href="http://adf.ly/jOz" target="_blank">TinEye</a>的投递，有点不符合cnBeta消息迅速的作风啊，不过这也可以见得<a href="http://adf.ly/jOz" target="_blank">TinEye</a>在中国的知名度还是很一般的，那就在这里写写吧，推荐给本站各位读者。</p>
+<p>比如Tim现在看到了一张无名美女图片。</p>
+<p style="text-align: center;"><a class="shutterset_1048" href="http://xirang.us/media/2009/10/nicolekidman.jpg"><img class="aligncenter size-large wp-image-1052" title="Nicole Kidman" src="http://xirang.us/media/2009/10/nicolekidman-600x375.jpg" alt="Nicole Kidman" width="600" height="375" /></a></p>
+<p style="text-align: left;">哇！金发碧眼，窈窕身段，好想好想知道她是谁。于是我开始在<a href="http://adf.ly/jOz" target="_blank">TinEye</a>中上传这张照片，不紧不慢地哼起了“魔镜魔镜告诉我，男人到底要什么”，瞬间结果出来了： <a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#more-1048" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a></p>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/tinyeye-search-for-similar-images"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1037 post hentry category-wanderer category-city tag-250 tag-249 tag-251 tag-248 tag-247" id="post-1037">
+				<div class="post_comm">
+					<p class="post_date">2009年10月19日</p>
+					<p class="post_author">作者：<span><a href="/author/lisa" target="_self">Lisa</a></span></p>
+											<p class="post_comments">热度：<span>185 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/moulin-rouge#comments" title="红磨坊的霓虹艳影——与情色无关 上的评论"><span>13 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/moulin-rouge" rel="bookmark" title="到这篇文章的永久链接">红磨坊的霓虹艳影——与情色无关</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/city/wanderer" title="查看 城市浪游 的全部文章" rel="category tag">城市浪游</a> |  <a href="http://xirang.us/topics/city" title="查看 城市经纬 的全部文章" rel="category tag">城市经纬</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e6%97%85%e6%b8%b8" rel="tag">旅游</a> | <a href="http://xirang.us/tag/%e6%b3%95%e5%9b%bd" rel="tag">法国</a> | <a href="http://xirang.us/tag/%e7%94%b5%e5%bd%b1" rel="tag">电影</a> | <a href="http://xirang.us/tag/%e7%ba%a2%e7%a3%a8%e5%9d%8a" rel="tag">红磨坊</a> | <a href="http://xirang.us/tag/%e7%bb%98%e7%94%bb" rel="tag">绘画</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>题记：从法国度假回来已有俩月有余，在繁忙的工作之外，还是会常常怀念那些个空气清新的早晨，一杯香浓的咖啡，柔情似水的香颂，热气腾腾的牛角包。悠悠慢慢，缠缠绵绵，扯着时间的衣裙，慵懒闲散的生活。Tim说一直期待着我的巴黎游记，可是lisa深感惭愧，拖到今日才落笔。文笔不佳，纯属娱乐啦~~</p>
+<p style="text-align: center;"><img class="size-full wp-image-1039 aligncenter" src="http://xirang.us/media/2009/10/afa0bff82668647a242df2731.jpg" alt="afa0bff82668647a242df273" width="478" height="566" /></p>
+<p> <a href="http://xirang.us/2009/10/moulin-rouge#more-1037" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/moulin-rouge"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1025 post hentry category-spirit category-society tag-244 tag-245 tag-220 tag-247 tag-246 tag-123" id="post-1025">
+				<div class="post_comm">
+					<p class="post_date">2009年10月18日</p>
+					<p class="post_author">作者：<span><a href="/author/tim" target="_self">Tim</a></span></p>
+											<p class="post_comments">热度：<span>1,621 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/about-war-and-love-moved-by-this-sand-art#comments" title="关于战争和爱情——八分钟的沙画、五年的历史、一生的感动 上的评论"><span>24 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/about-war-and-love-moved-by-this-sand-art" rel="bookmark" title="到这篇文章的永久链接">关于战争和爱情——八分钟的沙画、五年的历史、一生的感动</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/spirit" title="查看 时代精神 的全部文章" rel="category tag">时代精神</a> |  <a href="http://xirang.us/topics/spirit/society" title="查看 社会视角 的全部文章" rel="category tag">社会视角</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e6%88%98%e4%ba%89" rel="tag">战争</a> | <a href="http://xirang.us/tag/%e6%b2%99%e7%94%bb" rel="tag">沙画</a> | <a href="http://xirang.us/tag/%e7%88%b1%e6%83%85" rel="tag">爱情</a> | <a href="http://xirang.us/tag/%e7%bb%98%e7%94%bb" rel="tag">绘画</a> | <a href="http://xirang.us/tag/%e8%8b%8f%e8%81%94" rel="tag">苏联</a> | <a href="http://xirang.us/tag/%e8%a7%86%e9%a2%91" rel="tag">视频</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p><img class="floatright" title="可以宽恕，但绝不能忘记！" src="http://www.armfilms.com.tw/upload/board/20090902172735_150-wX3pd.gif" alt="" width="159" height="500" />已经快半年了，每当我打开电视，不是鬼子就是特务，还有那些英勇无畏的革命者们。是的！我们不能忘记先辈们抛头颅、洒热血的事迹，但是我们思考战争的方式能不能不要这么低级？胜者为王、败者为寇，这种仇恨教育只能造就出盲目激进的所谓的爱国分子，而于民族和全人类都无裨益。</p>
+<p>Tim在UESTC读书的四年中，<strong>曾经两次</strong>，SCU的热血“爱国”青年们棍棒砸毁了成都商业中心春熙路上的伊藤洋华堂旗舰店（话说我们UESTC的IT生们翻功夫网翻多了，反而更加理性，在这里感谢功夫网一下），然后举着标语“XX鬼子滚出中国”满大街地游行。试问，这种暴力行为与国内之前的“3×14”、“7×5”打砸抢烧事件有何本质区别？砸了日本人的店，日本仍然是一个在科学、技术、经济、社会等各个方面都遥遥领先领先中国的世界老二，而被砸店里的数千中国员工可是几个星期都没班上，更别提工资了。在世界人民眼中，中华民族也展现了他粗鲁野蛮的一面。不要说我看不起自己人，自己的想法并不能代表世界人民的想法，大家都要懂得换位思考。当我们看到马来西亚人打砸抢烧华人店铺时，Tim第一句骂的就是“真TM一个粗暴蛮横原始的国家”，可是马来人一样觉得自己砸得理所当然。</p>
+<p>常常给好友们灌输Tim对于战争和仇恨的思想——<strong>Forgive Not Forget，可以宽恕，但绝不能遗忘！！</strong>牢记仇恨最好的方法就是奋发图强，只有落后才不会挨打。冤冤相报何时了，热血青年们有那工夫挥着棍棒去砸店，不如多练练肌肉去奥运会上鄙视小日本。</p>
+<p>《南京！南京！》非常不错！在CCTV-6的该片首发会上，所有主创——陆川、刘烨、高圆圆、江一燕、中泉英雄一个个泣不成声，他们在影片的创作过程中深深感到了战争对人性的摧残。与那些“大刀向鬼子头上砍去”的影片不同的是，《南京！南京！》从战争与人类的高度上，审视了这段惨绝人寰的历史。战争是对人性的摧残，不论是中国人还是日本人。那场悲剧对于中华民族的伤害就不用提了。对于中泉英雄扮演的一个普通日本士兵角川来说，这个角色代表了参与这场战争的所有日本公民，他们只是国家命令的执行者——执行杀中国人的任务！但是，他们根本不知道杀人为了什么，当手上每天都沾满了同人类的鲜血时，他们陷入了深深的痛苦、悔恨与绝望之中，以至最后崩溃…… <a href="http://xirang.us/2009/10/about-war-and-love-moved-by-this-sand-art#more-1025" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/about-war-and-love-moved-by-this-sand-art"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1024 post hentry category-art category-literature tag-243 tag-242" id="post-1024">
+				<div class="post_comm">
+					<p class="post_date">2009年10月18日</p>
+					<p class="post_author">作者：<span><a href="/author/hankluo" target="_self">悍客 罗</a></span></p>
+											<p class="post_comments">热度：<span>62 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/wangbaochuan#comments" title="我身骑白马 上的评论"><span>5 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/wangbaochuan" rel="bookmark" title="到这篇文章的永久链接">我身骑白马</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/art" title="查看 文学艺术 的全部文章" rel="category tag">文学艺术</a> |  <a href="http://xirang.us/topics/art/literature" title="查看 文采熠熠 的全部文章" rel="category tag">文采熠熠</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e7%ad%89%e5%be%85" rel="tag">等待</a> | <a href="http://xirang.us/tag/%e8%ba%ab%e9%aa%91%e7%99%bd%e9%a9%ac" rel="tag">身骑白马</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>我身骑白马</p>
+<p>悍客罗</p>
+<p>我身骑白马 走三关<br />
+我身穿素衣 归中原<br />
+放下西凉 没人管<br />
+我一心只想 王宝钏</p>
+<p>薛平贵唱出这么几句的时候，自以为豪情万丈义薄云天；他没有好好想想我们可爱的王宝钏大小姐已经在寒窑苦等了十八年，从一个娇生惯养的相府千金磨砺成饥寒交迫的贫妇。</p>
+<p>从经济学的角度考虑，王宝钏太不值得了：身价从当朝宰相的三小姐，降为断绝父女关系的布衣妻子；靠母亲救济过了两年清贫日子，丈夫随军远赴边疆，而且一去杳无音信十八年；等到人老珠黄韶华已逝，等回来一个贵为驸马的有功将军；王宝钏从寒窑贫妇一跃成为将军夫人，但只过了十八天的太平日子，就含笑西去。</p>
+<p>也许，这里的十八年与十八天都是戏曲爱好者们一厢情愿，或者是刻意的对比反讽。王宝钏一个人带着孩子，住在破败简陋的寒窑里，食不果腹，仅存着一丁点希望，等待着良人罢远征，等待着良人归故里，等待着良人长相守。等来了一个别人的夫君，等来了一个敌方的驸马，等来了一个虚荣的将军夫人牌坊，然后，平静的过了两个星期，驾鹤西去。</p>
+<p>实在让人看不出，这出大戏有什么可歌可泣之处。倒是薛平贵，一脸得意的痴情模样，身骑白马过三关，还口口声声说什么：一心只想王宝钏。</p>
+<p>嗯哼，做了那么多年驸马，做到胡子都白了这么有专业精神，然后突然有一天良心发现，在朋友的提醒下想起远在家乡的妻子；于是，一把鼻涕一把泪的改换素衣归中原，还一不小心被人当作楷模，传诵千古，成为良心发现的光辉典范。</p>
+<p> <a href="http://xirang.us/2009/10/wangbaochuan#more-1024" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/wangbaochuan"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1023 post hentry category-misc category-talking tag-239 tag-238 tag-240" id="post-1023">
+				<div class="post_comm">
+					<p class="post_date">2009年10月18日</p>
+					<p class="post_author">作者：<span><a href="/author/hankluo" target="_self">悍客 罗</a></span></p>
+											<p class="post_comments">热度：<span>57 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/hankluo#comments" title="那一年的胡子罗。 上的评论"><span>8 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/hankluo" rel="bookmark" title="到这篇文章的永久链接">那一年的胡子罗。</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/talking/misc" title="查看 杂七杂八 的全部文章" rel="category tag">杂七杂八</a> |  <a href="http://xirang.us/topics/talking" title="查看 闲趣杂谈 的全部文章" rel="category tag">闲趣杂谈</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e5%9b%9e%e5%bf%86" rel="tag">回忆</a> | <a href="http://xirang.us/tag/%e5%be%80%e4%ba%8b" rel="tag">往事</a> | <a href="http://xirang.us/tag/%e7%93%a6%e5%b0%94%e7%99%bb%e6%b9%96" rel="tag">瓦尔登湖</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>那一年的胡子罗。</p>
+<p>悍客罗</p>
+<p>丁磊给我打电话的时候，我才想起那一年的胡子罗。2005年的那个人，真的是现在的我吗，不像，照照镜子就知道，我已经认不出自己了。</p>
+<p>胡子罗那时候喜欢夹一个红色笔记本，早上晨读的时候，别人都在背单词，他却一个人坐在草地上写写东西。写所谓的诗歌，所谓的爱情，所谓的理想。不像现在，想的是赚钱生存，谈得是圆滑世故——为了利益可以出卖一切，忘了什么是道德，不管曾经的规则——只是有时酒醒了的时候，会嘲笑曾经理想满腹的那个文学小青年。</p>
+<p>胡子罗那时候牙尖嘴利，得理不饶人，不管跟谁辩论，总要把人说到无语而不止。成天一副愤青的嘴脸，却又背负着思想者的美名；讨论着形而上的问题，写一些虚无缥缈自以为是的文字。可现在，他只学会了沉默，学会了适时表态，不再故作孤傲，不再不屑一顾，学会自我解嘲——嘲笑自己，嘲笑一切，却再不像以前可以不顾一切。</p>
+<p>胡子罗那时候很可爱，总是留着胡子，像个老头子，站在一群人中间，总是那么扎眼；像个老学究，总是引经据典，讲历史就像讲段子，骂电影就像逗朋友，聊文学就像谈恋爱。胡子罗深一脚浅一脚的踩在草丛上，背了一书包的书去图书馆，草地上的露水在草尖晃动——现在想来，这露水正如逝去的年华，无迹可循。</p>
+<p> <a href="http://xirang.us/2009/10/hankluo#more-1023" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/hankluo"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1010 post hentry category-astronomy category-science tag-234 tag-80 tag-232 tag-58 tag-235 tag-236" id="post-1010">
+				<div class="post_comm">
+					<p class="post_date">2009年10月16日</p>
+					<p class="post_author">作者：<span><a href="/author/tim" target="_self">Tim</a></span></p>
+											<p class="post_comments">热度：<span>1,647 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/earth-and-jupiter-captured-in-the-same-photograph-taken-from-mars#comments" title="从火星拍摄的地球和木星位于同一视野中的壮观照片 上的评论"><span>17 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/earth-and-jupiter-captured-in-the-same-photograph-taken-from-mars" rel="bookmark" title="到这篇文章的永久链接">从火星拍摄的地球和木星位于同一视野中的壮观照片</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/science/astronomy" title="查看 星光闪耀 的全部文章" rel="category tag">星光闪耀</a> |  <a href="http://xirang.us/topics/science" title="查看 科学探索 的全部文章" rel="category tag">科学探索</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e5%9c%b0%e7%90%83" rel="tag">地球</a> | <a href="http://xirang.us/tag/%e5%a4%a9%e6%96%87" rel="tag">天文</a> | <a href="http://xirang.us/tag/%e5%a4%aa%e9%98%b3%e7%b3%bb" rel="tag">太阳系</a> | <a href="http://xirang.us/tag/%e6%91%84%e5%bd%b1" rel="tag">摄影</a> | <a href="http://xirang.us/tag/%e6%9c%a8%e6%98%9f" rel="tag">木星</a> | <a href="http://xirang.us/tag/%e7%81%ab%e6%98%9f" rel="tag">火星</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>我们常常听说<a href="http://zh.wikipedia.org/wiki/%E9%87%91%E6%98%9F%E5%87%8C%E6%97%A5">金星冲（凌）日</a>、<a href="http://zh.wikipedia.org/wiki/%E6%B0%B4%E6%98%9F%E5%87%8C%E6%97%A5">水星冲（凌）日</a>。 这种现象其实就是从地球的角度观察，金星或水星和太阳的位置重合了，只不过太阳太大了，所以金星或水星就只挡住了太阳的那么一点点，从地球看过去，太阳表面就有产生了个小黑点。值得骄傲的是，中国的古人们很早就观察到这个现象，并且为其起了个非常形象生动的名字——“凌” 或者“冲”。</p>
+<p style="text-align: center;"><a class="shutterset_1010" href="http://xirang.us/media/2009/10/Solar_sys.jpg"><img class="size-large wp-image-1017 aligncenter" title="Solar System" src="http://xirang.us/media/2009/10/Solar_sys-600x376.jpg" alt="Solar System" width="600" height="376" /></a></p>
+<p style="text-align: center;"><span style="font-size: small;">美丽的太阳系 (via <a class="shutterset_1010" href="http://zh.wikipedia.org/wiki/File:Solar_sys.jpg" target="_blank">Wikipedia</a>)</span></p>
+<p style="text-align: center;"><a class="shutterset_1010" href="http://xirang.us/media/2009/10/Mercury_transit_2.jpg"><img class="size-large wp-image-1018 aligncenter" title="Mercury Transit" src="http://xirang.us/media/2009/10/Mercury_transit_2-600x600.jpg" alt="Mercury Transit" width="600" height="600" /></a></p>
+<p style="text-align: center;"><span style="font-size: small;">2006年11月8日發生的水星凌日。画面中部偏下的小黑点是水星，</span></p>
+<p style="text-align: center;"><span style="font-size: small;">左边较大的一个黑点和右边的两个黑点是太阳黑子 （via <a class="shutterset_1010" href="http://zh.wikipedia.org/wiki/File:Mercury_transit_2.jpg" target="_blank">Wikipedia</a>）</span></p>
+<p>那么，如果某个具有视力的物体在火星上，看到地球和木星的重合了会是什么样呢？这是一张NASA某航天器于2003年5月8日，从火星的角度拍摄过去的木星和地球交合（Conjunction，不知道用什么中文词翻译合适。想歪了的忏悔去吧）时的照片，地球、月球、木星和木星的三颗卫星同时出现在了一个视野中，蔚为壮观！&#8221;请一定记住点击图片查看巨图，不要错过这壮观景象。 <a href="http://xirang.us/2009/10/earth-and-jupiter-captured-in-the-same-photograph-taken-from-mars#more-1010" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/earth-and-jupiter-captured-in-the-same-photograph-taken-from-mars"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1008 post hentry category-biology category-science tag-228 tag-231 tag-230 tag-229" id="post-1008">
+				<div class="post_comm">
+					<p class="post_date">2009年10月16日</p>
+					<p class="post_author">作者：<span><a href="/author/mufurong666" target="_self">mufurong</a></span></p>
+											<p class="post_comments">热度：<span>2,177 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/the-secret-in-blood-stains#comments" title="血迹里的秘密 上的评论"><span>15 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/the-secret-in-blood-stains" rel="bookmark" title="到这篇文章的永久链接">血迹里的秘密</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/science/biology" title="查看 生命之谜 的全部文章" rel="category tag">生命之谜</a> |  <a href="http://xirang.us/topics/science" title="查看 科学探索 的全部文章" rel="category tag">科学探索</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e5%8c%96%e5%ad%a6" rel="tag">化学</a> | <a href="http://xirang.us/tag/%e5%8c%bb%e5%ad%a6" rel="tag">医学</a> | <a href="http://xirang.us/tag/%e7%8a%af%e7%bd%aa" rel="tag">犯罪</a> | <a href="http://xirang.us/tag/%e9%b2%81%e7%b1%b3%e8%af%ba" rel="tag">鲁米诺</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>我很喜欢看美国探索频道的“新侦探”节目。在节目中有时会出现这样的镜头：有人向警方报告其家人失踪了，警察来做调查，在失踪者家中搜索了一番，并未发现异样。往地上、墙上喷洒试剂，关上百叶窗，却发现地上、墙上有一块块的东西在发蓝光，表明那是血迹。原来失踪者是在家中被杀的，死前大量流血，只不过杀人者把房间清洗过了。你有没有想过警察用的是什么药剂，它为什么能把肉眼看不见的血迹检测出来？</p>
+<p style="text-align: center;"><img src="http://118.98.213.22/choirul/how/l/luminol/luminol-crimescene.jpg" alt="" width="400" height="300" /></p>
+<p style="text-align: center;">肉眼以外的犯罪现场</p>
+<p>警察喷洒的试剂的主要成分是过氧化氢和鲁米诺（<a href="http://adf.ly/i9D" target="_blank">什么是鲁米诺？</a>）。鲁米诺是一种人工合成的有机化合物，早在1853年就被合成出来了。到了1928年，化学家首次发现这种化合物有一个奇妙的特性，它被氧化时能发出蓝光。几年以后，就有人想到利用这种特性去检测血迹。血液中含有血红蛋白，我们从空气中吸入的氧气就是靠这种蛋白质输送到全身各部分的。血红蛋白含有铁，而铁能催化过氧化氢的分解，让过氧化氢变成水和单氧，单氧再氧化鲁米诺让它发光。这种检测方法极为灵敏，能检测只有百万分之一含量的血，即使滴一小滴血到一大缸水中也能被检测出来，由此可知犯罪分子是多么难以把现场清洗干净了。</p>
+<p style="text-align: center;"><img src="http://upload.wikimedia.org/wikipedia/commons/d/d3/Luminol3d.png" alt="" width="400" /></p>
+<p style="text-align: center;">鲁米诺分子结构</p>
+<p> <a href="http://xirang.us/2009/10/the-secret-in-blood-stains#more-1008" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/the-secret-in-blood-stains"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1005 post hentry category-mood category-talking tag-225 tag-227 tag-220 tag-226" id="post-1005">
+				<div class="post_comm">
+					<p class="post_date">2009年10月16日</p>
+					<p class="post_author">作者：<span><a href="/author/hankluo" target="_self">悍客 罗</a></span></p>
+											<p class="post_comments">热度：<span>97 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/cherish#comments" title="该幸福的尚未幸福 ，该珍惜的尽早珍惜 。 上的评论"><span>3 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/cherish" rel="bookmark" title="到这篇文章的永久链接">该幸福的尚未幸福 ，该珍惜的尽早珍惜 。</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/talking/mood" title="查看 心情随笔 的全部文章" rel="category tag">心情随笔</a> |  <a href="http://xirang.us/topics/talking" title="查看 闲趣杂谈 的全部文章" rel="category tag">闲趣杂谈</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e5%88%86%e6%89%8b" rel="tag">分手</a> | <a href="http://xirang.us/tag/%e5%92%8c%e5%a5%bd" rel="tag">和好</a> | <a href="http://xirang.us/tag/%e7%88%b1%e6%83%85" rel="tag">爱情</a> | <a href="http://xirang.us/tag/%e7%bb%93%e5%a9%9a" rel="tag">结婚</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>秋天来了，有人收获，有人伤感，有人看到落叶满径，有人看到天高云淡。</p>
+<p>1、</p>
+<p>小M和男友吵架了。他们都很难过，无所谓谁对谁错，起因不过是小小的说话方式，却似滚雪球般，话题越扯越远——女孩觉得他对她不公平，不够平等，总是想安排她的生活；她想要一个独立的恋人，又不愿他自私；她想要他对她好，又不想他一味迁就；她不嫌他家庭条件不好，但担心他给不了安全感；她可以一直批评他不好，却又不忍心对他不好。</p>
+<p>他们也许还要吵架，还要讲和，还要纠缠于现实和理想的差距，纠缠于性格和情绪的漩涡；某人可以像个老师一样讲道理，却永远在劝人的时候不知所措；他的踌躇满志，总是在直白的现实面前显得不切实际；她的坦白直接，总是因为过于关心显得不够含蓄体贴。</p>
+<p>“当我痛苦地站在你的面前 ，你不能说我一无所有，你不能说我两手空空。”</p>
+<p>——至少我还拥有你，至少还有你在我的心里。</p>
+<p>2、</p>
+<p>小X和男友和好了。严格地说应该是又一次和好如初，但他们都知道一切回不去了。两个人都是好强的人，都是急脾气，都是说话不留余地。始终是侦查与反侦查，跟踪与反跟踪，盘问与反盘问。也许生活就是斗争，日子就是潜伏，每个男人成长的过程就像士兵突击——不经历八十一难，永远也见不到如来佛祖的疙瘩头。</p>
+<p>他们还要继续斗嘴，继续闹气，也许这就是生活——嗯，不仅生，而且活着。</p>
+<p>“风后面是风，天空上面是天空，道路前面还是道路。”</p>
+<p>就像院子里的两棵树，一棵是枣树，另一棵还是枣树。 <a href="http://xirang.us/2009/10/cherish#more-1005" class="more-link"><strong>挺有意思，往下瞧瞧 &raquo;</strong></a>
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/cherish"></div>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+		
+			<div class="post-1004 post hentry category-mood category-talking tag-223" id="post-1004">
+				<div class="post_comm">
+					<p class="post_date">2009年10月16日</p>
+					<p class="post_author">作者：<span><a href="/author/hankluo" target="_self">悍客 罗</a></span></p>
+											<p class="post_comments">热度：<span>90 °C</span></p>
+										<p class="post_comments">噪音：<a href="http://xirang.us/2009/10/i-have-a-teacher#comments" title="我有一个老师 上的评论"><span>7 分贝<span></a></p>
+				</div>
+                <div class="post_top">
+                    <div class="post_title">
+                        <h2><a href="http://xirang.us/2009/10/i-have-a-teacher" rel="bookmark" title="到这篇文章的永久链接">我有一个老师</a></h2>
+						<p class="post_cats">分类：<span><a href="http://xirang.us/topics/talking/mood" title="查看 心情随笔 的全部文章" rel="category tag">心情随笔</a> |  <a href="http://xirang.us/topics/talking" title="查看 闲趣杂谈 的全部文章" rel="category tag">闲趣杂谈</a>&nbsp;&nbsp;标签：<a href="http://xirang.us/tag/%e8%80%81%e5%b8%88" rel="tag">老师</a></p>
+                    </div>
+                </div>
+				<div class="entry">
+					<p>他好像谁都不尊敬，但却最受人尊敬；他好像什么都不在乎，但却最被人在乎。</p>
+<p>他教高中政治，他可以一边照着课本讲三个代表，一边跟学生介绍8.9×6.4；一边讲着科学发展观，一边强调腐败亡国；一边勾画着考试重点，一边咒骂害人的考试制度。</p>
+<p>他几乎玩世不恭，不会争权夺势；几乎穷困潦倒，不会敛财致富；几乎理想主义，不会现实无情；他做人太柔，所以连儿子都管不住；他对人太好，所以即使被他骂的学生也喜欢他；他太讲原则，所以没人找他求情。</p>
+<p>但他只是一个老师，兢兢业业教着高中政治；所以他不会收取学生家长的钱，不懂生财之道；他帮弟弟开了家小饭馆，也只能自己动手亲自跑堂；他经常无奈于制度束缚，却只能骂骂而已。</p>
+<p>幸而他是一个好老师，也许他的学生不是分数最高的，但至少他们会独立思考，他们会坚持原则，他们会相信未来；他们会像我一样，在某个无聊的月圆之夜，会突然想起自己还有这样一个老师，然后不经意的会心一笑。
+<div class="linkwithin_hook" id="http://xirang.us/2009/10/i-have-a-teacher"></div>
+<p><script>
+<!-- //LinkWithinCodeStart
+    var linkwithin_site_id = 47742;
+    (function () {
+        var elem = document.createElement('script');
+        elem.type = 'text/javascript';
+        elem.src = 'http://www.linkwithin.com/widget.js?rand=' + Math.random();
+        document.getElementsByTagName('head')[0].appendChild(elem);
+     })();
+//LinkWithinCodeEnd -->
+</script></p>
+				</div>
+                <div class="postmetadata">
+					<hr size="2" color="#bd1016"/>
+                </div>
+			</div>
+
+				
+		<div class="entry">
+					</div>
+	
+				<!-- navigation -->
+		<div class="navigation">
+			<div class="wp-pagenavi">
+<span class="pages">第1页 共10页</span><span class="current">1</span><a href="http://xirang.us/page/2" class="page" title="2">2</a><a href="http://xirang.us/page/3" class="page" title="3">3</a><a href="http://xirang.us/page/4" class="page" title="4">4</a><a href="http://xirang.us/page/5" class="page" title="5">5</a><a href="http://xirang.us/page/2" >下一页</a><span class="extend">...</span><a href="http://xirang.us/page/10" class="last" title="末页 &raquo;">末页 &raquo;</a></div>
+		</div>
+		<!-- /navigation -->
+		
+	
+	</div>
+	
+		<div id="sidebar">
+				<div class="sidebar_widgets">
+			<ul>
+	<!--		<li class="sidebar_authors">
+				<p class="widgettitle">热烈欢迎新作者入驻</p>
+				<table width="100%"><tbody>
+					<tr>
+							
+							<td align="center"><a href="/author/coolmax"><img alt='' src='http://www.gravatar.com/avatar/539b32bb0989bf48f01c7e1c30718510?s=120&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D120&amp;r=R' class='avatar avatar-120 photo' height='120' width='120' /></a><br/><a href="/author/coolmax">Coolmax</a></td>
+					</tr>
+				</tbody></table>
+			</li>-->
+			<li class="sidebar_authors">
+			<p class="widgettitle">本站作者群</p>
+			<table width="100%"><tbody>
+				<tr>
+						<td align="center"><a href="/author/tim"><img alt='' src='http://www.gravatar.com/avatar/6f9a9d5526438d3a59313a2603020217?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/tim">Tim</a> <a href="/r.php?t=t&id=tim" target="_blank"><img style="border:0;vertical-align:middle;width:16px;height:16px" src="http://wpzh.googlecode.com/files/favicon.ico"></a></td>
+						<td align="center"><a href="/author/Iris"><img alt='' src='http://www.gravatar.com/avatar/1c8376bb9edf24c854dbf6764116a410?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/Iris">Iris</a></td>
+						<td align="center"><a href="/author/lisa"><img alt='' src='http://www.gravatar.com/avatar/629b1326a5402244fe4413d44b6bc2ed?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/lisa">Lisa</a> <a href="http://blog.sina.com.cn/lisa0713" target="_blank"><img style="border:0;vertical-align:middle;width:16px;height:16px" src="http://wpzh.googlecode.com/files/sina.ico"></a></td>
+				</tr><tr>
+						<td align="center"><a href="/author/gxsbest"><img alt='' src='http://www.gravatar.com/avatar/74db4cabe5e7b579ec5d5eafce8d2d52?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/gxsbest">郭老大</a></td>
+						<td align="center"><a href="/author/Herman"><img alt='' src='http://www.gravatar.com/avatar/a9cb8d72a5d2b193e002c097009159c8?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/Herman">Herman</a></td>
+						<td align="center"><a href="/author/abx017"><img alt='' src='http://www.gravatar.com/avatar/11800c36bed915c72ea56cccbdd521ec?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/abx017">阿饼</a></td>
+				</tr><tr>
+						<td align="center"><a href="/author/wxcrazy"><img alt='' src='http://www.gravatar.com/avatar/957c8b1623a7f1eae16aae777eba21dd?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/wxcrazy">Felix</a></td>
+						<td align="center"><a href="/author/yolanda"><img alt='' src='http://www.gravatar.com/avatar/ce72615e312892d6e57887ba4cebb1b1?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/yolanda">Yolanda.</a></td>
+						<td align="center"><a href="/author/horf"><img alt='' src='http://www.gravatar.com/avatar/076dc4b25bbf2081596f14c0e6f8a073?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/horf">horf</a></td>
+				</tr><tr>
+						<td align="center"><a href="/author/tans"><img alt='' src='http://www.gravatar.com/avatar/a9be152de91fdc3d87c7e005bd7b4e59?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/tans">谭一一</a></td>
+						<td align="center"><a href="/author/goodluck7"><img alt='' src='http://www.gravatar.com/avatar/9db9510197f2aa6495796891696e4a67?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/goodluck7">七克拉</a></td>
+						<td align="center"><a href="/author/DraRaJa"><img alt='' src='http://www.gravatar.com/avatar/e7a4fac156bcbd46bd72c6cc179c6e13?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/DraRaJa">DraRaJa</a></td>
+				</tr><tr>
+						<td align="center"><a href="/author/hankluo"><img alt='' src='http://www.gravatar.com/avatar/d814490920c20de6348e944f83b45eab?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/hankluo">悍客罗</a><a href="http://hankluo.blogbus.com" target="_blank"><img style="border:0;vertical-align:middle;width:16px;height:16px" src="http://hankluo.blogbus.com/favicon.ico"></a><a href="mailto:hankluo1987@gmail.com" target="_blank"><img style="border:0;vertical-align:middle;" src="https://mail.google.com/favicon.ico"></a></td>
+						<td align="center"><a href="/author/mufurong666"><img alt='' src='http://www.gravatar.com/avatar/67d17e002146ebaa26ddf99bc6df9bcd?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/author/mufurong666">mufurong</a></td>
+						<td align="center"><a href="/become-an-author"><img alt='' src='http://www.gravatar.com/avatar/07a5e34fd73c70758eb12555b302c2d5?s=82&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D82&amp;r=R' class='avatar avatar-82 photo' height='82' width='82' /></a><br/><a href="/become-an-author">成为作者</a></td>
+				</tr>
+			</tbody></table>
+		</li>
+				        <li id="wp-cumulus" class="widget wp_cumulus_widget">							<h2 class="widgettitle">标签浑天仪</h2>						<!-- SWFObject embed by Geoff Stearns geoff@deconcept.com http://blog.deconcept.com/swfobject/ --><script type="text/javascript" src="http://xirang.us/wp-content/plugins/wp-cumulus/swfobject.js"></script><div id="wpcumuluswidgetcontent3023003"><p><a href='http://xirang.us/tag/google' class='tag-link-92' title='3个主题' rel="tag" style='font-size: 9pt;'>Google</a>
+<a href='http://xirang.us/tag/linux' class='tag-link-31' title='2个主题' rel="tag" style='font-size: 8pt;'>Linux</a>
+<a href='http://xirang.us/tag/map' class='tag-link-96' title='2个主题' rel="tag" style='font-size: 8pt;'>Map</a>
+<a href='http://xirang.us/tag/microsoft' class='tag-link-122' title='2个主题' rel="tag" style='font-size: 8pt;'>Microsoft</a>
+<a href='http://xirang.us/tag/qt' class='tag-link-165' title='2个主题' rel="tag" style='font-size: 8pt;'>Qt</a>
+<a href='http://xirang.us/tag/twitter' class='tag-link-18' title='2个主题' rel="tag" style='font-size: 8pt;'>Twitter</a>
+<a href='http://xirang.us/tag/windows' class='tag-link-11' title='5个主题' rel="tag" style='font-size: 11pt;'>Windows</a>
+<a href='http://xirang.us/tag/wordpress' class='tag-link-114' title='4个主题' rel="tag" style='font-size: 10pt;'>WordPress</a>
+<a href='http://xirang.us/tag/%e4%b8%ad%e5%9b%bd' class='tag-link-184' title='2个主题' rel="tag" style='font-size: 8pt;'>中国</a>
+<a href='http://xirang.us/tag/%e4%b8%ad%e5%9b%bd%e6%96%87%e5%ad%a6' class='tag-link-70' title='4个主题' rel="tag" style='font-size: 10pt;'>中国文学</a>
+<a href='http://xirang.us/tag/%e4%b8%ad%e6%96%87' class='tag-link-20' title='2个主题' rel="tag" style='font-size: 8pt;'>中文</a>
+<a href='http://xirang.us/tag/%e4%b8%ad%e7%a7%8b' class='tag-link-205' title='2个主题' rel="tag" style='font-size: 8pt;'>中秋</a>
+<a href='http://xirang.us/tag/%e4%bd%93%e8%82%b2' class='tag-link-50' title='2个主题' rel="tag" style='font-size: 8pt;'>体育</a>
+<a href='http://xirang.us/tag/%e5%88%9b%e4%bd%9c%e5%9e%8b%e6%ad%8c%e6%89%8b' class='tag-link-66' title='2个主题' rel="tag" style='font-size: 8pt;'>创作型歌手</a>
+<a href='http://xirang.us/tag/%e5%8e%86%e5%8f%b2' class='tag-link-101' title='4个主题' rel="tag" style='font-size: 10pt;'>历史</a>
+<a href='http://xirang.us/tag/%e5%9b%be%e5%83%8f%e5%a4%84%e7%90%86' class='tag-link-169' title='2个主题' rel="tag" style='font-size: 8pt;'>图像处理</a>
+<a href='http://xirang.us/tag/%e5%9f%8e%e5%b8%82' class='tag-link-133' title='7个主题' rel="tag" style='font-size: 13pt;'>城市</a>
+<a href='http://xirang.us/tag/%e5%a4%9c%e8%89%b2' class='tag-link-134' title='2个主题' rel="tag" style='font-size: 8pt;'>夜色</a>
+<a href='http://xirang.us/tag/%e5%a4%a9%e6%96%87' class='tag-link-80' title='9个主题' rel="tag" style='font-size: 15pt;'>天文</a>
+<a href='http://xirang.us/tag/%e5%ae%9e%e7%94%a8%e7%bd%91%e7%ab%99' class='tag-link-113' title='7个主题' rel="tag" style='font-size: 13pt;'>实用网站</a>
+<a href='http://xirang.us/tag/%e5%b7%a5%e5%85%b7%e8%bd%af%e4%bb%b6' class='tag-link-84' title='3个主题' rel="tag" style='font-size: 9pt;'>工具软件</a>
+<a href='http://xirang.us/tag/%e5%b9%bf%e5%91%8a' class='tag-link-127' title='4个主题' rel="tag" style='font-size: 10pt;'>广告</a>
+<a href='http://xirang.us/tag/%e5%bb%ba%e7%ad%91' class='tag-link-173' title='2个主题' rel="tag" style='font-size: 8pt;'>建筑</a>
+<a href='http://xirang.us/tag/%e6%80%80%e6%97%a7' class='tag-link-47' title='2个主题' rel="tag" style='font-size: 8pt;'>怀旧</a>
+<a href='http://xirang.us/tag/%e6%81%b6%e6%90%9e' class='tag-link-48' title='7个主题' rel="tag" style='font-size: 13pt;'>恶搞</a>
+<a href='http://xirang.us/tag/%e6%8d%a7%e5%9c%ba' class='tag-link-46' title='4个主题' rel="tag" style='font-size: 10pt;'>捧场</a>
+<a href='http://xirang.us/tag/%e6%91%84%e5%bd%b1' class='tag-link-58' title='16个主题' rel="tag" style='font-size: 22pt;'>摄影</a>
+<a href='http://xirang.us/tag/%e6%96%87%e5%8c%96' class='tag-link-82' title='4个主题' rel="tag" style='font-size: 10pt;'>文化</a>
+<a href='http://xirang.us/tag/%e6%97%85%e8%a1%8c' class='tag-link-172' title='2个主题' rel="tag" style='font-size: 8pt;'>旅行</a>
+<a href='http://xirang.us/tag/%e6%97%a5%e9%a3%9f' class='tag-link-100' title='5个主题' rel="tag" style='font-size: 11pt;'>日食</a>
+<a href='http://xirang.us/tag/%e6%ac%a7%e7%be%8e%e9%9f%b3%e4%b9%90' class='tag-link-65' title='2个主题' rel="tag" style='font-size: 8pt;'>欧美音乐</a>
+<a href='http://xirang.us/tag/%e6%b0%91%e7%94%9f' class='tag-link-29' title='3个主题' rel="tag" style='font-size: 9pt;'>民生</a>
+<a href='http://xirang.us/tag/%e7%88%b1%e6%83%85' class='tag-link-220' title='3个主题' rel="tag" style='font-size: 9pt;'>爱情</a>
+<a href='http://xirang.us/tag/%e7%94%9f%e6%b4%bb' class='tag-link-109' title='14个主题' rel="tag" style='font-size: 20pt;'>生活</a>
+<a href='http://xirang.us/tag/%e7%a4%be%e4%bc%9a%e5%ad%a6' class='tag-link-190' title='2个主题' rel="tag" style='font-size: 8pt;'>社会学</a>
+<a href='http://xirang.us/tag/%e7%ae%80%e7%b9%81%e8%bd%ac%e6%8d%a2' class='tag-link-21' title='2个主题' rel="tag" style='font-size: 8pt;'>简繁转换</a>
+<a href='http://xirang.us/tag/%e7%bb%98%e7%94%bb' class='tag-link-247' title='3个主题' rel="tag" style='font-size: 9pt;'>绘画</a>
+<a href='http://xirang.us/tag/%e7%bb%b4%e5%9f%ba%e7%99%be%e7%a7%91' class='tag-link-22' title='2个主题' rel="tag" style='font-size: 8pt;'>维基百科</a>
+<a href='http://xirang.us/tag/%e7%bd%91%e7%90%83' class='tag-link-174' title='2个主题' rel="tag" style='font-size: 8pt;'>网球</a>
+<a href='http://xirang.us/tag/%e7%bd%91%e7%bb%9c%e8%bd%af%e4%bb%b6' class='tag-link-88' title='4个主题' rel="tag" style='font-size: 10pt;'>网络软件</a>
+<a href='http://xirang.us/tag/%e7%be%8e%e9%a3%9f' class='tag-link-128' title='2个主题' rel="tag" style='font-size: 8pt;'>美食</a>
+<a href='http://xirang.us/tag/%e8%a7%86%e9%a2%91' class='tag-link-123' title='9个主题' rel="tag" style='font-size: 15pt;'>视频</a>
+<a href='http://xirang.us/tag/%e8%af%97%e6%ad%8c' class='tag-link-71' title='3个主题' rel="tag" style='font-size: 9pt;'>诗歌</a>
+<a href='http://xirang.us/tag/%e8%af%ad%e8%a8%80%e6%96%87%e5%ad%97' class='tag-link-69' title='3个主题' rel="tag" style='font-size: 9pt;'>语言文字</a>
+<a href='http://xirang.us/tag/%e9%a6%99%e6%b8%af' class='tag-link-185' title='7个主题' rel="tag" style='font-size: 13pt;'>香港</a></p><p>WP Cumulus Flash tag cloud by <a href="http://www.roytanck.com">Roy Tanck</a> requires Flash Player 9 or better.</p></div><script type="text/javascript">var widget_so2127557 = new SWFObject("http://xirang.us/wp-content/plugins/wp-cumulus/tagcloud.swf?r=3635056", "tagcloudflash", "276", "276", "9", "#F3F3F3");widget_so2127557.addParam("wmode", "transparent");widget_so2127557.addParam("allowScriptAccess", "always");widget_so2127557.addVariable("tcolor", "0xbd1016");widget_so2127557.addVariable("tcolor2", "0x808080");widget_so2127557.addVariable("hicolor", "0x0065FF");widget_so2127557.addVariable("tspeed", "100");widget_so2127557.addVariable("distr", "true");widget_so2127557.addVariable("mode", "tags");widget_so2127557.addVariable("tagcloud", "%3Ctags%3E%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fgoogle%27+class%3D%27tag-link-92%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3EGoogle%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Flinux%27+class%3D%27tag-link-31%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3ELinux%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fmap%27+class%3D%27tag-link-96%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3EMap%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fmicrosoft%27+class%3D%27tag-link-122%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3EMicrosoft%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fqt%27+class%3D%27tag-link-165%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3EQt%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Ftwitter%27+class%3D%27tag-link-18%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3ETwitter%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fwindows%27+class%3D%27tag-link-11%27+title%3D%275%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+11pt%3B%27%3EWindows%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2Fwordpress%27+class%3D%27tag-link-114%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3EWordPress%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e4%25b8%25ad%25e5%259b%25bd%27+class%3D%27tag-link-184%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E4%B8%AD%E5%9B%BD%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e4%25b8%25ad%25e5%259b%25bd%25e6%2596%2587%25e5%25ad%25a6%27+class%3D%27tag-link-70%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E4%B8%AD%E5%9B%BD%E6%96%87%E5%AD%A6%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e4%25b8%25ad%25e6%2596%2587%27+class%3D%27tag-link-20%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E4%B8%AD%E6%96%87%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e4%25b8%25ad%25e7%25a7%258b%27+class%3D%27tag-link-205%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E4%B8%AD%E7%A7%8B%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e4%25bd%2593%25e8%2582%25b2%27+class%3D%27tag-link-50%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E4%BD%93%E8%82%B2%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%2588%259b%25e4%25bd%259c%25e5%259e%258b%25e6%25ad%258c%25e6%2589%258b%27+class%3D%27tag-link-66%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E5%88%9B%E4%BD%9C%E5%9E%8B%E6%AD%8C%E6%89%8B%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%258e%2586%25e5%258f%25b2%27+class%3D%27tag-link-101%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E5%8E%86%E5%8F%B2%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%259b%25be%25e5%2583%258f%25e5%25a4%2584%25e7%2590%2586%27+class%3D%27tag-link-169%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%259f%258e%25e5%25b8%2582%27+class%3D%27tag-link-133%27+title%3D%277%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+13pt%3B%27%3E%E5%9F%8E%E5%B8%82%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25a4%259c%25e8%2589%25b2%27+class%3D%27tag-link-134%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E5%A4%9C%E8%89%B2%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25a4%25a9%25e6%2596%2587%27+class%3D%27tag-link-80%27+title%3D%279%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+15pt%3B%27%3E%E5%A4%A9%E6%96%87%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25ae%259e%25e7%2594%25a8%25e7%25bd%2591%25e7%25ab%2599%27+class%3D%27tag-link-113%27+title%3D%277%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+13pt%3B%27%3E%E5%AE%9E%E7%94%A8%E7%BD%91%E7%AB%99%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25b7%25a5%25e5%2585%25b7%25e8%25bd%25af%25e4%25bb%25b6%27+class%3D%27tag-link-84%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E5%B7%A5%E5%85%B7%E8%BD%AF%E4%BB%B6%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25b9%25bf%25e5%2591%258a%27+class%3D%27tag-link-127%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E5%B9%BF%E5%91%8A%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e5%25bb%25ba%25e7%25ad%2591%27+class%3D%27tag-link-173%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E5%BB%BA%E7%AD%91%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2580%2580%25e6%2597%25a7%27+class%3D%27tag-link-47%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E6%80%80%E6%97%A7%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2581%25b6%25e6%2590%259e%27+class%3D%27tag-link-48%27+title%3D%277%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+13pt%3B%27%3E%E6%81%B6%E6%90%9E%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%258d%25a7%25e5%259c%25ba%27+class%3D%27tag-link-46%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E6%8D%A7%E5%9C%BA%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2591%2584%25e5%25bd%25b1%27+class%3D%27tag-link-58%27+title%3D%2716%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+22pt%3B%27%3E%E6%91%84%E5%BD%B1%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2596%2587%25e5%258c%2596%27+class%3D%27tag-link-82%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E6%96%87%E5%8C%96%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2597%2585%25e8%25a1%258c%27+class%3D%27tag-link-172%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E6%97%85%E8%A1%8C%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%2597%25a5%25e9%25a3%259f%27+class%3D%27tag-link-100%27+title%3D%275%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+11pt%3B%27%3E%E6%97%A5%E9%A3%9F%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%25ac%25a7%25e7%25be%258e%25e9%259f%25b3%25e4%25b9%2590%27+class%3D%27tag-link-65%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E6%AC%A7%E7%BE%8E%E9%9F%B3%E4%B9%90%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e6%25b0%2591%25e7%2594%259f%27+class%3D%27tag-link-29%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E6%B0%91%E7%94%9F%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%2588%25b1%25e6%2583%2585%27+class%3D%27tag-link-220%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E7%88%B1%E6%83%85%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%2594%259f%25e6%25b4%25bb%27+class%3D%27tag-link-109%27+title%3D%2714%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+20pt%3B%27%3E%E7%94%9F%E6%B4%BB%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25a4%25be%25e4%25bc%259a%25e5%25ad%25a6%27+class%3D%27tag-link-190%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E7%A4%BE%E4%BC%9A%E5%AD%A6%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25ae%2580%25e7%25b9%2581%25e8%25bd%25ac%25e6%258d%25a2%27+class%3D%27tag-link-21%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E7%AE%80%E7%B9%81%E8%BD%AC%E6%8D%A2%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25bb%2598%25e7%2594%25bb%27+class%3D%27tag-link-247%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E7%BB%98%E7%94%BB%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25bb%25b4%25e5%259f%25ba%25e7%2599%25be%25e7%25a7%2591%27+class%3D%27tag-link-22%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25bd%2591%25e7%2590%2583%27+class%3D%27tag-link-174%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E7%BD%91%E7%90%83%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25bd%2591%25e7%25bb%259c%25e8%25bd%25af%25e4%25bb%25b6%27+class%3D%27tag-link-88%27+title%3D%274%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+10pt%3B%27%3E%E7%BD%91%E7%BB%9C%E8%BD%AF%E4%BB%B6%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e7%25be%258e%25e9%25a3%259f%27+class%3D%27tag-link-128%27+title%3D%272%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+8pt%3B%27%3E%E7%BE%8E%E9%A3%9F%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e8%25a7%2586%25e9%25a2%2591%27+class%3D%27tag-link-123%27+title%3D%279%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+15pt%3B%27%3E%E8%A7%86%E9%A2%91%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e8%25af%2597%25e6%25ad%258c%27+class%3D%27tag-link-71%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E8%AF%97%E6%AD%8C%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e8%25af%25ad%25e8%25a8%2580%25e6%2596%2587%25e5%25ad%2597%27+class%3D%27tag-link-69%27+title%3D%273%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+9pt%3B%27%3E%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%3C%2Fa%3E%0A%3Ca+href%3D%27http%3A%2F%2Fxirang.us%2Ftag%2F%25e9%25a6%2599%25e6%25b8%25af%27+class%3D%27tag-link-185%27+title%3D%277%E4%B8%AA%E4%B8%BB%E9%A2%98%27+rel%3D%22tag%22+style%3D%27font-size%3A+13pt%3B%27%3E%E9%A6%99%E6%B8%AF%3C%2Fa%3E%3C%2Ftags%3E");widget_so2127557.write("wpcumuluswidgetcontent3023003");</script>	        </li>		<li id="popular-posts" class="widget widget_popular_posts"><h2 class="widgettitle">本月十大热门文章</h2>
+<ul><!-- Wordpress Popular Posts Plugin v1.5.0 -->
+<li><a href="http://xirang.us/2009/10/china-60th-anniversary-national-day-in-timelapse-and-slow-motion" title="单反镜头下的浓缩高清国庆阅兵大典"><span class="wpp-post-title">单反镜头下的浓缩高清国庆阅兵大典</span></a> </li>
+<li><a href="http://xirang.us/2009/09/miranda-im-7-in-1" title="多协议即时通讯软件 Miranda IM 七合一美化增强版"><span class="wpp-post-title">多协议即时通讯软件 Miranda IM 七合一美化增强版</span></a> </li>
+<li><a href="http://xirang.us/2009/09/15-places-for-you-to-have-fun-with-your-photos" title="15个给照片找乐子的地方"><span class="wpp-post-title">15个给照片找乐子的地方</span></a> </li>
+<li><a href="http://xirang.us/2009/09/love-muji" title="MUJI的哲学——浮躁世界的一点清风"><span class="wpp-post-title">MUJI的哲学——浮躁世界的一点清风</span></a> </li>
+<li><a href="http://xirang.us/2009/09/experience-hongkong-hosptial" title="香港看病之特殊体验"><span class="wpp-post-title">香港看病之特殊体验</span></a> </li>
+<li><a href="http://xirang.us/2009/10/chance-and-certainty-in-the-philosophy-and-science" title="美妙的六度分隔理论（二）——偶然与必然中的哲学与科学"><span class="wpp-post-title">美妙的六度分隔理论（二）——偶然与必然中的哲学与科学</span></a> </li>
+<li><a href="http://xirang.us/2009/08/the-mist-of-the-night" title="那些迷离的夜色"><span class="wpp-post-title">那些迷离的夜色</span></a> </li>
+<li><a href="http://xirang.us/2009/09/install-windows-7-from-hdd-by-win-pe" title="利用Win PE不刻盘为裸机安装Windows 7"><span class="wpp-post-title">利用Win PE不刻盘为裸机安装Windows 7</span></a> </li>
+<li><a href="http://xirang.us/2009/09/china-prepares-for-its-60th-anniversary" title="来自《波士顿环球报》的精彩图片报道——中国六十周年国庆恢宏前奏"><span class="wpp-post-title">来自《波士顿环球报》的精彩图片报道——中国六十周年国庆恢宏前奏</span></a> </li>
+<li><a href="http://xirang.us/2009/08/advertisement-is-an-art-omax-wide-angle-lens" title="广告是一门艺术：偷窥的最高境界！"><span class="wpp-post-title">广告是一门艺术：偷窥的最高境界！</span></a> </li>
+
+</ul><!-- End Wordpress Popular Posts Plugin v1.5.0 -->
+</li><li id="recentcomments" class="widget widget_recentcomments"><h2 class="widgettitle">最新制造的噪音</h2><ul><li id="rc_item_1" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/21c1976a0138ca52bfd7ee15118b366d?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://blog.chenyi1976.com' rel='external nofollow' class='url'>chenyi1976</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#comment-1494">《TinEye：相似图片搜索引擎》</a></span></div><div class="rc_excerpt">TinEye提供FireFox的插件，在网上看到图片，右键菜单Search Image On ... <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1494,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_2" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/1c8376bb9edf24c854dbf6764116a410?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name">Iris</span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#comment-1492">《TinEye：相似图片搜索引擎》</a></span></div><div class="rc_excerpt">哇~~TIM,快出来看你兄弟!!还是一只帅的~~~ <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1492,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_3" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/b17136d216a1d04734b5406b1105a3fa?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name">Sunsan_5</span> 发表于 <span class="post_title"><a href="http://xirang.us/help/please-use-none-ie-browser#comment-1491">《请使用非IE浏览器》</a></span></div><div class="rc_excerpt">大陆计算机教育水平低下得来让很多人认为“浏览器 == IE”，真是悲哀啊同感。。他们甚至以为I... <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1491,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_4" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/ba55828c6fb42edc04ffc437d4e98a51?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://www.ggspot.com' rel='external nofollow' class='url'>帅青蛙</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#comment-1490">《TinEye：相似图片搜索引擎》</a></span></div><div class="rc_excerpt">挺好玩的。 <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1490,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_5" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/1c8376bb9edf24c854dbf6764116a410?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name">Iris</span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/details-of-hk-3#comment-1489">《小细节看香港（三）——高架下的风景》</a></span></div><div class="rc_excerpt">有可能，貌似附近有个幼儿园 <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1489,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_6" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/6f9a9d5526438d3a59313a2603020217?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://xirang.us' rel='external nofollow' class='url'>Tim</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/details-of-hk-3#comment-1488">《小细节看香港（三）——高架下的风景》</a></span></div><div class="rc_excerpt">“觅食”？这个动词前面的主语好像应该是动物吧？的确很童趣、很梦幻。有个问题，是不是HK幼儿园的... <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1488,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_7" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/6f9a9d5526438d3a59313a2603020217?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://xirang.us' rel='external nofollow' class='url'>Tim</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/10/tinyeye-search-for-similar-images#comment-1487">《TinEye：相似图片搜索引擎》</a></span></div><div class="rc_excerpt">就是啊，一人每天发一篇，我都审不过来。这个要问题要研究研究，感谢提醒 <img src='http://xirang.us/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' />  <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1487,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_8" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/6f9a9d5526438d3a59313a2603020217?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://xirang.us' rel='external nofollow' class='url'>Tim</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/07/man-should-travel-across-the-great-firewall#comment-1486">《不翻“长城”非好汉》</a></span></div><div class="rc_excerpt">关键是很多IT盲连什么是代理服务器，如何改浏览器的代理设置都不知道。 <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1486,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_9" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/6f9a9d5526438d3a59313a2603020217?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name"><a href='http://xirang.us' rel='external nofollow' class='url'>Tim</a></span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/09/love-muji#comment-1485">《MUJI的哲学——浮躁世界的一点清风》</a></span></div><div class="rc_excerpt">比尔·盖茨不做笔记本……投胎给惠普。 <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1485,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_item_10" class="rc_item"><div class="rc_avatar rc_right"><img alt='' src='http://www.gravatar.com/avatar/1c8376bb9edf24c854dbf6764116a410?s=36&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D36&amp;r=R' class='avatar avatar-36 photo' height='36' width='36' /></div><div class="rc_info"><span class="author_name">Iris</span> 发表于 <span class="post_title"><a href="http://xirang.us/2009/09/love-muji#comment-1483">《MUJI的哲学——浮躁世界的一点清风》</a></span></div><div class="rc_excerpt">汗！！控那个！！俺投胎到比尔盖茨家还差不多~~~ <span class="rc_expand"><a href="javascript:void(0);" onclick="RCJS.detail(1483,'http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',0,'正在加载');">&raquo;</a></span></div></li><li id="rc_nav"><div><div id="rc_older"><a href="javascript:void(0);" onclick="RCJS.page('http://xirang.us','limit--10|length--47|post--true|pingback--false|trackback--false|avatar--true|avatar_size--36|avatar_position--right|avatar_default--|navigator--true|administrator--true|smilies--true',10,'正在加载');">下一页 &raquo;</a></div><div class="rc_fixed"></div></div></li></ul></li>				<li class="widget widget_text"><h2 class="widgettitle">Google朋友群</h2>
+					<ul>
+						<center><script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
+						<div id="div-4562453037845672814" style="width:252px;border:1px solid #bd1016;"></div>
+						<script type="text/javascript">
+						var skin = {};
+						skin['FONT_FAMILY'] = 'verdana,sans-serif';
+						skin['BORDER_COLOR'] = '#bd1016';
+						skin['ENDCAP_BG_COLOR'] = '#bd1016';
+						skin['ENDCAP_TEXT_COLOR'] = '#000000';
+						skin['ENDCAP_LINK_COLOR'] = '#ffffff';
+						skin['ALTERNATE_BG_COLOR'] = '#transparent';
+						skin['CONTENT_BG_COLOR'] = 'transparent';
+						skin['CONTENT_LINK_COLOR'] = '#bd1016';
+						skin['CONTENT_TEXT_COLOR'] = '#000000';
+						skin['CONTENT_SECONDARY_LINK_COLOR'] = '#bd1016';
+						skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#000000';
+						skin['CONTENT_HEADLINE_COLOR'] = '#000000';
+						skin['NUMBER_ROWS'] = '6';
+						google.friendconnect.container.setParentUrl('/');
+						google.friendconnect.container.renderMembersGadget(
+						 { id: 'div-4562453037845672814',
+						   site: '00918908813653461250' },
+						  skin);
+						</script><div id="div-3670221089513204973" style="width:252px;border:1px solid #bd1016;"></div>
+						<script type="text/javascript">
+						var skin = {};
+						skin['FONT_FAMILY'] = 'verdana,sans-serif';
+						skin['BORDER_COLOR'] = '#bd1016';
+						skin['ENDCAP_BG_COLOR'] = '#bd1016';
+						skin['ENDCAP_TEXT_COLOR'] = '#ffffff';
+						skin['ENDCAP_LINK_COLOR'] = '#ffffff';
+						skin['ALTERNATE_BG_COLOR'] = '#transparent';
+						skin['CONTENT_BG_COLOR'] = 'transparent';
+						skin['CONTENT_LINK_COLOR'] = '#bd1016';
+						skin['CONTENT_TEXT_COLOR'] = '#000000';
+						skin['CONTENT_SECONDARY_LINK_COLOR'] = '#bd1016';
+						skin['CONTENT_SECONDARY_TEXT_COLOR'] = '#000000';
+						skin['CONTENT_HEADLINE_COLOR'] = '#000000';
+						skin['DEFAULT_COMMENT_TEXT'] = '- IF YOU SEE SOMETHING, SAY SOMETHING. -';
+						skin['HEADER_TEXT'] = '\u8bf4\u70b9\u4ec0\u4e48\u5427';
+						skin['POSTS_PER_PAGE'] = '5';
+						google.friendconnect.container.setParentUrl('/');
+						google.friendconnect.container.renderWallGadget(
+						 { id: 'div-3670221089513204973',
+						   site: '00918908813653461250',
+						   'view-params':{"disableMinMax":"false","scope":"ID","allowAnonymousPost":"true","docId":"1","startMaximized":"true"}
+						 },
+						  skin);
+						</script>
+						</center>
+					</ul>
+				</li>	
+				<li class="widget widget_links"><h2 class="widgettitle">技术改变生活</h2> 
+					<ul> 
+						<li><a href="http://qydw.blogspot.com" target="_blank">起义队电脑资源库</a></li>
+						<li><a href="http://dddspace.cn" target="_blank">DDD的一亩三分地 | 技术改变世界，创新驱动中国</a></li>
+						<li><a href="http://www.turbozv.com" target="_blank">飘渺峰 | 高处不胜寒</a></li>
+						<li><a href="http://andy.diimii.com" target="_blank">時間不等於金錢 | 不想被金錢控制，就要會控制時間</a></li>
+					</ul> 
+				</li>
+				<li class="widget widget_links"><h2 class="widgettitle">创意美化生活</h2> 
+					<ul> 
+						<li><a href="http://airuan.net" target="_blank">爱软 | 爱生活，爱软件</a></li>
+						<li><a href="http://sudasuta.com" target="_blank">苏打苏塔 | 设计量贩铺</a></li>
+						<li><a href="http://www.closhow.cn" target="_blank">简约生活 | 关注设计</a></li>
+						<li><a href="http://fungeek.cn" target="_blank">奇趣奇客 | 奇趣事，新鲜事</a></li>
+					</ul> 
+				</li>
+				<li class="widget widget_text"><h2 class="widgettitle">美国主机推荐&代购</h2>
+					<table width="100%"><tbody>
+						<tr>
+							<td align="center"><a href="/r.php?t=a&id=justhost" title="无限空间/流量 中国访问速度极快 最低至2.95美元/月" target="_blank"><img src="http://affiliates.justhost.com/control/img/banners/justhost_234x60.gif" /></a></td>
+						</tr><tr>
+							<td align="center"><a href="/r.php?t=a&id=ix" title="无限空间/流量 免费独立IP 最低至3.16美元/月" target="_blank"><img src="http://www.ixwebhosting.com/templates/ix/v2/images/banners/234x60_expert_personal.gif" /></a></td>
+						</tr>
+					</tbody></table>
+				</li>
+				<li class="widget widget_text"><h2 class="widgettitle">BlogUpp!</h2>
+					<ul>
+						<center><iframe width="150" height="350" src="http://adv.blogupp.com/codee6eb57e0-5178-4212-890e-00db3df339442v" scrolling="no" frameborder="0" marginwidth="0" marginheight ="0"></iframe></center>
+					</ul>
+				</li>	
+							</ul>
+		</div>
+	</div>
+<script type="text/javascript">
+//<![CDATA[
+shutterSettings = {
+	imgDir : 'http://xirang.us/wp-content/plugins/shutter-reloaded/menu/',
+	imageCount : 1,
+	FS : 1,
+	textBtns : 1,
+	L10n : ["上一张","下一张","关闭","完整大小","适合屏幕","图像 ","/","图像读取中..."]
+}
+//]]>
+</script>
+<script src="http://xirang.us/wp-content/plugins/shutter-reloaded/shutter-reloaded.js?ver=2.4" type="text/javascript"></script>
+<script type="text/javascript">
+try{shutterReloaded.init('sh');}catch(e){}</script>
+	</div>
+	<div id="footer">
+		<div id="footer_logo">
+			<a href="/">嘻来嚷往</a>
+		</div>
+		<div id="footer_info">
+			<p class="copyrights" align="center">&copy; 2009 嘻来嚷往保留部分权利 | 服务器供应商：<a href="/r.php?t=a&id=justhost" target="_blank">Just Host</a></p>
+			<p class="copyrights" align="center">技术驱动：<a href="http://www.wordpress.org">Wordpress</a> | 视觉驱动：<a href="http://www.webdesignlessons.com/">WebDesignLessons</a></a></p>
+		</div>
+		<div class="copyrights" style="float: right; padding: 12px 11px 0 0;">
+			<a href="http://www.stopie.com" target="_blank" title="Let's stop Internet Explorer! / 让我们一起终结IE浏览器！"><img style="margin-right:20px;padding-bottom:23px;" src="http://www.stopie.com/stopie.gif"/></a>
+			<a href="http://clustrmaps.com/counter/maps.php?url=http://xirang.us" id="clustrMapsLink" target="_blank"><img src="http://clustrmaps.com/counter/index2.php?url=http://xirang.us" id="clustrMapsImg" /></a>
+		</div>
+	</div>
+	<div id="extlink" class="hide">
+	<div class="xsnazzy">
+	<b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b><b class="xb5"></b><b class="xb6"></b><b class="xb7"></b>
+	<div class="xboxcontent">
+	<h3>温馨提示</h3>
+	<p>这是一个由<img src="http://adf.ly/images/logo.png" alt=" adf.ly " width="75" height="35" />提供给本站的盈利性链接。如果您点击后出现了广告画面，麻烦您等待5秒点击画面右上角的<img src="http://adf.ly/images/skip_ad_button2.png" width="99" height="25" alt=" SKIP AD " />按钮跳过广告继续查看链接内容。</p>
+	<p>对您造成的不便我们深感歉意，但是这一点微薄的广告收入可以维持本站的正常运作，全站作者由衷地感谢您的谅解与支持。</p>
+	</div>
+	<b class="xb7"></b><b class="xb6"></b><b class="xb5"></b><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b>
+	</div>
+	</div>
+		<div id="imglink" class="hide">
+	<div class="xsnazzy">
+	<b class="xb1"></b><b class="xb2"></b><b class="xb3"></b><b class="xb4"></b><b class="xb5"></b><b class="xb6"></b><b class="xb7"></b>
+	<div class="xboxcontent">
+	<h3>温馨提示</h3>
+	<p>这只是一张低画质缩略图</p>
+	<p>点击可以查看清晰原图 :-)</p>
+	</div>
+	<b class="xb7"></b><b class="xb6"></b><b class="xb5"></b><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b>
+	</div>
+	</div>
+</div>
+<script src="/js/all.js" type="text/javascript"></script>
+<script src="/js/alll.js" type="text/javascript"></script>
+<script src='http://files.go2web20.net/twitterbadge/1.0/badge.js' type='text/javascript'></script><script type='text/javascript' charset='utf-8'>
+tfb.account = 'xirang';
+tfb.label = 'follow-us';
+tfb.color = '#6ccff7';
+tfb.side = 'l';
+tfb.top = 200;
+tfb.showbadge();
+</script>
+<!-- Google Analytics Tracking by Google Analyticator 5.3.1: http://plugins.spiralwebconsulting.com/analyticator.html -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-9442677-1");
+		pageTracker._addIgnoredOrganic("xirang.us");
+pageTracker._addIgnoredOrganic("嘻来嚷往");
+pageTracker._addOrganic("3721","name");
+pageTracker._addOrganic("yodao","q");
+pageTracker._addOrganic("vnet","kw");
+pageTracker._addOrganic("sogou","query");
+
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	} catch(err) {}</script>
+			<script type="text/javascript">
+				var analyticsFileTypes = ['mp3','pdf'];
+				var analyticsEventTracking = 'enabled';
+			</script>
+			</body>
+</html>
+<!-- Dynamic page generated in 0.529 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2009-10-21 10:51:19 -->
+<!-- super cache -->
