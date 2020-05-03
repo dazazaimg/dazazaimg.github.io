@@ -1,0 +1,18 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>p</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+	</HEAD>
+	<body>
+		<form name="Form1" method="post" action="p.aspx?u=v20_img14_my_0708131837028877_144121.jpg" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwtMjEwMjUwMTgxMjt0PDtsPGk8MT47PjtsPHQ8O2w8aTwxPjs+O2w8dDxwPGw8c3JjOz47bDwvcC5hc3B4P3U9djIwX2ltZzE0X215XzA3MDgxMzE4MzcwMjg4NzdfMTQ0MTIxLmpwZzs+Pjs7Pjs+Pjs+Pjs+V+LVtzo5kzX43k0KU4McOe81iWc=" />
+
+			<img src="/p.aspx?u=v20_img14_my_0708131837028877_144121.jpg" id="imgPhoto" />
+		</form>
+	</body>
+</HTML>

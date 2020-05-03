@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[346,60,7] published at 2007-04-19 14:31:00 from #237 by 1111-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML><HEAD><TITLE>博客地址不存在</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+
+<STYLE type=text/css>
+
+td,p,li,select,input,textarea {font-size:12px;line-height:150%}
+A.a01:link {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+A.a01:visited {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+A.a01:active {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+A.a01:hover {
+	FONT-SIZE: 12px; COLOR: #666666; TEXT-DECORATION: none
+}
+
+A.a02:link {text-decoration:underline;color: #FF0000}
+A.a02:visited {text-decoration:underline;color: #FF0000}
+A.a02:hover {text-decoration:underline;color: #FF0000}
+A.a02:active {text-decoration:underline;color: #0000FF}
+
+.font2 {
+	FONT-SIZE: 10.5pt; COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.td1 {
+	FONT-SIZE: 9pt; COLOR: #000000; LINE-HEIGHT: 15pt; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+
+.style1 {color: #FF0000}
+.errorInfo{
+	width:673px;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	height:276px;
+	margin:0 auto;
+	font-size:14px;
+	color:#666666;
+}
+.errorInfo a{
+	color:#3188CC
+}
+.errorborder{
+	width:673px;
+	margin:0 auto;
+}
+.numColor {
+	color: #e00101;
+	font-weight: bold;
+}
+</STYLE>
+
+<script src="http://blog.sina.com.cn/lm/gonggao/errorforward.js"></script>
+<script>
+window.onload=function(){
+		numView("http://blog.sina.com.cn");
+	}
+if(String(document.referrer).indexOf("http://v.blog.sina.com.cn/m/") != -1)
+{location = "http://blog.sina.com.cn/member/signup/reg_step1.php?unipro=1";}
+</script>
+
+</HEAD>
+<BODY><IFRAME style="DISPLAY: none" name=iframe_data src="about:blank"></IFRAME>
+<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD>
+
+<script type="text/javascript" src="http://blog.sina.com.cn/js/sina_blog_head.js"></script>
+<script type="text/javascript">
+makeHead();
+</script>
+    </TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD background=http://blog.sina.com.cn/images/td_bg.gif colSpan=2  height=21>&nbsp;</TD>
+  </TR>
+  </TBODY>
+</TABLE>
+<table width="570" height="26" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td></td>
+
+  </tr>
+</table> 
+	<div class="errorborder"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/topLine.gif"></div>
+	<div class="errorInfo">
+	  <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="164">&nbsp;</td>
+            <td rowspan="2" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="80" colspan="2" align="center" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="25"></td>
+                    <td align="left"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/title.gif" width="418" height="58"></td>
+                  </tr>
+                </table>
+                </td>
+              </tr>
+              <tr>
+                <td height="60" colspan="2" align="center"><span id="numspan" class="numColor">3</span> 秒后将自动跳转到新浪博客首页。</td>
+              </tr>
+              <tr>
+                <td width="6%" height="25" align="center"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/listitem.gif" width="9" height="14"></td>
+                <td width="94%">请检查您输入的博客地址是否正确。 </td>
+              </tr>
+              <tr>
+                <td height="25" align="center"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/listitem.gif" width="9" height="14"></td>
+                <td height="25">如果您不能确认您输入的网址，请进入<a href="http://blog.sina.com.cn">新浪博客首页</a>浏览更多精彩博客文章。 </td>
+              </tr>
+              <tr>
+                <td height="25" align="center"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/listitem.gif" width="9" height="14"></td>
+                <td height="25">如果您还没有新浪博客，<a href="http://blog.sina.com.cn/member/signup/reg_step1.php">马上注册</a>一个吧。</td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/sinaBoy.gif" width="153" height="165"></td>
+          </tr>
+        </table>
+	</div>  
+	<div class="errorborder"><img src="http://image2.sina.com.cn/blog/hep060703img/error/img/bottomLine.gif"></div> 
+    <table width="570" height="35" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td></td>
+      </tr>
+	</table>
+	<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0>
+	  <TBODY>
+	
+	  <TR>
+		<TD background="http://blog.sina.com.cn/images/1_r3_c2.gif" height=1></TD></TR></TBODY>
+	</TABLE>
+	<BR>
+	<TABLE cellSpacing=0 cellPadding=0 width=750 align=center border=0>
+  <TBODY>
+  <TR>
+    <TD align=middle>
+      <script type="text/javascript" src="http://blog.sina.com.cn/js/sina_blog_foot.js"></script>
+    </TD></TR></TBODY></TABLE>
+</BODY></HTML>
