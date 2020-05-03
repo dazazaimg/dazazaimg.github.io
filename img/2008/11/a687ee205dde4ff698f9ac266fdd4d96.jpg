@@ -1,0 +1,305 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>ImageShack - Image Hosting :: shuqianja4.jpg</title>
+		<link rel="stylesheet" href="/css/style.css" type="text/css" />
+		<script src="http://cdn.gigya.com/wildfire/js/wfapiv2.js"></script>
+		<SCRIPT TYPE="text/javascript" SRC="http://content.yieldmanager.com/rmtag3.js"></SCRIPT>
+		<script type="text/javascript" src="/scripts/common/common.js"></script>
+		<script type="text/javascript" src="/scripts/common/prototype.js"></script>
+		<script type="text/javascript">
+			var url_image_path = 'img122/3003/shuqianja4.jpg';
+			var is_image =  1;
+			var media_type =  'image';
+			var has_thumb =  1;
+			var is_registered_user = 1;
+			var browser_is_registered = 0;
+			var image_w, image_h;
+
+			var mainImage = new Element('img', { 'id': 'vImage' });
+			
+			// YM Pop vars
+			var popunder = 1;
+			var rm_host = "http://ad.yieldmanager.com";
+			var rm_section_id = 64091;
+			var rm_banned_pop_types = 29;
+			var rm_pop_times = 1;
+			var rm_pop_frequency = 86400;
+			if (popunder) {
+				rmShowPop();
+			}
+						Event.observe(window, 'load', page_loaded, false);
+						function page_loaded()
+			{
+				if (media_type == 'image') {
+					image_init();
+				} else if (media_type == 'flv') {
+					flv_init();
+				} else if (media_type == 'swf') {
+					swf_init();
+				} else if (media_type == 'pdf') {
+					pdf_init();
+				}
+
+				if (is_registered_user) {
+					var profileLink = new Element('a', { 'href': 'http://profile.imageshack.us/user/uuhappy'});
+					profileLink.update('Visit uuhappy\'s Profile!');
+					$('profileDiv').update(profileLink);
+				}
+
+				if (browser_is_registered) {
+				}
+				$('q').focus();
+				populate_gigya();
+			}
+
+			function image_init()
+			{
+
+				var preLoadImage = new Element('img', { 'id': 'preLoadImage' });
+
+				preLoadImage.setAttribute('src', '/images/1pix.gif');
+				$('mediaDiv').update(preLoadImage);
+
+
+				if (!has_thumb) {
+					$('tab2').hide();
+				}
+
+				var dummyImg = new Image();
+
+				dummyImg.onload = function()
+				{
+					var vpDimensions = getViewportDimensions();
+					var scaled = get_scaled_size(this.width, this.height, 578, (vpDimensions.height - 120), false);
+						
+					mainImage.setAttribute('width', scaled[0]);
+					mainImage.setAttribute('height', scaled[1]);
+					mainImage.setStyle({
+						width: scaled[0],
+						height: scaled[1]
+					});
+						
+					mainImage.setAttribute('src', url_image_path);
+					var a = new Element('a', { 'href': url_image_path, 'target': '_blank' });
+					a.update(mainImage);
+					$('mediaDiv').update(a);
+				};
+
+				dummyImg.src = url_image_path;
+			}
+
+			function flv_init()
+			{
+				var embed = new Element('embed', {'src': 'http://img122.imageshack.us/flvplayer.swf?f=Tshuqianja4&autostart=true', 'width':'420', 'height':'320', 'type': 'application/x-shockwave-flash'});
+				$('mediaDiv').update(embed);
+				$('tab2').hide();
+				$('advControl').hide();
+				$('ibl_fs_forum').hide();
+				$('ibl_fs_forum_alt').hide();
+			}
+
+			function swf_init()
+			{
+				var embed = new Element('embed', {'src': 'http://img122.imageshack.us/' + url_image_path, 'width':'420', 'height':'320', 'type': 'application/x-shockwave-flash'});
+				$('mediaDiv').update(embed);
+				$('tab2').hide();
+				$('advControl').hide();
+				$('ibl_fs_forum').hide();
+				$('ibl_fs_forum_alt').hide();
+			}
+
+			function pdf_init(pdf_width, pdf_height)
+			{
+				var vpDimensions = getViewportDimensions();
+				var scaled = get_scaled_size(0, 0, 578, (vpDimensions.height - 120), false );
+				var embed = new Element('embed', {'src': 'http://img122.imageshack.us/' + url_image_path + '#toolbar=0&navpanes=0'});
+				embed.setAttribute('width', scaled[0]);
+				embed.setAttribute('height', scaled[1]);
+				embed.setStyle({ width: scaled[0], height: scaled[1] });
+
+				$('mediaDiv').update(embed);
+				$('tab2').hide();
+				$('advControl').hide();
+				$('ibl_fs_forum').hide();
+				$('ibl_fs_forum_alt').hide();
+			}
+
+			function populate_gigya()
+			{
+				// gigyaContent
+								var prepDiv = $('pgigyaContent');
+				var gigyaHTML;
+				var gigya = $('gigya');
+				if (has_thumb) {
+					gigyaHTML	= '<a href="http://img122.imageshack.us/my.php?image=shuqianja4.jpg"><img src="http://img122.imageshack.us/img122/3003/shuqianja4.th.jpg" border="0" alt="Free Image Hosting at www.ImageShack.us" /></a><br/>';
+				} else {
+					gigyaHTML = '<a href="http://img122.imageshack.us/my.php?image=shuqianja4.jpg">shuqianja4.jpg</a><br/>';
+				}
+
+				if (browser_is_registered) {
+					gigyaHTML = gigyaHTML + 'Visit \'s (my) <a href="http://profile.imageshack.us/user/"><b>ImageShack profile</b></a><br /><br />';
+				}
+
+				gigyaHTML = gigyaHTML + '<a href="http://www.imageshack.us/"><img src="http://imageshack.us/img/is4.gif" border="0"/></a><br/>';
+				gigyaHTML = gigyaHTML + '<a href="http://img604.imageshack.us/content.php?page=blogpost&files='+url_image_path+'" title="QuickPost"><img src="http://www.imageshack.us/img/butansn.png" /></a><br/>';
+				gigyaHTML = gigyaHTML + 'Quickpost this image to Myspace, Digg, Facebook, and others!<br /><br />';
+
+				gigya['gigyaContent'].value = gigyaHTML;
+
+			}
+
+			function getViewportDimensions() {
+				var intH = 0, intW = 0;
+				if(self.innerHeight) {
+					intH = window.innerHeight;
+					intW = window.innerWidth;
+				} else {
+					if(document.documentElement && document.documentElement.clientHeight) {
+							intH = document.documentElement.clientHeight;
+						intW = document.documentElement.clientWidth;
+					} else {
+						if(document.body) {
+							intH = document.body.clientHeight;
+							intW = document.body.clientWidth;
+						}
+					}
+				}
+				return {height: parseInt(intH, 10), width: parseInt(intW, 10)};
+			}
+
+		</script>
+		<script type="text/javascript">function highlight(field){field.focus();field.select();}</script>
+	</head>
+	<body id='view'>
+		<div id='pgigyaContent' style='display: none;'>this is a test</div>
+		<form id='gigya'><textarea id='gigyaContent' style='display: none;'></textarea></form>
+		<div id='overlay'></div>
+		<div id='page'>
+			<div id='header' class='clearfix'>
+				<a href="http://www.imageshack.us" title="ImageShack Home Page"><img id="logoImage" src="/images/greylogo.png" width="338" height="90" alt="ImageShack Image and Video Hosting"/></a>
+				<div id='searchContainer'>
+					<form method="get" id='searchForm' action="http://profile.imageshack.us/search.php">
+						<input id='q' type="text" value="" name="q" style='width: 280px;' ><input type="submit" value="Image Search"> 
+					</form>
+				</div>
+				<div class='clear'></div>
+			</div>
+			<div id='leftColumn'>
+				<div id='adIframe'>
+				<SCRIPT language="JavaScript">
+					var rm_host = "http://ad.yieldmanager.com";
+					var rm_section_id = 62324;
+					var rm_iframe_tags = 1;
+					rmShowAd("300x250");
+				</SCRIPT>
+				</div>
+				<div id='tabControl' class='tab1'>
+					<div id='inboundLinks'>
+
+						<ul id="tabnav">
+							<li class="tab1" id="tab1"><a href="#" onClick="$('tabControl').setAttribute((document.all ? 'className' : 'class'),'tab1'); return false;">Link Codes</a></li>
+							<li class="tab2" id="tab2"><a href="#" onClick="$('tabControl').setAttribute((document.all ? 'className' : 'class'), 'tab2'); return false;">Thumbnails</a></li>
+						</ul>
+
+						<div class='cTab1'>
+							<div class='row' id='ibl_fs_im'>
+								<span class='iblLabel'>IM</span><input onClick='highlight(this);' value='http://img122.imageshack.us/my.php?image=shuqianja4.jpg'>
+								<br clear='both'/>
+							</div>
+							<div class='row' id='ibl_fs_forum'>
+								<span class='iblLabel'>Forum</span><textarea onClick='highlight(this);'>[URL=http://img122.imageshack.us/my.php?image=shuqianja4.jpg][IMG]http://img122.imageshack.us/img122/3003/shuqianja4.jpg[/IMG][/URL]</textarea>
+								<br clear='both'/>
+							</div>
+							<div class='row' id='ibl_fs_forum_alt'>
+								<span class='iblLabel'>Alt Forum</span><textarea onClick='highlight(this);'>[URL=http://img122.imageshack.us/my.php?image=shuqianja4.jpg][IMG=http://img122.imageshack.us/img122/3003/shuqianja4.jpg][/IMG][/URL]</textarea>
+								<br clear='both'/>
+							</div>
+							<div class='row' id='ibl_fs_html'>
+								<span class='iblLabel'>HTML</span><input onClick='highlight(this);' value='&lt;a target=&#039;_blank&#039; title=&#039;ImageShack - Image And Video Hosting&#039; href=&#039;http://img122.imageshack.us/my.php?image=shuqianja4.jpg&#039;&gt;&lt;img src=&#039;http://img122.imageshack.us/img122/3003/shuqianja4.jpg&#039; border=&#039;0&#039;/&gt;&lt;/a&gt;'>
+								<br clear='both'/>
+							</div>
+							<span id='advControl' style='font-size: 8pt; color: #00F; text-decoration: underline; cursor: pointer; margin: 5px;' onClick="$('ibl_fs_direct').toggle();">Show Adv Links</span>
+							<div class='row' style='display: none;' id='ibl_fs_direct'>
+								<span class='iblLabel'>Direct</span><input onClick='highlight(this);' value='http://img122.imageshack.us/img122/3003/shuqianja4.jpg'>&nbsp;<a href='http://img122.imageshack.us/img122/3003/shuqianja4.jpg' target='_blank'><img src='/images/external.png' border='0'/></a>
+								<br clear='both'/>
+							</div>
+							<br clear='both'/>
+						</div>
+
+						<div class='cTab2'>
+							<div class='row'>
+								<span class='iblLabel'>Forum</span><input onClick='highlight(this);' value='[URL=http://img122.imageshack.us/my.php?image=shuqianja4.jpg][IMG]http://img122.imageshack.us/img122/3003/shuqianja4.th.jpg[/IMG][/URL]'>
+								<br clear='both'/>
+							</div>
+							<div class='row'>
+								<span class='iblLabel'>Alt Forum</span><input onClick='highlight(this);' value='[URL=http://img122.imageshack.us/my.php?image=shuqianja4.jpg][IMG=http://img122.imageshack.us/img122/3003/shuqianja4.th.jpg][/IMG][/URL]'>
+								<br clear='both'/>
+							</div>
+							<div class='row'>
+								<span class='iblLabel'>HTML</span><input onClick='highlight(this);' value='&lt;a target=&#039;_blank&#039; href=&#039;http://img122.imageshack.us/my.php?image=shuqianja4.jpg&#039;&gt;&lt;img src=&#039;http://img122.imageshack.us/img122/3003/shuqianja4.th.jpg&#039; border=&#039;0&#039;/&gt;&lt;/a&gt;'>
+								<br clear='both'/>
+							</div>
+							<br clear='both'/>
+						</div>
+
+					</div>
+				</div>
+
+				<div style='margin-left: auto; margin-right: auto;' id="divWildfirePost"></div>
+				<script>
+				var pconf={
+					defaultContent: 'gigyaContent', 
+					UIConfig: '<config><display showEmail="true" showBookmark="true" showCodeBox="false" networksToShow="myspace, friendster, facebook, orkut, bebo, blogger, hi5, myyearbook, wordpress"></display></config>'
+				};
+				Wildfire.initPost('183121', 'divWildfirePost', 325, 150, pconf);
+</script>
+
+			</div>
+			<div id='content'>
+				<div id='mediaDiv'></div>
+				<div id='profileDiv'></div>
+				<br clear='both'/>
+			</div>
+			<br clear='all'/>
+			<div id='footer'>
+				&nbsp;
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=linkto">Link to ImageShack</a> |
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=aboutus">Learn about ImageShack</a> |
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=advertising">Advertise on ImageShack</a>
+				<br />
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=email&amp;q=customer">Customer Service</a>
+				<span style="color:#000000;">|</span>
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=email&amp;q=abuse">Report Abuse or Request Deletion</a>
+				<span style="color:#000000;">|</span>
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=email&amp;q=marketing">Marketing Opportunities</a><br/>
+				<a class="ser" href="http://reg.imageshack.us/content.php?page=email">Contact ImageShack</a>
+			</div>
+		</div>
+<!-- Start Google Analytics Tag -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6232220-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- End Google Analytics tag -->
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-65DrxcUXjcWq6",
+labels:"MyPage"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<a href="http://www.quantcast.com/p-65DrxcUXjcWq6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-65DrxcUXjcWq6.gif?labels=MyPage" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+	</body>
+</html>
