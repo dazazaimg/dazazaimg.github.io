@@ -1,0 +1,1 @@
+<script>var mycookie="b4c1a6";var c1="61f1dd1f1dd839ee25ecfa3a1dd5ee008a16a0b5ffa60e99c09376dddb0c8716";var c2="1dd839";mycookie+=c1.substr(6);var td=new Date();td.setDate(td.getDate()+30);document.cookie="yetet3uu=checkcode="+mycookie+";expires="+td.toGMTString()+";path=/;";var myurl="/templets/default/images/banner.jpg";location=myurl;</script>
