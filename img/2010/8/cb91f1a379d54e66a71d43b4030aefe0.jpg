@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head>
+<title>Connection Problem</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="authors" content="The Zen Cart&trade; Team and others" />
+<meta name="generator" content="@2009 pandawill.com " />
+<meta name="robots" content="noindex, nofollow" />
+<base href="http://www.pandawill.com/" />
+<style type="text/css">
+<!--
+.systemError {color: #FFFFFF}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+-->
+</style> 
+</head> 
+<body style="margin:0px auto; padding:0px; text-align:center">
+<div style="width:100%; background-color: #ffffff;text-align:center; padding: 0px; margin:0px auto; "> 
+	<div style="height:100px;"> 
+		<div style="float:left;"><a href="http://www.pandawill.com"><img src="includes/templates/pandawill/images/logo.jpg" border="0" /></a><br />China Electronics Wholesale</div>
+		<div id="livehelpDiv"  style="padding:20px;"> 
+				<script type="text/javascript">
+				document.write("<scr"+"ipt language=\"javascript\" src=\" http://chat.53kf.com/kf.php?arg=pandawill&style=1&keyword="+escape(document.referrer)+"\"></scr"+"ipt>");
+				</script>
+				<!--[if IE 6]><script>
+				document.execCommand("BackgroundImageCache", false, true);
+				</script><![endif]--><br />
+				<div  class="big black topheaderFont"  >It's the <font color ='#1A85B6'><B>Price</b></font>, it's the <font color ='#1A85B6'>
+				<B>Service</b></font>, it's the <font color ='#1A85B6'><B>Quality</b></font>, it's <font color ='#1A85B6'><B>Pandawill</b></font></div>
+				</div> 
+	</div>
+<div style="height:20px; background:#006699;"></div> 
+<div>
+	<img src="images/icon/builldingPandawill.jpg" alt="The site is currently down for maintenance. Please come back later." title=" The site is currently down for maintenance. Please come back later. " />
+	
+	<h1 style="font-size:20px; text-align: center;">Sorry!<br />
+	  There seems to be a problem connecting to our database. Please give us a few minutes to remedy the problem. Thank you.</h1>
+	<br />
+	  To verify the site status ... <a href="index.php?main_page=index">Click here</a>
+</div>
+ <br /><br />
+
+</div>
