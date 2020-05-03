@@ -1,0 +1,444 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>wordpress.com.tw  </title>
+<meta name="generator" content="WordPress 2.5.1" /> <!-- leave this for stats -->
+<meta name="keywords" content="我的 place‧Nothing But Blog!!" />
+<meta name="description" content="我的 place‧Nothing But Blog!!" />
+
+<script type="text/javascript" src="http://www.wordpress.com.tw/demo/lightbox/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.wordpress.com.tw/demo/lightbox/js/scriptaculous.js?load=effects"></script>
+<script type="text/javascript" src="http://www.wordpress.com.tw/demo/lightbox/js/lightbox.js"></script>
+<link rel="stylesheet" href="http://www.wordpress.com.tw/demo/lightbox/css/lightbox.css" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://www.wordpress.com.tw/wp/wp-content/themes/mistylook/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="wordpress.com.tw RSS Feed" href="http://www.wordpress.com.tw/?feed=rss2" />
+<link rel="pingback" href="http://www.wordpress.com.tw/wp/xmlrpc.php" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.wordpress.com.tw/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.wordpress.com.tw/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 2.5.1" />
+
+<!-- Google Analytics Tracking by Google Analyticator: http://cavemonkey50.com/code/google-analyticator/ -->
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script>
+
+	<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-145149-2");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+	</script>
+
+	<!-- Courtesy of Kimili Flash Embed - Version 1.4.2 -->
+	<script src="http://www.wordpress.com.tw/wp/wp-content/plugins/kimili-flash-embed/js/swfobject.js" type="text/javascript"></script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css">
+#headerimage {
+	background: url(http://www.wordpress.com.tw/wp/wp-content/themes/mistylook/img/misty.jpg) no-repeat;
+}
+</style>
+<style type="text/css">.recentcomments a{display:inline !important;padding: 0 !important;margin: 0 !important;}</style>
+</head>
+<body id="section-index">
+
+
+<div id="navigation">
+<ul>
+	<li class="current_page_item"><a href="http://www.wordpress.com.tw/" title="Home">Home</a></li>
+		<li class="page_item page-item-28"><a href="http://www.wordpress.com.tw/?page_id=28" title="About">About</a></li>
+<li class="page_item page-item-136"><a href="http://www.wordpress.com.tw/?page_id=136" title="Archives">Archives</a></li>
+<li class="page_item page-item-16"><a href="http://www.wordpress.com.tw/?page_id=16" title="Contact">Contact</a></li>
+<li class="page_item page-item-18"><a href="http://www.wordpress.com.tw/?page_id=18" title="Hosting">Hosting</a></li>
+	<li class="search"><form method="get" id="searchform" action="http://www.wordpress.com.tw"><input type="text" class="textbox" value="" name="s" id="s" /><input type="submit" id="searchsubmit" value="Search" /></form></li>
+</ul>
+</div><!-- end id:navigation -->
+
+
+<div id="container">
+
+
+<div id="header">
+<h1><a href="http://www.wordpress.com.tw/" title="wordpress.com.tw">wordpress.com.tw</a></h1>
+<p id="desc">我的 place‧Nothing But Blog!!</p>
+</div><!-- end id:header -->
+
+
+<div id="feedarea">
+<dl>
+	<dt><strong>Feed on</strong></dt>
+	<dd><a href="http://www.wordpress.com.tw/?feed=rss2">Posts</a></dd>
+	<dd><a href="http://www.wordpress.com.tw/?feed=comments-rss2">Comments</a></dd>
+</dl>
+</div><!-- end id:feedarea -->
+
+
+  <div id="headerimage">
+</div><!-- end id:headerimage --><div id="content">
+<div id="content-main">
+
+										<div class="post" id="post-137">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=137" rel="bookmark" title="Permanent Link to i2Theme i3Theme 佈景主題">i2Theme i3Theme 佈景主題</a></h2>
+					<p class="post-info">Jul 5th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>在 <a href="http://www.wordpress.com.tw/?p=52">iTheme</a> 這篇文章，max 跟大家分享了一個很棒的Mac式樣的佈景主題，延續這個佈景主題今天跟大家分享的是 <a href="http://www.mangoorange.com/resources/i2theme/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.mangoorange.com');">i2Theme</a> 與 <a href="http://www.mangoorange.com/resources/i3theme/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.mangoorange.com');">i3Theme</a> 這兩個佈景主題，不僅支援<a href="http://wordpress.org/" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress 2.5.X</a>版，<a href="http://en.gravatar.com/" onclick="javascript:pageTracker._trackPageview ('/outbound/en.gravatar.com');">Gravatar</a>，而且顏色有更多的選擇，喜歡的朋友可以前往下載使用。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/07/04/20080704-01-2.jpg" rel="lightbox" title="i2Theme i3Theme 佈景主題"><img src="http://www.wordpress.com.tw/images/2008/07/04/20080704-01-1.jpg" alt="i2Theme i3Theme 佈景主題" class="tn" /></a></div>
+<p></ br></p>
+<p>i2Theme i3Theme 佈景主題網址：<a href="http://www.mangoorange.com/resources/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.mangoorange.com');">請點選這裡</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=itheme" rel="tag">iTheme</a>, <a href="http://www.wordpress.com.tw/?tag=%e4%b8%89%e6%ac%84" rel="tag">三欄</a>, <a href="http://www.wordpress.com.tw/?tag=%e4%bd%88%e6%99%af%e4%b8%bb%e9%a1%8c" rel="tag">佈景主題</a>, <a href="http://www.wordpress.com.tw/?tag=%e5%85%a9%e6%ac%84" rel="tag">兩欄</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=5" title="View all posts in Themes" rel="category">Themes</a> | <a href="http://www.wordpress.com.tw/?p=137#respond" title="Comment on i2Theme i3Theme 佈景主題">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-135">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=135" rel="bookmark" title="Permanent Link to 自製圖片外框式樣">自製圖片外框式樣</a></h2>
+					<p class="post-info">Jul 4th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>在文章中插入圖片，感覺上文章的可看度就提升了不少，但是如果你的佈景主題對圖片沒有作式樣的設計，那麼圖片看起來就比較死板，就像說明一的圖片一樣。 <a href="http://www.wordpress.com.tw">max</a> 今天跟大家分享一個簡單的方法，不需要更改佈景主題式樣檔裡面的設計，只需要在編輯文章插入圖片時加上一些式樣的語法，可以讓圖片馬上有不一樣的效果（說明四圖片所呈現的效果）。</p>
+<p>使用的方法單說明如下：</p>
+<p>1. 準備在文章中使用的圖片一張（範例圖片）。</p>
+<p><img src="http://www.wordpress.com.tw/images/2008/07/03/20080703-1.jpg" alt="範例圖片" style="padding: 0; border: 0;"/><br />
+（範例圖片）↗</p>
+<p> <a href="http://www.wordpress.com.tw/?p=135#more-135" class="more-link">Continue Reading &raquo;</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=css" rel="tag">CSS</a>, <a href="http://www.wordpress.com.tw/?tag=%e5%bc%8f%e6%a8%a3" rel="tag">式樣</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=135#respond" title="Comment on 自製圖片外框式樣">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-133">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=133" rel="bookmark" title="Permanent Link to 打造自己的佈景主題第二篇">打造自己的佈景主題第二篇</a></h2>
+					<p class="post-info">Jul 3rd, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>繼上一篇<a href="http://www.wordpress.com.tw/?p=126">打造自己的佈景主題</a>之後，<a href="http://www.wordpress.com.tw">max</a> 再跟大家分享另外一篇設計佈景主題的教學文章 <a href="http://www.wpdesigner.com/2007/02/19/so-you-want-to-create-wordpress-themes-huh/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.wpdesigner.com');">So you want to create WordPress themes huh?</a> 這位<a href="http://www.wpdesigner.com/about/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.wpdesigner.com');">作者</a>以16個段落很詳細的說明如何去設計一個<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a>的佈景主題。</p>
+<p>引用該作者的說法，建置自己佈景主題之前，必須先準備好如下的條件：</p>
+<p>1. 一個安裝好的<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a>。<br />
+2. 文字編輯器，例如Notepad，當然你也可以使用<a href="http://www.wordpress.com.tw/?p=60">max提過的Notepad++</a>。<br />
+3. FTP軟體，該作者推薦SmartFTP，當然你也可以使用<a href="http://www.wordpress.com.tw/?p=46">max提過的FileZilla</a>。<br />
+4. 將<a href="http://validator.w3.org/" onclick="javascript:pageTracker._trackPageview ('/outbound/validator.w3.org');">XHTML Validator</a> 與 <a href="http://jigsaw.w3.org/css-validator/" onclick="javascript:pageTracker._trackPageview ('/outbound/jigsaw.w3.org');">CSS Validator</a> 加入書籤，這兩個網站在設計佈景主題的過程會用到，幫助錯誤發生時可以除錯。</p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=css" rel="tag">CSS</a>, <a href="http://www.wordpress.com.tw/?tag=%e4%bd%88%e6%99%af%e4%b8%bb%e9%a1%8c" rel="tag">佈景主題</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=5" title="View all posts in Themes" rel="category">Themes</a>,  <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=133#comments" title="Comment on 打造自己的佈景主題第二篇">5 Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-132">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=132" rel="bookmark" title="Permanent Link to 加速 WordPress 的4個簡單方法">加速 WordPress 的4個簡單方法</a></h2>
+					<p class="post-info">Jul 2nd, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>除了使用<a href="http://wordpress.org/extend/plugins/" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">外掛程式</a>可以幫助你加快<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a>的運作以外，<a href="http://wpcandy.com/articles/tutorials/4-simple-ways-to-speed-up-wordpress.html" onclick="javascript:pageTracker._trackPageview ('/outbound/wpcandy.com');">4 Simple Ways To Speed Up WordPress</a> 這一篇文章裡提供了4個間單的方法，讓大家可以對自己的WordPress來進行檢視，幫助自己的WordPress加速運作。</p>
+<p>4個方法簡述如下：</p>
+<p>1. Staying up to date with releases 保持自己的WordPress版本跟上<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">官網</a>發佈的最新版本。<br />
+2. Disable or delete unused plugins 停用或是移除未使用的外掛程式，一些過時的外掛程式都應該更新版本，再不然就是將它宜除不要使用。<br />
+3. Clean up your code 簡化你的程式碼，例如減少式樣檔裡面的空白或是簡化式樣描述。<br />
+4. Minimize PHP and database queries 盡量減少PHP和數據庫查詢，將一些不會變更的網站資訊，從原來的PHP語法改成HTML CODE。</p>
+<p>相關推薦閱讀文章：<a href="http://www.problogdesign.com/general-tips/13-tags-to-delete-from-your-theme/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.problogdesign.com');">13 Tags to Delete From your Theme</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=tips" rel="tag">Tips</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=132#respond" title="Comment on 加速 WordPress 的4個簡單方法">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-134">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=134" rel="bookmark" title="Permanent Link to WordPress 2.6 Beta 2">WordPress 2.6 Beta 2</a></h2>
+					<p class="post-info">Jul 2nd, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>WordPress 2.6 Beta 2 發佈，可以在<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a>官網的<a href="http://wordpress.org/download/release-archive/" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">Release Archive</a> 找到相關下載的檔案。</p>
+<p>WordPress 2.6 Beta 2 正體中文語系可以到 <a href="http://blog.beyes.tw/" onclick="javascript:pageTracker._trackPageview ('/outbound/blog.beyes.tw');">skyfate</a> 的網站<a href="http://blog.beyes.tw/236" onclick="javascript:pageTracker._trackPageview ('/outbound/blog.beyes.tw');">http://blog.beyes.tw/236</a>取得，或是到 <a href="http://kirin.lin.googlepages.com/" onclick="javascript:pageTracker._trackPageview ('/outbound/kirin.lin.googlepages.com');">Kirin Lin 正體中文 WordPress</a> 取得。</p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=26" rel="tag">2.6</a>, <a href="http://www.wordpress.com.tw/?tag=beta" rel="tag">Beta</a>, <a href="http://www.wordpress.com.tw/?tag=%e6%ad%a3%e9%ab%94%e4%b8%ad%e6%96%87" rel="tag">正體中文</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=134#respond" title="Comment on WordPress 2.6 Beta 2">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-131">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=131" rel="bookmark" title="Permanent Link to 無痛使用 WordPress - YouTube篇">無痛使用 WordPress - YouTube篇</a></h2>
+					<p class="post-info">Jul 1st, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>在文章中插入<a href="http://www.youtube.com/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.youtube.com');">YouTube</a>影片是很容易的事情，在接下來的步驟裡max將透過間單的圖文跟大家分享如何在文章中輕鬆的插入YouTube影片。</p>
+<p>1. 首先在你想要安插<a href="http://www.youtube.com/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.youtube.com');">YouTube</a>影片的網頁找到畫面右邊的嵌入語法（圖一），並且將整段語法複製起來。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/07/01/20080701-01-2.jpg" rel="lightbox" title="YouTube網頁"><img src="http://www.wordpress.com.tw/images/2008/07/01/20080701-01-1.jpg" alt="YouTube網頁" class="tn" /></a></div>
+<div align="center">（圖一）</div>
+<p></ br><br />
+</ br></p>
+<p> <a href="http://www.wordpress.com.tw/?p=131#more-131" class="more-link">Continue Reading &raquo;</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=embed" rel="tag">Embed</a>, <a href="http://www.wordpress.com.tw/?tag=youtube" rel="tag">YouTube</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=8" title="View all posts in 無痛系列" rel="category">無痛系列</a>,  <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=131#respond" title="Comment on 無痛使用 WordPress - YouTube篇">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-130">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=130" rel="bookmark" title="Permanent Link to 日期顯示式樣製作">日期顯示式樣製作</a></h2>
+					<p class="post-info">Jun 30th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>有時候當我們逛到其他WordPress網站時，會發現有些佈景主題，在文章日期顯示的地方以圖塊的方式顯現（圖一），感覺上這種效果還蠻不錯的，讓文章與版面活潑了許多，如果有興趣想要在自己的佈景主題裡嘗試看看的話，<a href="http://www.wpdesigner.com/2007/06/04/wordpress-date-button/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.wpdesigner.com');">WordPress Date Button</a> 這一篇文章給大家參考，作者以他的佈景主題作示範，教大家如何製作一個日期顯示的圖塊，很不錯的一篇教學文。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/06/30/20080630-01-2.jpg" rel="lightbox" title="WordPress Date Button"><img src="http://www.wordpress.com.tw/images/2008/06/30/20080630-01-1.jpg" alt="WordPress Date Button" class="tn" /></a></div>
+<div align="center">（圖一）</div>
+<p></ br></p>
+<p>WordPress Date Button 教學文章網址：<a href="http://www.wpdesigner.com/2007/06/04/wordpress-date-button/" onclick="javascript:pageTracker._trackPageview ('/outbound/www.wpdesigner.com');">請點選這裡</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=css" rel="tag">CSS</a>, <a href="http://www.wordpress.com.tw/?tag=%e4%bd%88%e6%99%af%e4%b8%bb%e9%a1%8c" rel="tag">佈景主題</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=130#respond" title="Comment on 日期顯示式樣製作">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-129">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=129" rel="bookmark" title="Permanent Link to 圖片浮水印免費線上製作 PicMarkr">圖片浮水印免費線上製作 PicMarkr</a></h2>
+					<p class="post-info">Jun 29th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>在文章中穿插圖片，可以讓文章變的比較生動而且活潑，可是有時候又擔心自己的圖片被人未經許可的採用，那是很讓人討厭的一件事情。 <a href="http://www.wordpress.com.tw">max</a> 今天跟大家分享一個線上免費製作圖片浮水印的網站 <a href="http://picmarkr.com/index.php" onclick="javascript:pageTracker._trackPageview ('/outbound/picmarkr.com');">PicMarkr</a>（圖一）。你可以最多一次上傳5張圖片，間單的三個步驟就會幫你的圖片加上你想要的浮水印效果，成為獨一無二的識別。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/06/28/20080628-01-2.jpg" rel="lightbox" title="PicMarkr"><img src="http://www.wordpress.com.tw/images/2008/06/28/20080628-01-1.jpg" alt="PicMarkr" class="tn" /></a></div>
+<div align="center">（圖一）</div>
+<p></ br></p>
+<p>製作浮水印的步驟簡單說明如下：<br />
+ <a href="http://www.wordpress.com.tw/?p=129#more-129" class="more-link">Continue Reading &raquo;</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=picmarkr" rel="tag">PicMarkr</a>, <a href="http://www.wordpress.com.tw/?tag=watermark" rel="tag">Watermark</a>, <a href="http://www.wordpress.com.tw/?tag=%e5%85%8d%e8%b2%bb" rel="tag">免費</a>, <a href="http://www.wordpress.com.tw/?tag=%e6%b5%ae%e6%b0%b4%e5%8d%b0" rel="tag">浮水印</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=129#respond" title="Comment on 圖片浮水印免費線上製作 PicMarkr">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-128">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=128" rel="bookmark" title="Permanent Link to 文章內容表格製作">文章內容表格製作</a></h2>
+					<p class="post-info">Jun 28th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>在 <a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a> 發表文章是一件非常容易的事情，但是如果要在文章中加上表格來加強文章的說明，如果沒有學過HTML語法，那麼是有一點點的麻煩。<a href="http://www.wordpress.com.tw">max</a> 今天介紹大家一個線上製作表格的網站 <a href="http://www.askthecssguy.com/kotatsu/index.html" onclick="javascript:pageTracker._trackPageview ('/outbound/www.askthecssguy.com');">Kotatsu</a>（圖一），只要想好了需要的表格有幾欄與幾列，點選 Generate HTML，它就會幫你轉換出HTML的語法在網頁下方，然後你就可以將HTML語法貼到你的WrodPress來使用，非常實用而且簡單就可以做好表格了。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/06/27/20080627-01-2.jpg" rel="lightbox" title="Kotatsu"><img src="http://www.wordpress.com.tw/images/2008/06/27/20080627-01-1.jpg" alt="Kotatsu" class="tn" /></a></div>
+<div align="center">（圖一）</div>
+<p></ br></p>
+<p>底下是三欄兩列的表格示範語法：<br />
+ <a href="http://www.wordpress.com.tw/?p=128#more-128" class="more-link">Continue Reading &raquo;</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=html" rel="tag">HTML</a>, <a href="http://www.wordpress.com.tw/?tag=table" rel="tag">table</a>, <a href="http://www.wordpress.com.tw/?tag=%e8%a1%a8%e6%a0%bc" rel="tag">表格</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=128#respond" title="Comment on 文章內容表格製作">No Comments &#187;</a></p>
+							</div>
+														<div class="post" id="post-127">
+				<div class="posttitle">
+					<h2><a href="http://www.wordpress.com.tw/?p=127" rel="bookmark" title="Permanent Link to 備份你的 WordPress 外掛程式篇">備份你的 WordPress 外掛程式篇</a></h2>
+					<p class="post-info">Jun 27th, 2008 by <a href="http://www.wordpress.com.tw/?author=1" title="Posts by max">max</a>  </p>
+				</div>
+
+				<div class="entry">
+					<p>每一個在使用<a href="http://wordpress.org" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WordPress</a>一段時間以後，都會有這樣一個想法，如果有一天主機出了問題，那麼自己辛辛苦苦編寫的文章還在不在？這個問題可能出現在任何主機上，不論你是購買虛擬主機、自行架設，或是採用免費提供的空間，都會有可能發生的。所以與其將這個不確定因素寄託老天爺保佑，不如自己動手作備份。<a href="http://www.wordpress.com.tw">max</a> 今天跟大家分享的外掛程式 <a href="http://wordpress.org/extend/plugins/wp-db-backup/" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WP-DB-Backup</a>，這支外掛程式的操作非常容易，可以手動進行備份，也可定時進行備份，可以滿足多數使用WordPress的朋友當前備份的需求。</p>
+<p>使用步驟分享如下：</p>
+<p>1. 將下載回來的外掛程式解壓縮後，上傳到主機上的/wp-content/plugins 資料夾下，登入WordPress管理介面，到外掛程式介面啟用 <a href="http://wordpress.org/extend/plugins/wp-db-backup/" onclick="javascript:pageTracker._trackPageview ('/outbound/wordpress.org');">WP-DB-Backup</a> 這支外掛程式（圖一）。</p>
+<div align="center"><a href="http://www.wordpress.com.tw/images/2008/06/26/20080626-01-2.jpg" rel="lightbox" title="WP-DB-Backup"><img src="http://www.wordpress.com.tw/images/2008/06/26/20080626-01-1.jpg" alt="WP-DB-Backup" class="tn" /></a></div>
+<div align="center">（圖一）</div>
+<p></ br></p>
+<p> <a href="http://www.wordpress.com.tw/?p=127#more-127" class="more-link">Continue Reading &raquo;</a></p>
+										<p class="postmetadata">Tags: <a href="http://www.wordpress.com.tw/?tag=wp-db-backup" rel="tag">WP-DB-Backup</a>, <a href="http://www.wordpress.com.tw/?tag=%e5%82%99%e4%bb%bd" rel="tag">備份</a>, <a href="http://www.wordpress.com.tw/?tag=%e5%a4%96%e6%8e%9b%e7%a8%8b%e5%bc%8f" rel="tag">外掛程式</a><br/> </p>
+				</div>
+
+				<p class="postmetadata">Posted in <a href="http://www.wordpress.com.tw/?cat=6" title="View all posts in Plugins" rel="category">Plugins</a>,  <a href="http://www.wordpress.com.tw/?cat=7" title="View all posts in 網誌" rel="category">網誌</a> | <a href="http://www.wordpress.com.tw/?p=127#comments" title="Comment on 備份你的 WordPress 外掛程式篇">2 Comments &#187;</a></p>
+							</div>
+								<p align="center"><a href="http://www.wordpress.com.tw/?paged=2">Older Posts &#187;</a></p>
+</div><!-- end id:content-main -->
+<div id="sidebar">
+<ul>
+<li class="sidebox">
+	<h3>About</h3>
+	<p>
+	<img src="http://www.wordpress.com.tw/wp/wp-content/themes/mistylook/img/profile.jpg" alt="Profile" /><br/>
+	<strong>wordpress.com.tw</strong><br/>我的 place‧Nothing But Blog!!<br/>
+	There are 129 Posts and 376 Comments so far.<p><a href="http://feeds.feedburner.com/wordpress-tw" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon32x32.png" alt="" style="vertical-align:middle;border:0"/></a>&nbsp;<a href="http://feeds.feedburner.com/wordpress-tw" rel="alternate" type="application/rss+xml">Subscribe in a reader</a></p>
+	</p>
+</li>
+<li class="sidebox"><h3>Categories</h3>		<ul>
+			<li class="cat-item cat-item-6"><a href="http://www.wordpress.com.tw/?cat=6" title="View all posts filed under Plugins">Plugins</a> (27)
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.wordpress.com.tw/?cat=5" title="View all posts filed under Themes">Themes</a> (18)
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.wordpress.com.tw/?cat=4" title="View all posts filed under Troubleshooting">Troubleshooting</a> (16)
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.wordpress.com.tw/?cat=8" title="View all posts filed under 無痛系列">無痛系列</a> (18)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.wordpress.com.tw/?cat=7" title="View all posts filed under 網誌">網誌</a> (82)
+</li>
+		</ul>
+</li><li class="sidebox"><h3>Tag Cloud</h3><a href='http://www.wordpress.com.tw/?tag=%e4%b8%ad%e6%96%87%e5%8c%96' class='tag-link-21' title='3 topics' style='font-size: 9.27272727273pt;'>中文化</a>
+<a href='http://www.wordpress.com.tw/?tag=%e4%bd%88%e6%99%af%e4%b8%bb%e9%a1%8c' class='tag-link-15' title='21 topics' style='font-size: 20.7272727273pt;'>佈景主題</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%81%b4%e9%82%8a%e6%ac%84' class='tag-link-57' title='1 topic' style='font-size: 8pt;'>側邊欄</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%82%99%e4%bb%bd' class='tag-link-24' title='3 topics' style='font-size: 9.27272727273pt;'>備份</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%8d%87%e7%b4%9a' class='tag-link-17' title='12 topics' style='font-size: 15pt;'>升級</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%a4%96%e6%8e%9b' class='tag-link-10' title='23 topics' style='font-size: 22pt;'>外掛</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%a4%96%e6%8e%9b%e7%a8%8b%e5%bc%8f' class='tag-link-55' title='1 topic' style='font-size: 8pt;'>外掛程式</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%ae%89%e5%85%a8%e6%80%a7' class='tag-link-27' title='3 topics' style='font-size: 9.27272727273pt;'>安全性</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%ae%89%e8%a3%9d' class='tag-link-23' title='4 topics' style='font-size: 9.90909090909pt;'>安裝</a>
+<a href='http://www.wordpress.com.tw/?tag=%e5%bc%8f%e6%a8%a3' class='tag-link-56' title='2 topics' style='font-size: 8.63636363636pt;'>式樣</a>
+<a href='http://www.wordpress.com.tw/?tag=%e6%a8%99%e7%b1%a4' class='tag-link-14' title='3 topics' style='font-size: 9.27272727273pt;'>標籤</a>
+<a href='http://www.wordpress.com.tw/?tag=%e6%ad%a3%e9%ab%94%e4%b8%ad%e6%96%87' class='tag-link-16' title='7 topics' style='font-size: 11.8181818182pt;'>正體中文</a>
+<a href='http://www.wordpress.com.tw/?tag=%e8%b3%87%e6%96%99%e5%ba%ab' class='tag-link-25' title='3 topics' style='font-size: 9.27272727273pt;'>資料庫</a>
+<a href='http://www.wordpress.com.tw/?tag=232' class='tag-link-45' title='2 topics' style='font-size: 8.63636363636pt;'>2.3.2</a>
+<a href='http://www.wordpress.com.tw/?tag=233' class='tag-link-46' title='1 topic' style='font-size: 8pt;'>2.3.3</a>
+<a href='http://www.wordpress.com.tw/?tag=25' class='tag-link-49' title='9 topics' style='font-size: 13.0909090909pt;'>2.5</a>
+<a href='http://www.wordpress.com.tw/?tag=251' class='tag-link-54' title='1 topic' style='font-size: 8pt;'>2.5.1</a>
+<a href='http://www.wordpress.com.tw/?tag=26' class='tag-link-66' title='2 topics' style='font-size: 8.63636363636pt;'>2.6</a>
+<a href='http://www.wordpress.com.tw/?tag=admin' class='tag-link-61' title='3 topics' style='font-size: 9.27272727273pt;'>admin</a>
+<a href='http://www.wordpress.com.tw/?tag=akismet' class='tag-link-31' title='1 topic' style='font-size: 8pt;'>Akismet</a>
+<a href='http://www.wordpress.com.tw/?tag=audio-player' class='tag-link-35' title='1 topic' style='font-size: 8pt;'>Audio&nbsp;player</a>
+<a href='http://www.wordpress.com.tw/?tag=avatar' class='tag-link-50' title='2 topics' style='font-size: 8.63636363636pt;'>Avatar</a>
+<a href='http://www.wordpress.com.tw/?tag=beta' class='tag-link-67' title='2 topics' style='font-size: 8.63636363636pt;'>Beta</a>
+<a href='http://www.wordpress.com.tw/?tag=cool-player' class='tag-link-28' title='1 topic' style='font-size: 8pt;'>Cool&nbsp;Player</a>
+<a href='http://www.wordpress.com.tw/?tag=css' class='tag-link-52' title='5 topics' style='font-size: 10.5454545455pt;'>CSS</a>
+<a href='http://www.wordpress.com.tw/?tag=faq' class='tag-link-11' title='11 topics' style='font-size: 14.3636363636pt;'>FAQ</a>
+<a href='http://www.wordpress.com.tw/?tag=flash-embed' class='tag-link-36' title='1 topic' style='font-size: 8pt;'>Flash&nbsp;Embed</a>
+<a href='http://www.wordpress.com.tw/?tag=gravatar' class='tag-link-51' title='2 topics' style='font-size: 8.63636363636pt;'>Gravatar</a>
+<a href='http://www.wordpress.com.tw/?tag=hashcash' class='tag-link-34' title='1 topic' style='font-size: 8pt;'>Hashcash</a>
+<a href='http://www.wordpress.com.tw/?tag=latest-comments' class='tag-link-32' title='1 topic' style='font-size: 8pt;'>Latest&nbsp;Comments</a>
+<a href='http://www.wordpress.com.tw/?tag=lightbox' class='tag-link-19' title='2 topics' style='font-size: 8.63636363636pt;'>Lightbox</a>
+<a href='http://www.wordpress.com.tw/?tag=rotate' class='tag-link-47' title='1 topic' style='font-size: 8pt;'>rotate</a>
+<a href='http://www.wordpress.com.tw/?tag=sharethis' class='tag-link-39' title='2 topics' style='font-size: 8.63636363636pt;'>ShareThis</a>
+<a href='http://www.wordpress.com.tw/?tag=sidebar' class='tag-link-58' title='1 topic' style='font-size: 8pt;'>sidebar</a>
+<a href='http://www.wordpress.com.tw/?tag=smiley' class='tag-link-9' title='2 topics' style='font-size: 8.63636363636pt;'>smiley</a>
+<a href='http://www.wordpress.com.tw/?tag=spam-karma' class='tag-link-26' title='1 topic' style='font-size: 8pt;'>Spam&nbsp;Karma</a>
+<a href='http://www.wordpress.com.tw/?tag=spoiler' class='tag-link-38' title='1 topic' style='font-size: 8pt;'>Spoiler</a>
+<a href='http://www.wordpress.com.tw/?tag=tags' class='tag-link-13' title='2 topics' style='font-size: 8.63636363636pt;'>Tags</a>
+<a href='http://www.wordpress.com.tw/?tag=tips' class='tag-link-20' title='16 topics' style='font-size: 17.5454545455pt;'>Tips</a>
+<a href='http://www.wordpress.com.tw/?tag=warning' class='tag-link-60' title='1 topic' style='font-size: 8pt;'>Warning</a>
+<a href='http://www.wordpress.com.tw/?tag=widgets' class='tag-link-18' title='3 topics' style='font-size: 9.27272727273pt;'>Widgets</a>
+<a href='http://www.wordpress.com.tw/?tag=wordpress' class='tag-link-12' title='18 topics' style='font-size: 18.8181818182pt;'>WordPress</a>
+<a href='http://www.wordpress.com.tw/?tag=wp-postratings' class='tag-link-59' title='1 topic' style='font-size: 8pt;'>WP-PostRatings</a>
+<a href='http://www.wordpress.com.tw/?tag=wp-grins' class='tag-link-37' title='1 topic' style='font-size: 8pt;'>WP&nbsp;Grins</a>
+<a href='http://www.wordpress.com.tw/?tag=wpvideo' class='tag-link-30' title='1 topic' style='font-size: 8pt;'>WPvideo</a></li>		<li class="sidebox">			<h3>Popular Posts</h3>			<ul>
+			<li><a href="http://www.wordpress.com.tw/?p=119">PocketT 單欄式佈景主題</a></li><li><a href="http://www.wordpress.com.tw/?p=117">超過 45 個必須拜訪的 WordPress 佈景主題</a></li><li><a href="http://www.wordpress.com.tw/?p=118">管理首頁 Widget 管理外掛</a></li><li><a href="http://www.wordpress.com.tw/?p=120">TypePad AntiSpam</a></li><li><a href="http://www.wordpress.com.tw/?p=121">強化你的 WordPress</a></li><li><a href="http://www.wordpress.com.tw/?p=116">Warning: cannot yet handle MBCS in html_entity_decode()!</a></li><li><a href="http://www.wordpress.com.tw/?p=114">佈景主題測試外掛程式</a></li><li><a href="http://www.wordpress.com.tw/?p=115">管理介面式樣外掛程式</a></li><li><a href="http://www.wordpress.com.tw/?p=108">佈景主題側邊欄位置錯誤</a></li><li><a href="http://www.wordpress.com.tw/?p=122">WP-Sticky 固定文章外掛程式</a></li>			</ul>
+		</li>		<li class="sidebox">			<h3>Recent Posts</h3>			<ul>
+						<li><a href="http://www.wordpress.com.tw/?p=137">i2Theme i3Theme 佈景主題 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=135">自製圖片外框式樣 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=133">打造自己的佈景主題第二篇 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=132">加速 WordPress 的4個簡單方法 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=134">WordPress 2.6 Beta 2 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=131">無痛使用 WordPress - YouTube篇 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=130">日期顯示式樣製作 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=129">圖片浮水印免費線上製作 PicMarkr </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=128">文章內容表格製作 </a></li>
+						<li><a href="http://www.wordpress.com.tw/?p=127">備份你的 WordPress 外掛程式篇 </a></li>
+						</ul>
+		</li>
+		<li class="sidebox">			<h3>Recent Comments</h3>			<ul id="recentcomments"><li class="recentcomments">scrow on <a href="http://www.wordpress.com.tw/?p=133#comment-5133">打造自己的佈景主題第二篇</a></li><li class="recentcomments"><a href="http://www.wordpress.com.tw"  rel='external nofollow'>max</a> on <a href="http://www.wordpress.com.tw/?p=133#comment-5132">打造自己的佈景主題第二篇</a></li><li class="recentcomments">scrow on <a href="http://www.wordpress.com.tw/?p=133#comment-5131">打造自己的佈景主題第二篇</a></li><li class="recentcomments"><a href="http://www.wordpress.com.tw"  rel='external nofollow'>max</a> on <a href="http://www.wordpress.com.tw/?p=133#comment-5130">打造自己的佈景主題第二篇</a></li><li class="recentcomments"><a href="http://www.wordpress.com.tw"  rel='external nofollow'>max</a> on <a href="http://www.wordpress.com.tw/?p=69#comment-5129">無痛安裝 WordPress 2.3版</a></li><li class="recentcomments">scrow on <a href="http://www.wordpress.com.tw/?p=133#comment-5128">打造自己的佈景主題第二篇</a></li><li class="recentcomments"><a href="http://www.workingholiday.tw" onclick="javascript:pageTracker._trackPageview ('/outbound/www.workingholiday.tw');" rel='external nofollow'>Happy Kao</a> on <a href="http://www.wordpress.com.tw/?p=69#comment-5127">無痛安裝 WordPress 2.3版</a></li><li class="recentcomments"><a href="http://www.wordpress.com.tw"  rel='external nofollow'>max</a> on <a href="http://www.wordpress.com.tw/?p=70#comment-5126">無痛安裝 WordPress-中文化篇</a></li><li class="recentcomments"><a href="http://workingholiday.tw" onclick="javascript:pageTracker._trackPageview ('/outbound/workingholiday.tw');" rel='external nofollow'>Happy Kao</a> on <a href="http://www.wordpress.com.tw/?p=70#comment-5125">無痛安裝 WordPress-中文化篇</a></li><li class="recentcomments"><a href="http://www.wordpress.com.tw"  rel='external nofollow'>max</a> on <a href="http://www.wordpress.com.tw/?p=127#comment-5122">備份你的 WordPress 外掛程式篇</a></li></ul>
+		</li>		<li class="sidebox">			<h3>WordPress 網誌聯播</h3>			<div class="textwidget"><script type="text/javascript" src="http://www.google.com/reader/ui/publisher-zh_TW.js"></script>
+<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/04487376726725035209/label/WordPress?n=10&callback=GRC_p(%7Bc%3A%22-%22%2Ct%3A%22%22%2Cs%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script></div>
+		</li><li class="sidebox" id="sidelinks">
+	<ul>
+		<li id="linkcat-53" class="linkcat"><h2>Blogroll</h2>
+	<ul>
+<li><a href="http://www.blog.idv.tw" title="部落格村" target="_blank">部落格村</a></li>
+
+	</ul>
+</li>
+	</ul>
+</li>
+		<li class="sidebox">			<h3>Meta</h3>			<ul>
+						<li><a href="http://www.wordpress.com.tw/wp/wp-login.php">Log in</a></li>
+			<li><a href="http://www.wordpress.com.tw/?feed=rss2" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.wordpress.com.tw/?feed=comments-rss2" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+		</li>		<li class="sidebox">						<div class="textwidget"><p><div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/tw/"><img alt="Creative Commons License" style="border-width:0; padding:0" src="http://i.creativecommons.org/l/by-nc-nd/2.5/tw/88x31.png"/></a><br/>本 著作 係採用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/tw/">創用 CC 姓名標示-非商業性-禁止改作 2.5 台灣 授權條款</a>授權.</div><p></div>
+		</li></ul>
+</div><!-- end id:sidebar -->
+</div><!-- end id:content -->
+</div><!-- end id:container -->﻿<div id="footer">
+<p><strong>wordpress.com.tw</strong> &copy; 2008 All Rights Reserved.</p>
+<p class="right">
+<span>佈景主題：<a href="http://wpthemes.info/misty-look/" title="MistyLook by Sadish Bala" target="_blank">MistyLook</a> | 式樣修改：<a href="http://www.wordpress.com.tw" title="wordpress.com.tw">max</a> | 虛擬主機：<a href="http://www.5net.com.tw" title="5net.com.tw" target="_blank">5net</a></span>
+</p>
+<br class="clear" />
+</div><!-- end id:footer -->
+
+</body>
+</html>
