@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+"http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml><head>
+<meta forua="true" http-equiv="Cache-Control" content="max-age=0"/>
+</head>
+<card id="menu" title="Opera Mini 3.1.2">
+<p><big>Opera Mini 3.1.2</big></p>
+<p>Your phone model could not be detected.</p>
+<p>High memory and low memory versions of Opera Mini are available. We recommend that you download the low memory version, unless you are certain that your phone will have enough memory to run the high memory version.</p>
+<p>See the <a href='http://www.operamini.com/download/'>list of known phones</a> for more details.</p>
+<p>
+<b><a href="/images/beta/01-start.gif/mini.jad?rnd=1787844407&amp;edition=hifi">Download high memory version</a></b> <small>(International)</small><br/><b><a href="/images/beta/01-start.gif/mini.jad?rnd=1525837491&amp;edition=lofi">Download low memory version</a></b> <small>(International)</small><br/>
+<a href='/?langsel=1'>Download in another language.</a></p>
+<p><a href="http://mini.opera.com/beta/">Try the third beta of Opera Mini 4</a></p>
+<p>For more information, please visit <a href="http://operamini.com/">http://operamini.com/</a> with a desktop Web browser.</p><p><i>Opera Mini is a product from <a href='http://wap.opera.com'>Opera Software</a></i></p></card></wml>
