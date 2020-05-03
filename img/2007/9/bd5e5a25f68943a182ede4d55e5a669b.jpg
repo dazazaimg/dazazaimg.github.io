@@ -1,0 +1,100 @@
+<HTML>
+<HEAD>
+<TITLE>17173.com网络游戏资深专业门户站--</TITLE>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=GBK">
+<meta name="description" content="17173.com: 中文图形网络游戏尽在17173">
+<meta name="keywords" content="杂志,俱乐部,游戏,网络,网游,网络游戏,攻略,秘笈,经验,外挂,Club,Game,Net,Redmoon,UO,Mud,Online games,netdragon,17173">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<style>
+<!--
+.p4{font-size:14.8px;line-height:140%;}
+.p3{font-size:13px;line-height:140%;}
+.p2{font-size:12px;line-height:140%;}
+.NewsContent1{
+	font-size: 12pt;line-height:140%;
+}
+.NewsContent2{
+	font-size: 14px;line-height:140%;
+}
+.NewsContent3{
+	font-size: 9pt;line-height:140%;
+}
+.picborder {  border: #999999; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+-->
+</style>
+<script>
+function Request(sName)
+{
+  /*
+   get last loc. of ?
+   right: find first loc. of sName
+   +2
+   retrieve value before next &
+  
+  */
+  
+  var sURL = new String(window.location);
+  var iQMark= sURL.lastIndexOf('?');
+  var iLensName=sName.length;
+  
+  //retrieve loc. of sName
+  var iStart = sURL.indexOf('?' + sName +'=') //limitation 1
+  if (iStart==-1)
+        {//not found at start
+        iStart = sURL.indexOf('&' + sName +'=')//limitation 1
+		if (iStart==-1)
+		   {//not found at end
+		    return 0; //not found
+		   }   
+        }
+        
+  iStart = iStart + + iLensName + 2;
+  var iTemp= sURL.indexOf('&',iStart); //next pair start
+  if (iTemp ==-1)
+		{//EOF
+		iTemp=sURL.length;
+		}  
+  return sURL.slice(iStart,iTemp ) ;
+  sURL=null;//destroy String
+}
+</script>
+</head>
+<body link="#0000FF" vlink="#0000FF" alink="#0000FF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<SCRIPT language=javascript src="http://news.17173.com/news_js/news/news_head07.js"></SCRIPT>
+<table width="770" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td align="center"><b> <font color="#0000FF">
+            <script>	  
+				  if(Request("title")!=0){
+				  	document.write(Request("title"))
+				  }
+	</script>
+            </font></b></td>
+        </tr>
+        <tr> 
+          <td align="center"> 
+            <script>
+				  if(Request("url")!=0){
+	document.write("<div align='center'><a title=\"点击观看完整的图片...\" href=\""+Request("url")+"\" target=\"_blank\"><img src=\""+Request("url")+"\" border=0 class=\"picborder\"></a></div>")
+	}
+	</script>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<DIV id=bottom>
+<DIV id=bottomleft></DIV>
+<DIV id=bottomright><FONT face='\"Arial,' sans-serif\? Helvetica,>&copy;</FONT> 2001-2007 <A href='\"http://www.17173.com\"' target=_blank>www.17173.com</A> <A href='\"http://www.sohu.com/about/copyright.html\"' target=_blank>All Rights Reserved.</A><BR>建议意见：<A href='\"http://800.17173.com/mem/net_m.php\"' target=_blank>玩家留言区</A>　商务合作：<A href='\"http://800.17173.com/mem/customer_m.php\"' target=_blank>客户留言区</A><BR>广告专线：0591-87878497　客服电话：0591-87826743 <A href='\"http://about.17173.com/\"' target=_blank>关于我们</A> <A id=Url_setWithHomepage onclick=\ href='\"#\"' BEHAVIOR: ? this.setHomePage(?http: www.17173.com?);\?? url(#default#homepage)\?>设为首页</A> <A href='\"http://800.17173.com\"' target=_blank>玩家客服</A></DIV></DIV><!-- START 17173 Site Census V1.2 -->
+<script language="JavaScript" src="http://js.17173.com/ping.js"></script>
+<noscript>
+  <img src='http://log.17173.com/ping.gif?c=119' height='1' width='1'>
+</noscript>
+<!-- END 17173 Site Census V1.2 -->
+</BODY>
+</HTML>
+
