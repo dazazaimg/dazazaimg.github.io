@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>该文章不存在_博客大巴</title>
+<link rel="stylesheet" href="http://public.blogbus.com/images/site_v4/layout.css" type="text/css" />
+<link rel="stylesheet" href="http://public.blogbus.com/images/site_v4/jump.css" type="text/css" />
+<!--[if gte IE 5.5000]>
+<script type="text/javascript" src="http://public.blogbus.com/images/site_v4/correctPNG.js">
+</script>
+<![endif]-->
+
+<script language="javascript">var urls=new Array;</script>
+<script type="text/javascript" src="http://public.blogbus.com/support/404.js"></script>
+<script language="javascript">
+    count = urls.length;
+    if (count>0)
+    {
+        url = urls[Math.floor(Math.random()*count)];
+                setTimeout("window.open(url,'_parent')",2000);
+    }
+</script>
+
+</head>
+
+<body id="logpage" class="page">
+<div id="outterWapper">
+<!--header start-->
+  <div id="header">
+    <h1></h1>
+    <h2></h2>
+  </div>
+  <!--header end -->
+<!--body start-->
+    <div id="innerWapper">
+        <div id="pageBanner">
+
+        <h2>博客大巴 - 该文章不存在</h2>
+      </div>
+<!--left start-->
+      <div id="mainContainer">
+        <div class="singnup">
+        <div class="jumpInfo warn">
+          <h3>该文章不存在！</h3>
+                  <div>&nbsp;</div>
+          <p>您现在可以：</p>
+
+          <p>
+          <a href="#" onclick='history.go(-1);'>返回..</a><br />
+          <a href='#q' class="jumpToSearch">站内搜索</a><br class="jumpToSearch" />
+          <a href="http://pindao.blogbus.com/">博客大巴频道</a><br  />
+          <a href="http://www.blogbus.com/">博客大巴首页</a></p>
+        </div>
+        </div>
+
+      </div>
+<!--left end-->
+<!--right start-->
+      <div id="sideContainer"><div class="jumpNews" >
+        <div class="jump_search" style="padding:100px 0 100px;">
+                <form action='http://search.blogbus.com/search' method='get'>
+        <table cellpadding="0px" cellspacing="0px" border="0">
+                <tr>
+        <td>
+        <input name="q" id="searchBlog" type="text" class="seachEffectB" onfocus="this.className='seachEffectF';"  onblur="this.className='seachEffectB';"  value=""  />
+
+        </td>
+        <td><input type="hidden" name="dir" value="blog"/>
+        <input name="" type="submit" value="搜 索" class="button" />
+        </td>
+        </tr>
+        </table></form>
+        <p class="searchInfo" style="color:#999; font-size:13px; margin-top:5px;">搜索博客大巴内您感兴趣的文章</p>
+        </div>
+
+        </div>
+      </div>
+      </div>
+<!--right end-->
+<div class="clear"></div>
+    </div>
+<!--body end-->
+</div>
+<!--footer start-->
+<div id="footer"> <a href="http://blogbus.blogbus.com">网站动态</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/about/about.html">关于我们</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/about/jobs/jobs.html">工作机会</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/about/blogserviceterm.html">相关法律</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/about/adservice.html">广告服务</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/store/" target="_blank">Bus小店</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/user/reg.php" target="_blank">申请博客</a>&nbsp;|&nbsp;<a href="http://www.blogbus.com/about/sitemap.html">网站地图</a> <br />
+
+  Copyright 2002-2007 BlogBus.com, All Rights Reserved.&nbsp;&nbsp;博客大巴&nbsp;版权所有&nbsp;&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank">沪ICP备05008275号</a> </div><!--footer end-->
+</body>
+
+</html>
