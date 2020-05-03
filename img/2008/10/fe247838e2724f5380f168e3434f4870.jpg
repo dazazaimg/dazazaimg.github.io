@@ -1,0 +1,70 @@
+<style>
+<!--
+.pic {  border: #999999; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+-->
+</style>
+<title>1t1t.com 网游先锋 - 查看原图</title>
+<script>
+function Request(sName)
+{
+
+  /*
+   get last loc. of ?
+   right: find first loc. of sName
+   +2
+   retrieve value before next &
+  
+  */
+  
+  var sURL = new String(window.location);
+  var iQMark= sURL.lastIndexOf('?');
+  var iLensName=sName.length;
+  
+  //retrieve loc. of sName
+  var iStart = sURL.indexOf('?' + sName +'=') //limitation 1
+  if (iStart==-1)
+        {//not found at start
+        iStart = sURL.indexOf('&' + sName +'=')//limitation 1
+		if (iStart==-1)
+		   {//not found at end
+		    return 0; //not found
+		   }   
+        }
+        
+  iStart = iStart + + iLensName + 2;
+  var iTemp= sURL.indexOf('&',iStart); //next pair start
+  if (iTemp ==-1)
+		{//EOF
+		iTemp=sURL.length;
+		}  
+  return sURL.slice(iStart,iTemp ) ;
+  sURL=null;//destroy String
+}
+</script>
+
+<script language="JavaScript" type="text/javascript">
+function bbimg(o){var zoom=parseInt(o.style.zoom, 10)||100;zoom+=event.wheelDelta/12;if (zoom>0) o.style.zoom=zoom+'%';return false;}
+function Download(ForumNo,TopicNo,ReplyNo){
+document.Download.forum.value=ForumNo;
+document.Download.topic.value=TopicNo;
+document.Download.reply.value=ReplyNo;
+document.Download.submit();
+}
+
+function O9(id) {if(id != "") window.open("profile.cgi?action=show&member=" + id);}
+</script>
+
+
+
+<script>
+	if(Request("title")!=0){
+		document.write(Request("title"))
+	}
+</script>
+
+<script>
+if(Request("url")!=0){
+	document.write("<div align='center'><a title=\"点击查看完整图片\" href=\""+Request("url")+"\" target=\"_blank\"><img src=\""+Request("url")+"\" border=0 class=\"pic\" ></a></div>")
+}
+</script>
+
