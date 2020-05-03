@@ -1,0 +1,195 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+        <meta name="keywords" content="image host, image hosting, image sharing, simple image sharer, simple image hoster, simple image sharing, simple image hosting">
+        <meta name="description" content="Imgur is an image hosting service that allows you to easily upload a picture and share it with your friends, post it on Reddit or Digg, or embed it in your blog. You can even resize, crop and rotate it. Share and host your images in seconds!">
+        <meta name="robots" content="FOLLOW,INDEX">
+        <title>imgur: the simple image host</title>
+	<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="Imgur Gallery" href="http://imgur.com/rss" />
+	<link rel="stylesheet" href="/include/share.css" type="text/css" />
+	<link type="text/css" href="/include/ui.theme.css" rel="stylesheet" />
+	<script type="text/javascript" src="/include/js/curvycorners.src.js"></script>
+	<script type="text/javascript" src="/include/js/jquery.js"></script>
+	<script type="text/javascript" src="/include/js/slide.jquery.js"></script>
+	<script type="text/javascript" src="/include/js/jquery.validate.pack.js"></script>
+	<script type="text/javascript">
+		var ext = ".jpg";
+	</script>
+	<script type="text/javascript" src="/include/js/share.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="topbar">
+						<a href="/forum">forum</a>
+			<a href="/stats">statistics</a>
+			<a href="/gallery">gallery</a>
+		</div>
+						<div id="secondbar">
+			<table width="100%" height="100">
+				<tr>
+					<td width="290" valign="middle" align="center">
+						<a href="/"><img src="/images/imgur_small.png" alt="the simple image sharer" /></a>
+					</td>
+					<td align="center" valign="middle" class="money-in-the-bank">
+						<script type="text/javascript"><!--
+						google_ad_client = "pub-4470792243209857";
+						google_ad_slot = "7794159684";
+						google_ad_width = 728;
+						google_ad_height = 90;
+						//-->
+						</script>
+						<script type="text/javascript"
+						src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+						</script>
+											</td>
+				</tr>
+			</table>
+		</div>
+		<div id="content">
+			<table align="center" style="margin-bottom: 30px">
+								<tr>
+					<td valign="top">
+						<div id="share">
+							<div id="share-top">
+								<div class="code" id="post">
+									<strong>Share It</strong>
+									<div class="ui-corner-all ui-state-highlight">
+										<div class="share-links">
+											<a href='http://reddit.com/submit?url=http%3A%2F%2Fimgur.com%2F4Vp9N.jpg' title="Submit to Reddit">Reddit</a>
+											<a href='http://www.digg.com/submit?phase=2&url=http%3A%2F%2Fimgur.com%2F4Vp9N.jpg' title="Submit to Digg">Digg</a>
+											<a href='http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fimgur.com%2F4Vp9N.jpg' title="Submit to Fark">Fark</a>
+											<!--<a href='http://del.icio.us/post?v=2&url=http%3A%2F%2Fimgur.com%2F4Vp9N.jpg' title="Submit to Del.icio.us">Del.icio.us</a>-->
+											<a href='http://twitter.com/home?status=http%3A%2F%2Fimgur.com%2F4Vp9N.jpg' title="Submit to Twitter">Twitter</a>
+										</div>
+									</div>
+								</div>
+								<div class="code" id="label">
+									<strong>The Image</strong>
+									<div class="ui-corner-all ui-state-highlight">
+										<a id="image" href="http://imgur.com/4Vp9N.jpg">http://imgur.com/4Vp9N.jpg</a>
+									</div>
+								</div>
+								<div class="code">
+									<strong>Direct Link (email & IM)</strong>
+									<div class="ui-corner-all ui-state-highlight">
+										<input type="text" id="direct" value="http://imgur.com/4Vp9N.jpg" readonly="readonly" />
+									</div>
+								</div>
+								<div class="code">
+									<strong>HTML Image (websites / blogs)</strong>
+									<div id="image" class="ui-corner-all ui-state-highlight">
+										<input type="text" id="htmlimage" value='&lt;img src="http://imgur.com/4Vp9N.jpg" alt="Hosted by imgur.com" /&gt;' readonly="readonly" />
+									</div>
+								</div>
+								<div class="code">
+									<strong>HTML Link (websites / blogs)</strong>
+									<div id="link" class="ui-corner-all ui-state-highlight">
+										<input type="text" id="htmllink" value='&lt;a href="http://imgur.com/4Vp9N.jpg" title="Hosted by imgur.com"&gt;http://imgur.com/4Vp9N.jpg&lt;/a&gt;' readonly="readonly" />
+									</div>
+								</div>
+								<div class="code">
+									<strong>Message Boards</strong>
+									<div id="boards" class="ui-corner-all ui-state-highlight">
+										<input type="text" id="board" value="[IMG]http://imgur.com/4Vp9N.jpg[/IMG]" readonly="readonly" />
+									</div>
+								</div>
+								<div class="code code-bottom">
+									<strong>Linked <span id="label2">Image</span> for Message Boards</strong>
+									<div id="linked-boards" class="ui-corner-all ui-state-highlight">
+										<input type="text" id="linked-board" value="[URL='http://imgur.com/4Vp9N.jpg'][IMG]http://imgur.com/4Vp9N.jpg[/IMG][/URL]" readonly="readonly" />
+									</div>
+								</div>
+							</div>
+							<div id="share-bottom">
+								<div id="view-thumbs" class="ui-corner-all ui-state-highlight">
+									<img src="http://imgur.com/4Vp9Ns.png" />
+									<div class="links">
+										<span id="orig"><span class="current-selected">Original Image</span></span><br />
+										<span id="small"><a href="javascript:smallThumb()">Small Thumbnail</a></span><br />
+										<span id="large"><a href="javascript:largeThumb()">Large Thumbnail</a></span><br />
+									</div>
+									
+									<div style="clear: both"></div>
+								</div>
+																<div id="data" class="ui-corner-all ui-state-highlight">
+									<table width="100%">
+										<tr>
+											<td width="70">Views:</td>
+											<td><span class="stat">375,921</span></td>
+											<td><span class="datanote">* Not Real-time</span></td>
+										</tr>
+										<tr>
+											<td width="70">Submited:</td>
+											<td><span class="stat">6 days ago</span></td>
+										</tr>
+										<tr>
+											<td width="110">Bandwidth Used:</td>
+											<td><span class="stat">40.81 GB</span></td>
+										</tr>
+									</table>
+								</div>
+																<div style="margin-top:10px; margin-right: 11px">
+									<div style="float: left">
+										<a href="javascript:showEmail()">Email It</a><br />
+									</div>
+									<div style="float: right;">
+										<a href="#" class="bookmark" title="imgur | 4Vp9N">Bookmark This Page</a>
+									</div>
+									<div id="emailDiv">
+										<form id="emailForm" onsubmit="return send_email()">
+											<table class="padded" style="width: 100%">
+												<tr><td width="75">Your Name:</td><td><input type="text" name="name" id="name" class="required" style="width: 100%" /></td></tr>
+												<tr><td width="75">Their Email:</td><td><input type="text" name="email" id="email" class="required email" style="width: 100%" /></td></tr>
+												<tr><td width="75">Optional Message:</td><td><textarea id="email_message" name="email_message" style="width: 100%"></textarea></td></tr>
+												<tr><td colspan="2"><input id="submit" type="submit" name="submit" value="Send Email" class="email" /></td></tr>
+											</table>
+											<input type="hidden" value="4Vp9N" name="id" id="id">
+										</form>
+										<div id="message"></div>
+										<div id="email-success" style="display:none">Your email has been sent.</div>
+									</div>
+																		<div style="clear: both"></div>
+								</div>
+								<div id="startover">
+									<input type="button" class="new-image" value="" onclick="window.location = '/';" />
+								</div>
+							</div>
+						</div>
+					</td>
+					<td valign="top">
+						<div id="preview">
+							<a href="http://imgur.com/4Vp9N.jpg"><img src="http://imgur.com/4Vp9Nl.jpg" /></a>
+						</div>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<input type="text" id="unhighlight" style="display: none" />
+		<div class="push"></div>
+	</div>
+<div id="footer">
+	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=UKBTKWJGD5T2U&lc=US&item_name=imgur%2ecom&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" title="It's a noble cause...">donate</a>
+	<a href="/faq.php" title="have a question?">faq</a>
+	<a href="/delete.php" title="delete an image">request deletion</a>
+	<a href="mailto:imgur.com@gmail.com" title="contact me">contact me</a>
+	<a href="/legal.php" title="legal jargon...">legal</a>
+	<!--<a href="/advertise.php" title="advertise with imgur">advertise</a>-->
+</div>
+<script type="text/javascript">
+	if($('#muns').height() < 15) {
+		$('#muns').hide();
+	}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6671908-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
