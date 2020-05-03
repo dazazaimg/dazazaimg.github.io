@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>登录 - 歪酷 Ycool.com</title>
+<meta name="robots" content="index, follow">
+<link href="http://s.ycstatic.com/yc/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link href="http://s.ycstatic.com/yc/yc_2.css" rel="stylesheet" type="text/css">
+<link href="http://s.ycstatic.com/yc/account.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<div id="header">
+    <div class="logo">
+    <a href="http://my.ycool.com/"><img src="http://s.ycstatic.com/yc/logo.png" alt="歪酷 Ycool.com" border="0" height="50" width="100"></a>
+    </div>
+  <div class="wrapper">
+      <div class="nav-right">
+      <ul>
+		    <li><a href="http://account.ycool.com/signup.php">免费注册</a></li>
+		    <li><a href="http://account.ycool.com/signin.php">登录歪酷</a></li>
+      </ul>
+    </div>
+    <div class="nav-left">
+      <ul>
+        <li><a href="http://my.ycool.com/">首页</a></li>
+      </ul>
+    </div>
+  </div>
+  <div style="clear: both"></div>
+</div>
+
+<div id="body">
+  <div id="sidebar">
+    <div id="sideapp">
+      <ul>
+        <li>
+          <span class="app-action"><a href="http://blog.ycool.com/">打理</a></span>
+          <span class="app-icon"><img src="http://s.ycstatic.com/yc/app_101.png" height="16" width="16"></span>
+          <a href="http://www.yculblog.com/">歪酷博客</a>
+        </li>
+        <li><span class="app-icon"><img src="http://s.ycstatic.com/yc/app_601.png" height="16" width="16"></span><a href="http://zuicool.com/">最酷</a></li>
+        <li><span class="app-icon"><img src="http://s.ycstatic.com/yc/app_501.png" height="16" width="16"></span><a href="http://fifid.com/">非非</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div id="main">
+
+<!--<a href="signup.php?_yc_service=yc&_yc_dest=http%3A%2F%2Fwww.ycool.com%2Findex.php%3F">&laquo; 还没有注册?</a></p>-->
+
+        <form action="signin.php" method="post">
+          <table class="accountform">
+            <tr>
+              <th valign="top">帐户的Email:</th>
+              <td><input type="text" id="signin_token" name="signin_token" value="" style="width: 180px; font-family: 'Courier New'" tabindex="10">
+                <span style="color: #999">也可以输入 ****.ycool.com 的 **** 部分</span>
+              </td>
+            </tr>
+            <tr>
+              <th valign="top">密码:</th>
+              <td><input type="password" id="signin_passwd" name="signin_passwd" style="width: 180px" tabindex="20">
+                <a href="resetpasswd.php?_yc_service=yc">不知道? 忘记密码了?</a>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td><label for="rememberme"><input type="checkbox" name="rememberme" id="rememberme" value="1" checked> 在这台电脑上以后不用再登录 (公用电脑请勿选择)</label>
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <input type="hidden" name="act" value="signin">
+                <input type="hidden" name="_yc_dest" value="http://www.ycool.com/index.php?">
+                <input type="hidden" name="_yc_service" value="yc">
+                <input type="submit" value="登录" style="font-weight: bold; font-size: 14px" tabindex="100">
+              </td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <p style="font-size: 14px; font-weight: bold">
+                  <a href="signup.php?_yc_service=yc&_yc_dest=http%3A%2F%2Fwww.ycool.com%2Findex.php%3F">注册歪酷是免费的! &raquo;</a></p>
+              </td>
+            </tr>
+          </table>
+        </form>
+
+        <p>&nbsp;</p>
+
+	</div>
+
+  <div id="footer">
+    <div style="float: right">
+      <a href="http://www.ycool.com/" target="_blank">Ycool.com</a> -
+      <a href="http://www.ycool.com/termofservice" target="_blank">服务条款</a> -
+      沪ICP备05001191
+    </div>
+    &copy; 2002-2008 歪酷网络科技
+  </div>
+
+</div>
+
+<script type="text/javascript" src="http://s.ycstatic.com/js/mootools-release-1.11-EleSel_Ajax.js"></script>
+<script type="text/javascript" src="http://s.ycstatic.com/yc/core_1.js"></script>
