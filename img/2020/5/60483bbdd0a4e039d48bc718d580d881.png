@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="XBHHxXLW9/9UQDndTtQxwMFfsYjEXQexWXDsd1k4srVA3gmZcSPVXv3IFGbOcgXSAt3ejNI6sQe/Taz5TwWmoQ==" />
+<title>404 Error - CodePen</title>
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400italic,700,700italic,900,900italic" rel="stylesheet" />
+<link rel="stylesheet" media="all" href="https://static.codepen.io/assets/global/global-f8bdffb4a2b33cad55ad5978ba03fb0c7ceddfd044fd2929b01e41dcf84fe8fe.css" />
+<link rel="stylesheet" media="all" href="https://static.codepen.io/assets/page/page-70aadc20a7ffd71654619af505e753acda882b1843633107a455a4786dacf3cd.css" />
+<link rel="stylesheet" media="screen" href="https://static.codepen.io/assets/packs/css/everypage-eba492d4.css" />
+<link rel="stylesheet" media="screen" href="https://static.codepen.io/assets/errors/404-91138f5aff6a636d14401ed2f372a88e47b48e1969989b01efe19da3775e790f.css" />
+<script>window.__404 = true;</script>
+<link rel="apple-touch-icon" type="image/png" href="https://static.codepen.io/assets/favicon/apple-touch-icon-5ae1a0698dcc2402e9712f7d01ed509a57814f994c660df9f7a952f3060705ee.png" />
+<meta name="apple-mobile-web-app-title" content="CodePen">
+<link rel="shortcut icon" type="image/x-icon" href="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+<link rel="mask-icon" type="" href="https://static.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" />
+<script>/* Firefox needs this to prevent FOUC. */</script>
+</head>
+<body class="error-404
+    logged-out
+
+
+
+    not-team
+">
+<header id="main-sidebar" class="main-sidebar">
+</header>
+<div id="react-search-and-user-menu"></div>
+<header class="mega-header center">
+<h1 data-test-id="text-404">404 (Page Not Found)</h1>
+<p>I'm afraid you've found a page that doesn't really exist. That can happen when you follow a link to something that has since been deleted. Or the link was incorrect to begin&nbsp;with.</p>
+<p>Sorry about that. We've logged the error for review, in case it's our fault. For now, enjoy this randomized and thematically appropriate Pen. This one is by <a href="https://codepen.io/nw/pen/WQmxYY">Nathaniel Watson</a>.</p>
+</header>
+<iframe src="https://cdpn.io/team/codepen/debug/dde819183e20435eaca9ea7d64110ff3" frameborder="0" class="hero-404-iframe" scrolling="no"></iframe>
+<div class="page-wrap center">
+<a href="/">Go to the homepage</a> &ensp;&middot;&ensp; <a href="/support/">Contact Support</a> &ensp;&middot;&ensp; <a href="https://blog.codepen.io/documentation/">Visit&nbsp;Documentation</a>
+</div>
+<div id="react-site-footer"></div>
+<div id="popup-overlay" class="overlay popup-overlay"></div>
+<div id="modal-overlay" class="overlay modal-overlay"></div>
+<noscript>
+
+  <input type="checkbox" class="modal-closing-trick" id="modal-closing-trick">
+
+  <div class="overlay noscript-overlay" style="display: block;"></div>
+
+  <div class="modal modal-message group modal-warning">
+
+    <div class="modal-title">CodePen doesn't work very well without JavaScript.</div>
+
+    <p>We're all for progressive enhancement, but CodePen is a bit unique in that it's all about writing and showing front end code, including JavaScript. It's required to use most of the features of CodePen.</p>
+
+    <p>Need to know how to enable it? <a href="http://enable-javascript.com/" target="_blank" rel="noopener">Go here.</a></p>
+
+    <label class="button button-medium" for="modal-closing-trick">Close this, use anyway.</label>
+
+  </div>
+
+</noscript>
+<input type="hidden" id="init-data" value="{&quot;__browser&quot;:{&quot;device&quot;:&quot;unknown&quot;,&quot;mobile&quot;:null,&quot;name&quot;:&quot;chrome&quot;,&quot;platform&quot;:&quot;mac&quot;,&quot;version&quot;:&quot;80&quot;},&quot;__analytics&quot;:{&quot;controllerActionName&quot;:&quot;handle404&quot;,&quot;controllerName&quot;:&quot;error&quot;,&quot;enabled&quot;:true},&quot;__remote_addr&quot;:&quot;47.75.241.227&quot;,&quot;__CPDATA&quot;:{&quot;domain_iframe&quot;:&quot;https://cdpn.io&quot;,&quot;host&quot;:&quot;codepen.io&quot;,&quot;iframe_allow&quot;:&quot;accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; microphone; midi; payment; vr&quot;,&quot;iframe_sandbox&quot;:&quot;allow-forms allow-modals allow-pointer-lock allow-popups allow-presentation allow-same-origin allow-scripts allow-top-navigation-by-user-activation&quot;},&quot;__env&quot;:&quot;production&quot;,&quot;__turnOffJS&quot;:false,&quot;__constants&quot;:{&quot;grid_iframe_sandbox_attributes&quot;:&quot;allow-scripts allow-pointer-lock allow-same-origin&quot;},&quot;__svg_sprite&quot;:&quot;/svg_sprite?v=9637ff09&quot;,&quot;__stream_analytics&quot;:{&quot;api_key&quot;:&quot;64puhuch8n2j&quot;,&quot;token&quot;:&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZXNvdXJjZSI6ImFuYWx5dGljcyIsImFjdGlvbiI6IioiLCJ1c2VyX2lkIjoiKiJ9.K-TP9-k-_ZnktGVf_CxDVZyUXKzGMFVJ--dNJ-20_t4&quot;},&quot;__user&quot;:{&quot;anon&quot;:true,&quot;base_url&quot;:&quot;/anon/&quot;,&quot;current_team_id&quot;:0,&quot;current_team_hashid&quot;:&quot;YdEzGn&quot;,&quot;hashid&quot;:&quot;VoDkNZ&quot;,&quot;id&quot;:1,&quot;itemType&quot;:&quot;user&quot;,&quot;name&quot;:&quot;Captain Anonymous&quot;,&quot;owner_id&quot;:&quot;VoDkNZYdEzGn&quot;,&quot;paid&quot;:false,&quot;tier&quot;:0,&quot;username&quot;:&quot;anon&quot;,&quot;created_at&quot;:null,&quot;email_verification_state&quot;:&quot;v&quot;},&quot;__firestore&quot;:{&quot;config&quot;:{&quot;apiKey&quot;:&quot;AIzaSyBgLAe7N_MdFpuVofMkcQLGwwhUu5tuxls&quot;,&quot;authDomain&quot;:&quot;codepen-store-production.firebaseapp.com&quot;,&quot;databaseURL&quot;:&quot;https://codepen-store-production.firebaseio.com&quot;,&quot;disabled&quot;:false,&quot;projectId&quot;:&quot;codepen-store-production&quot;},&quot;token&quot;:&quot;eyJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJodHRwczovL2lkZW50aXR5dG9vbGtpdC5nb29nbGVhcGlzLmNvbS9nb29nbGUuaWRlbnRpdHkuaWRlbnRpdHl0b29sa2l0LnYxLklkZW50aXR5VG9vbGtpdCIsImNsYWltcyI6eyJvd25lcklkIjoiVm9Ea05aWWRFekduIiwiYWRtaW4iOmZhbHNlfSwiZXhwIjoxNTg4OTgzMTYzLCJpYXQiOjE1ODg5Nzk1NjMsImlzcyI6ImZpcmViYXNlLWFkbWluc2RrLThva3lsQGNvZGVwZW4tc3RvcmUtcHJvZHVjdGlvbi5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInN1YiI6ImZpcmViYXNlLWFkbWluc2RrLThva3lsQGNvZGVwZW4tc3RvcmUtcHJvZHVjdGlvbi5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInVpZCI6IlZvRGtOWiJ9.zJ3DSjaJlTXaFpo3NIX0ZF04mJjkt8fzk_n2IsxFOXpe5eR-ri_o0ryQc2yJ1cMjx64g-y28vT2DxKz-okSldLgzOmFPM7njHdJ3MEzqDX-m8RpSgD2spoT-P48_uy70UcqduB-jlVyo91-z50RfIoqWm9WSXOE8Tbc9I8My_VRG5_hqNM7QWuTgvTTm0Q_-kARRz_0x5lTugrGfHv8u3RMkXSULixVaZxq0DDL0UV5j9eLDd_2ImMaqQ2ZugWdFoHhYy2wF03YaFFa0xqG0-3asMyh7pOrULnb4JHCByLQ6PLEdf3ywSN-vgnBSk77w1Bina65ZEBpt8c5fiKxW1Q&quot;},&quot;__graphql&quot;:{&quot;data&quot;:{&quot;sessionUser&quot;:{&quot;id&quot;:&quot;VoDkNZ&quot;,&quot;name&quot;:&quot;Captain Anonymous&quot;,&quot;avatar80&quot;:&quot;https://static.codepen.io/assets/avatars/user-avatar-80x80-bdcd44a3bfb9a5fd01eb8b86f9e033fa1a9897c3a15b33adfc2649a002dab1b6.png&quot;,&quot;avatar512&quot;:&quot;https://static.codepen.io/assets/avatars/user-avatar-512x512-6e240cf350d2f1cc07c2bed234c3a3bb5f1b237023c204c782622e80d6b212ba.png&quot;,&quot;canCreatePosts&quot;:false,&quot;currentContext&quot;:{&quot;id&quot;:&quot;VoDkNZ&quot;,&quot;baseUrl&quot;:&quot;/anon&quot;,&quot;title&quot;:&quot;Captain Anonymous&quot;,&quot;name&quot;:&quot;Captain Anonymous&quot;,&quot;avatar80&quot;:&quot;https://static.codepen.io/assets/avatars/user-avatar-80x80-bdcd44a3bfb9a5fd01eb8b86f9e033fa1a9897c3a15b33adfc2649a002dab1b6.png&quot;,&quot;avatar512&quot;:&quot;https://static.codepen.io/assets/avatars/user-avatar-512x512-6e240cf350d2f1cc07c2bed234c3a3bb5f1b237023c204c782622e80d6b212ba.png&quot;,&quot;username&quot;:&quot;anon&quot;,&quot;contextType&quot;:&quot;USER&quot;,&quot;projectLimitations&quot;:{&quot;projects&quot;:0,&quot;usedProjects&quot;:0,&quot;__typename&quot;:&quot;ProjectLimitations&quot;},&quot;privateByDefault&quot;:false,&quot;__typename&quot;:&quot;User&quot;},&quot;currentTeamId&quot;:null,&quot;baseUrl&quot;:&quot;/anon&quot;,&quot;username&quot;:&quot;anon&quot;,&quot;admin&quot;:false,&quot;anon&quot;:true,&quot;pro&quot;:false,&quot;verified&quot;:true,&quot;teams&quot;:[],&quot;permissions&quot;:{&quot;canCreatePrivate&quot;:false,&quot;canUploadAssets&quot;:false,&quot;__typename&quot;:&quot;UserPermissions&quot;},&quot;__typename&quot;:&quot;User&quot;}}}}">
+<script src="https://static.codepen.io/assets/common/everypage-c9e67ee9b7c2932b14d2cc61b5030e706c94919a2e7339f8b9127aa8c189a048.js"></script>
+<script src="https://static.codepen.io/assets/common/analytics_and_notifications-298f0d2f39fa3ffe132c01a5f9f204b88613f7d5e404eef56a5beea224f94a5e.js"></script>
+<script src="https://static.codepen.io/assets/packs/js/vendor-1f290939f2d6a73e10a6.chunk.js"></script>
+<script src="https://static.codepen.io/assets/packs/js/2-91819a1cf840a2bff94f.chunk.js"></script>
+<script src="https://static.codepen.io/assets/packs/js/everypage-48fa9f25f294b9fc7bc6.js"></script>
+</body>
+</html>
