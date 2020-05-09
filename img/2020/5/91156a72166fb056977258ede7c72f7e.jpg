@@ -1,0 +1,1429 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+        
+        
+        
+            
+                
+            
+            
+        
+        <!--[if IE ]><![endif]-->
+        <!doctype html>
+        <!--[if IE 7]>
+        <html class="rwd geo-override no-js vis lt-ie10 lt-ie9 lt-ie8 no-rtl headerfooter-menu3" lang="en"><![endif]-->
+        <!--[if IE 8]>
+        <html class="rwd geo-override no-js vis lt-ie10 lt-ie9 no-rtl headerfooter-menu3 " lang="en"><![endif]-->
+        <!--[if IE 9]>
+        <html class="rwd geo-override no-js vis lt-ie10 no-rtl headerfooter-menu3 " lang="en"><![endif]-->
+        <!--[if gt IE 9]><!-->
+        <html class="rwd geo-override no-js vis no-rtl headerfooter-menu3 " lang="en">
+        <!--<![endif]-->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <meta charset="UTF-8"/>
+    
+
+
+
+
+
+<title>Error: Page Not Found</title>
+
+    
+
+
+
+
+
+<link rel="dns-prefetch" href="//www.google-analytics.com/">
+<link rel="dns-prefetch" href="//www90.intel.com/">
+<link rel="dns-prefetch" href="//www91.intel.com/">
+<link rel="dns-prefetch" href="//dpm.demdex.net/">
+<link rel="dns-prefetch" href="//fast.intelcorp.demdex.net/">
+<link rel="dns-prefetch" href="//intel.tt.omtrdc.net/">
+<link rel="dns-prefetch" href="//s334284386.t.eloqua.com/">
+<link rel="dns-prefetch" href="//onsite2.researchintel.com/">
+
+    
+    
+        <link rel="dns-prefetch" href="//tags.tiqcdn.com/">
+    
+
+
+    
+
+
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<!--[if lte IE 9]>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<![endif]-->
+
+
+    <meta name="keywords" content="Error: Page Not Found"/>
+
+    <meta name="description" content="Error: Page Not Found"/>
+
+    <meta name="language" content="en"/>
+
+    <meta name="location" content="us"/>
+
+    <meta name="robots" content="follow,index,noarchive"/>
+
+    <meta name="X-Server" content="PRD1-07"/>
+
+
+    <meta property="og:image" content="https://www.intel.com/etc/designs/intel/us/en/images/printlogo.png"/>
+
+    <meta property="og:type" content="company"/>
+
+    <meta property="og:site_name" content="Intel"/>
+
+    <meta property="og:title" content="Error: Page Not Found"/>
+
+    <meta property="fb:admins" content="267985180046218"/>
+
+    <meta property="og:url" content="https://www.intel.com/content/www/us/en/404.html"/>
+
+    <meta property="og:description" content="Error: Page Not Found"/>
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+    <meta name="reimaginefilters" content=""/>
+
+    <meta name="generic1" content="true"/>
+
+    <meta name="localecode" content="en_US"/>
+
+    <meta name="mime" content="text/html"/>
+
+    <meta name="format" content="customcampaignlandingrwd"/>
+
+    <meta name="lastModifieddate" content="2019-07-01T12:09:43.617-07:00"/>
+
+    <meta name="intelkeywords" content="Error: Page Not Found"/>
+
+    <meta name="taxonomy" content=""/>
+
+    <meta name="title" content="Error: Page Not Found"/>
+
+    <meta name="thumbnailurl" content=""/>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    
+
+
+
+
+
+<link rel="icon" type="image/png" sizes="32x32" href="/etc/designs/ver/6.8.901/intel/default/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/etc/designs/ver/6.8.901/intel/default/favicon-16x16.png">
+<link rel="shortcut icon" href="/etc/designs/ver/6.8.901/intel/default/favicon.ico">
+    
+
+
+
+
+
+
+<link rel="canonical" href="http://www.intel.com/content/www/us/en/404.html"/>
+
+    
+
+    <style>
+        @-ms-viewport {
+            width: device-width;
+        }
+    </style>
+    <script>
+        (function () {
+            if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    <!--[if gt IE 9 | !IE ]><!-->
+    
+        
+        
+            <link rel="stylesheet" href="/etc/designs/ver/6.8.901/intel/clientlibs/pages/intc-core.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ver/6.8.901/intel/clientlibs/pages/commons-page.min.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/ver/6.8.901/intel/clientlibs/pages/intc-core.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ver/6.8.901/intel/clientlibs/pages/commons-page.min.js"></script>
+
+        
+    
+    
+    <![endif]-->
+    <!--[if lte IE 9]>
+    <link rel="stylesheet" href="/etc/designs/intel/clientlibs/pages/commons-page-legacy.min.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/intel/clientlibs/pages/commons-page-legacy.min.js"></script>
+
+    <link rel="stylesheet" href="/etc/designs/intel/clientlibs/pages/commons-page-legacy-ie9.min.css" type="text/css">
+
+    <![endif]-->
+    
+    <div class="clientcontext parbase"><script type="text/javascript">
+    $CQ(function() {
+        CQ_Analytics.SegmentMgr.loadSegments("\/etc\/segmentation");
+        CQ_Analytics.ClientContextUtils.init("\/etc\/clientcontext\/intel", "\/content\/www\/us\/en\/404");
+
+        
+    });
+</script>
+</div>
+
+    
+    
+    
+
+
+
+
+
+
+    
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/etc/designs/intel/clientlibs/pages/commons-page-ieOverrides.min.css" type="text/css">
+
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="/etc/designs/intel/us/en/css/intel.rwd.override.css"/>
+    
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="/etc/designs/intel/clientlibs/pages/commons-page-ieOverrides.min.js"></script>
+
+    <![endif]-->
+</head>
+
+        
+
+
+
+
+
+
+
+
+
+<body class="page-is-published">
+<script type="text/javascript">
+    var isTargetEnabled=false;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+        
+    
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+<script type="text/javascript">
+    var cq_tms = {
+        wa_asset_id: "d0f3a6b4394d46d3829d2f84ae6cb2fa",
+        wa_industry_type: "",
+        wa_partner_prog: "",
+        wa_subject: "",
+        wa_biz_size: "",
+        wa_emt_org: "",
+        wa_emt_intel: "",
+        wa_partner_type: "",
+        wa_programidentifier: "",
+        wa_location: "us",
+        wa_language: "en",
+        wa_english_title: "Error: Page Not Found",
+        wa_content_type: "landingpage",
+        wa_intel_platform: "",
+        wa_applications: "",
+        wa_local: "en_US",
+        wa_intel_technology: "",
+        wa_system_type: "",
+        wa_product_name: "",
+        wa_audience: "emtaudience:allaudiences",
+        wa_life_cycle: "",
+        wa_cq_url: "/content/www/us/en/404.html",
+        wa_page_type_micro: "customcampaignlandingrwd",
+        wa_env: "prd",
+        wa_cq_pub_env: "publish",
+        wa_transl_status: "",
+        wa_product_id: "",
+        wa_software: "",
+        wa_reference_design: "",
+        wa_codename: "",
+        wa_created_date: "Mon Nov 18 15:43:40 PST 2019",
+        wa_modifed_date: "Mon Jul 01 12:09:43 PDT 2019",
+        wa_ownedby: "emtorganizationalstructure:none,emtorganizationalstructure:smgsalesandmarketinggroup",
+        wa_managedby: "emtorganizationalstructure:hrhumanresources,emtorganizationalstructure:smgsalesandmarketinggroup/smgcxssmgcustomerexperienceandscalegroup/smgcxscontentexperience",
+        wa_nid : "",wa_event_type: "",
+        wa_idz_custom_tags: "",
+        wa_programming_language: "",
+        wa_skill_level: "",
+        wa_solution: "",
+        wa_product_formFactor: "",
+        wa_operating_system: "",
+        wa_marketing_products: ""
+    };
+    
+    
+    
+</script>
+
+
+
+
+<script type="text/javascript" src="/content/dam/www/global/wap/tms.sync.js" async></script>
+
+
+<div class="promo-banner-content"></div>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var isLoggedin = (location.protocol=='https:' && document.cookie.indexOf('SMSESSION')!=-1);
+    var loginValidateURL = 'https://www.intel.com/libs/apps/intel/myintel/profile.html/validate/loggedin';
+</script>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+    
+    
+        <div class="header-simplify component" data-component="header" data-component-id="1">
+            <header role="banner">
+                <span visibility="hidden"></span>
+                <div class="site-mask" data-igm-site-mask=""></div>
+                <nav class="global-menu-simplify navbar-fixed-top "
+                     role="navigation" aria-label="Site" data-igm="">
+                    <div class="container main-navbar">
+                        <div class="row">
+                            <div class="nav-left col-xs-5 mobileFirst">
+                                <div class="content">
+                                    <button class="hamburger icon hidden-md hidden-lg hidden-xl" data-toggle="mega-menu"
+                                            data-target="#menu-products"><span class="fa-menu"></span>
+                                    </button>
+                                    <ul class="hidden-xs hidden-sm">
+                                        
+                                            <li>
+                                                <button data-toggle="mega-menu"
+                                                        data-target="#menu-0">Products</button>
+                                            </li>
+                                        
+                                            <li>
+                                                <button data-toggle="mega-menu"
+                                                        data-target="#menu-1">Solutions</button>
+                                            </li>
+                                        
+                                            <li>
+                                                <button data-toggle="mega-menu"
+                                                        data-target="#menu-2">Support</button>
+                                            </li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="nav-center col-xs-2">
+                                <div class="content">
+                                    <a href="/content/www/us/en/homepage.html" alt="Intel homepage" class="navbar-logo" title="Intel Logo"></a>
+                                </div>
+                            </div>
+
+                            <div class="nav-right col-xs-5">
+                                <div class="content">
+                                    
+                                        <button type="button" class="language-selector-toggle mobileFirst"
+                                                aria-label='USA (English)'
+                                                data-igm-search-toggle="">
+                                    <span class="hidden-xs" aria-hidden="true">
+                                        USA (English)
+                                    </span>
+                                            <span class="icon fa-globe align-icons"></span>
+                                        </button>
+                                    
+
+                                    <span class="states-login">
+                            <span class="state-logged-in state-option">
+                            <span class="option-links" id="myprofile-signin-menu"></span>
+
+                            </span>
+                                    </span>
+                                    <button class="login login-toggle item icon mobileFirst"
+                                            aria-label='Sign In'
+                                            data-igm-search-toggle="">
+                                <span class="login-label" aria-hidden="true"> Sign In </span><span
+                                            class="icon-login align-icons fa-"></span></button>
+                                    
+                                <span role="search">
+                                    <button type="button"
+                                            title="Search"
+                                            class="search-button icon mobileFirst"
+                                            data-igm-search-toggle=""><span class="fa-search" id="newsearch"></span></button>
+                                </span>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="uheadersearch homepagesearch">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+    
+
+
+    <div id="simplify-search" class="search-content brand-darkest-gray theme-dark-1 component mobileFirst"
+         data-component="homepagesearch" data-igm-search-content=""
+         data-component-id="1">
+        <div class="wrapper-outer-sticky-footer">
+            <div class="wrapper-sticky-footer">
+                <div class="slide-search-results">
+                    <form class="search item" data-igm-search-control="" name="hpsform-new" id="hpsform-new" action="/content/www/us/en/search.html" onsubmit="return INTEL_TYPE_AHEAD.onSubmitHps('Search', '/content/www/us/en', 'en_US')">
+                        <button type="submit" class="search-button icon" aria-label="Search" data-tabindex="2"><span
+                                class="fa-search"></span></button>
+                        
+                            
+                            
+                                <label for="mobile-search">
+                                    <input id="toplevelcategory" name="toplevelcategory" type="hidden" value="none">
+                                    <input id="query" name="query" type="hidden" value="">
+                                    <input data-tabindex="1" data-search-input id="mobile-search" name="keyword" type="text"
+                                           data-igm-search-input title="Search" autocomplete="off"
+                                           placeholder="Search Intel.com">
+                                </label>
+                            
+                        
+                        <button id="header-btn-clear" type="clear" class="search-clear" data-igm-search-clear="">
+                            <span></span></button>
+                        <button type="button" id="cls-btn" class="close icon" aria-label="Close" data-igm-search-toggle=""
+                                data-tabindex="3"><span></span></button>
+                    </form>
+                    <div class="search-quick-links hidden" data-component="wa_skip_track"
+                         data-component-id="1">
+                        <div class="overlay-content quick-links-terms">
+                            <h3>Quick Links</h3>
+                            <p>Try these quick links to visit popular site sections</p>
+                            <ul>
+                                <li>
+                                    <a class="quick-link" rel="noopener noreferrer" href="https://downloadcenter.intel.com?wapkw=quicklink:download-center">
+                                        Download Center
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="quick-link" rel="noopener noreferrer" href="https://www.intel.com/content/www/us/en/products/processors.html?wapkw=quicklink:processors">
+                                        Processors
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="quick-link" rel="noopener noreferrer" href="https://www.intel.com/content/www/us/en/products/memory-storage.html?wapkw=quicklink:memory">
+                                        Memory
+                                    </a>
+                                </li>
+                                <li>
+                                    <a class="quick-link" rel="noopener noreferrer" href="https://www.intel.com/content/www/us/en/products/devices-systems.html?wapkw=quicklink:products">
+                                        Products
+                                    </a>
+                                </li>
+                                <li><a class="quick-link" rel="noopener noreferrer" href="https://www.intel.com/content/www/us/en/support.html?wapkw=quicklink:support">
+                                    Support
+                                </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="results-overlay results-recent results component" data-component="wa_skip_track"
+                         data-component-id="1">
+                        <div class="overlay-content recent-searches-terms">
+                            <h3>Recent Searches</h3>
+                        </div>
+                    </div>
+                </div>
+                <div class="slide-language-selector">
+                    <div class="modal-intel language-selector modal-expose-menu" id="modal-language-selector">
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    var languageslectorexists = false;
+</script>
+
+    <script type="text/javascript">
+        languageslectorexists = true;
+
+    </script>
+    <!-- MODAL for Language selector -->
+    <script id="gls-template" type="text/x-handlebars-template">
+        <div class="language-selector-block">
+            <div class="modal-content flyout-panel-block force-background" role="dialog"
+                 aria-labelledby="regionselector" aria-describedby="selectregion">
+                <div class="modal-header flyout-panel-block-header">
+                        
+                    <h2 class="modal-title" id="Region-Modal">
+                        <span class="icon fa-globe align-icons"></span>
+                        Select Your Region
+                        <div id="close_button" class="modal-footer flyout-panel-block-header">
+                            <button type="button" class="close icon" aria-label="Close" data-igm-search-toggle="">
+                                <span></span>
+                            </button>
+                        </div>
+                    </h2>
+                </div>
+                <div class="modal-body lang-selector-body">
+                    <div class="flyout-control-panel">
+                        <ul class="list-unstyled flyout-control-listing" id="language-accordion">
+
+                            {{#if alsoAvail}}
+                            <div class="col-xs-12 lang-selector">
+                                <h4 class="accordion-toggle fa- expanded" data-toggle="collapse"
+                                    data-parent="#language-accordion"
+                                    data-target="#header-translations">
+                                    {{localeTitle}}</h4>
+                            </div>
+                            {{#each sections}}
+                            <div id="header-translations" class="accordion-panel in">
+                                {{#each locale}}
+                                {{regionNames languageList @index countryName}}
+                                {{/each}}
+                            </div>
+                            {{/each}}
+                            {{/if}}
+
+                            <div class="col-xs-12 lang-selector">
+                                <h4 class="accordion-toggle fa- {{#if alsoAvail}}collapsed{{else}}expanded{{/if}}"
+                                    data-toggle="collapse"
+                                    data-parent="#language-accordion"
+                                    data-target="#home-redirects">
+                                    {{homepageTitle}}</h4>
+                            </div>
+                            {{#each sections}}
+                            <div id="home-redirects"
+                                 class="accordion-panel {{#if ../alsoAvail}}collapse{{else}}in{{/if}}">
+                                {{#each locale}}
+                                <li>
+                                    <a href="#homepage-{{@index}}" data-toggle="flyout" class="flyout-control">{{{countryName}}}<span
+                                            class="icon-caret fa-angle-right"></span></a>
+                                </li>
+                                {{/each}}
+                            </div>
+                            {{/each}}
+
+                        </ul>
+                        {{#each sections}}
+                        {{#each locale}}
+                        {{storeIndex @index}}
+
+                        <div class="flyout-panel flyout-panel-position-right flyout-panel-closed force-background"
+                             id="geo-{{getIndex}}">
+                            <div class="flyout-panel-inner">
+                                <div class="flyout-panel-header">
+                                    <a href="#" class="close-flyout back-link pull-left"><span
+                                            class="icon-back fa-angle-left"></span>
+                                        back</a>
+                                </div>
+                                <div class="flyout-panel-body">
+                                    <div class="igm-text-listing">
+                                        <div class="pad-btm-10">
+                                            <ul class="list-unstyled">
+                                                {{#each languageList}}
+                                                {{#if localelink}}
+                                                <li class="lang-option"><a
+                                                        data-locale="{{{language}}}_{{{locale}}}"
+                                                        href={{{localelink}}}>{{countryLanguageLabel label language}}</a>
+                                                </li>
+                                                {{/if}}
+                                                {{/each}}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {{/each}}
+                        {{/each}}
+
+                        {{#each sections}}
+                        {{#each locale}}
+                        {{#if languageList}}
+                        <div class="flyout-panel flyout-panel-position-right flyout-panel-closed force-background"
+                             id="homepage-{{@index}}">
+                            <div class="flyout-panel-inner">
+                                <div class="flyout-panel-header">
+                                    <a href="#" class="close-flyout back-link pull-left"><span
+                                            class="icon-back fa-angle-left"></span>back</a>
+                                </div>
+                                <div class="flyout-panel-body">
+                                    <div class="igm-text-listing">
+                                        <div class="pad-btm-10">
+                                            <ul class="list-unstyled">
+                                                {{#each languageList}}
+                                                {{#if_ne language 'en'
+                                                locale 'us' }}
+                                                <li class="lang-option"><a
+                                                        data-locale="{{{language}}}_{{{locale}}}"
+                                                        href={{{homepagelink}}}>{{countryLanguageLabel label language}}</a>
+                                                </li>
+                                                {{/if_ne}}
+                                                {{/each}}
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {{/if}}
+                        {{/each}}
+                        {{/each}}
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <script type="text/javascript">
+        var langSelectData = {"alsoAvail":true,"mobileHomepageTitle":"Find your Country's/Region's Homepage","mobileSelectTitle":"Select a Country/Region","mobileAvailableTitle":"Page Available In","sections":[{"locale":[{"countryName":"Asia Pacific","languageList":[{"homepagelink":"https://www.intel.sg/content/www/xa/en/homepage.html","localelink":"https://www.intel.sg/content/www/xa/en/404.html","label":"Asia Pacific (English)","locale":"xa","language":"en"},{"homepagelink":"https://www.intel.com.au/content/www/au/en/homepage.html","localelink":"https://www.intel.com.au/content/www/au/en/404.html","label":"Australia (English)","locale":"au","language":"en"},{"homepagelink":"http://www.intel.cn/content/www/cn/zh/homepage.html","localelink":"http://www.intel.cn/content/www/cn/zh/404.html","label":"China (简体中文)","locale":"cn","language":"zh"},{"homepagelink":"https://www.intel.in/content/www/in/en/homepage.html","localelink":"https://www.intel.in/content/www/in/en/404.html","label":"India (English)","locale":"in","language":"en"},{"homepagelink":"https://www.intel.co.id/content/www/id/id/homepage.html","localelink":"https://www.intel.co.id/content/www/id/id/404.html","label":"Indonesia (Bahasa Indonesia)","locale":"id","language":"id"},{"homepagelink":"https://www.intel.co.jp/content/www/jp/ja/homepage.html","localelink":"https://www.intel.co.jp/content/www/jp/ja/404.html","label":"Japan (日本語)","locale":"jp","language":"ja"},{"homepagelink":"https://www.intel.co.kr/content/www/kr/ko/homepage.html","localelink":"https://www.intel.co.kr/content/www/kr/ko/404.html","label":"Korea (한국어)","locale":"kr","language":"ko"},{"homepagelink":"https://www.intel.sg/content/www/xa/en/homepage.html","localelink":"","label":"Philippines (English)","locale":"xa","language":"en"},{"homepagelink":"https://www.intel.com.tw/content/www/tw/zh/homepage.html","localelink":"https://www.intel.com.tw/content/www/tw/zh/404.html","label":"Taiwan (繁體中文)","locale":"tw","language":"zh"},{"homepagelink":"https://www.thailand.intel.com/content/www/th/th/homepage.html","localelink":"https://www.thailand.intel.com/content/www/th/th/404.html","label":"Thailand (ไทย)","locale":"th","language":"th"},{"homepagelink":"https://www.intel.vn/content/www/vn/vi/homepage.html","localelink":"https://www.intel.vn/content/www/vn/vi/404.html","label":"Vietnam (Tiếng Việt)","locale":"vn","language":"vi"}]},{"countryName":"Europe","languageList":[{"homepagelink":"https://www.intel.fr/content/www/fr/fr/homepage.html","localelink":"https://www.intel.fr/content/www/fr/fr/404.html","label":"France (Français)","locale":"fr","language":"fr"},{"homepagelink":"https://www.intel.de/content/www/de/de/homepage.html","localelink":"https://www.intel.de/content/www/de/de/404.html","label":"Germany (Deutsch)","locale":"de","language":"de"},{"homepagelink":"https://www.intel.ie/content/www/ie/en/homepage.html","localelink":"https://www.intel.ie/content/www/ie/en/404.html","label":"Ireland (English)","locale":"ie","language":"en"},{"homepagelink":"https://www.intel.it/content/www/it/it/homepage.html","localelink":"https://www.intel.it/content/www/it/it/404.html","label":"Italy (Italiano)","locale":"it","language":"it"},{"homepagelink":"https://www.intel.pl/content/www/pl/pl/homepage.html","localelink":"https://www.intel.pl/content/www/pl/pl/404.html","label":"Poland (Polski)","locale":"pl","language":"pl"},{"homepagelink":"https://www.intel.ru/content/www/ru/ru/homepage.html","localelink":"https://www.intel.ru/content/www/ru/ru/404.html","label":"Russia (Русский)","locale":"ru","language":"ru"},{"homepagelink":"https://www.intel.es/content/www/es/es/homepage.html","localelink":"https://www.intel.es/content/www/es/es/404.html","label":"Spain (Español)","locale":"es","language":"es"},{"homepagelink":"https://www.intel.com.tr/content/www/tr/tr/homepage.html","localelink":"https://www.intel.com.tr/content/www/tr/tr/404.html","label":"Turkey (Türkçe)","locale":"tr","language":"tr"},{"homepagelink":"https://www.intel.co.uk/content/www/uk/en/homepage.html","localelink":"https://www.intel.co.uk/content/www/uk/en/404.html","label":"United Kingdom (English)","locale":"uk","language":"en"}]},{"countryName":"Latin America","languageList":[{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Argentina (Español)","locale":"xl","language":"es"},{"homepagelink":"https://www.intel.com.br/content/www/br/pt/homepage.html","localelink":"https://www.intel.com.br/content/www/br/pt/404.html","label":"Brazil (Português)","locale":"br","language":"pt"},{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Chile (Español)","locale":"xl","language":"es"},{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Colombia (Español)","locale":"xl","language":"es"},{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Latin America (Español)","locale":"xl","language":"es"},{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Mexico (Español)","locale":"xl","language":"es"},{"homepagelink":"https://www.intel.la/content/www/xl/es/homepage.html","localelink":"https://www.intel.la/content/www/xl/es/404.html","label":"Peru (Español)","locale":"xl","language":"es"}]},{"countryName":"Middle East/Africa","languageList":[{"homepagelink":"https://www.intel.co.il/content/www/il/he/homepage.html","localelink":"https://www.intel.co.il/content/www/il/he/404.html","label":"Israel (עברית)","locale":"il","language":"he"}]},{"countryName":"North America","languageList":[{"homepagelink":"https://www.intel.com/content/www/us/en/homepage.html","localelink":"","label":"United States (English)","locale":"us","language":"en"},{"homepagelink":"https://www.intel.ca/content/www/ca/en/homepage.html","localelink":"https://www.intel.ca/content/www/ca/en/404.html","label":"Canada (English)","locale":"ca","language":"en"},{"homepagelink":"https://www.intel.ca/content/www/ca/fr/homepage.html","localelink":"https://www.intel.ca/content/www/ca/fr/404.html","label":"Canada (Français)","locale":"ca","language":"fr"}]}]}],"homepageTitle":"Go to your Country's/Region's Homepage","localeTitle":"This page is also available in"};
+    </script>
+
+
+                </div>
+                <div class="slide-signin">
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+
+
+
+<div class="modal-intel modal-signin" id="modal-signin-form" aria-labelledby="Signin">
+    <div class="slide-signin-block" data-component="signincomponent" data-component-id="1">
+        <div class="modal-header">
+            <button type="button" class="close icon theme-white" data-igm-search-toggle="" aria-label="Close">
+                <span></span></button>
+            <h2 class="modal-title" id="Signin"><span class="icon-login align-icons fa-"></span>Sign In</h2>
+        </div>
+
+        <div class="modal-body">
+            <div class="alert alert-danger" id="login-error" role="alert"></div>
+            <form id="igm-form-signin" action="https://www.intel.com/libs/apps/intel/login.json/securitytoken" method="POST" name="igm-form-signin" class="igm-form-signin intel-form" novalidate>
+                <div class="form-group">
+                    <label for="username">
+                        <input class="form-control form-input" aria-describedby="uname-error" name="userid" id="username"
+                               placeholder="Username" required>
+                    </label>
+                    <div class="error validation-messages" id="uname-error">
+                        <div class="rule broken">Your username is missing</div>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="password">
+                        <input type="password" class="form-control form-input" aria-describedby="pwd-error" id="password"
+                               name="password" placeholder="Password" required autocomplete="off">
+                    </label>
+                    <div class="error validation-messages" id="pwd-error">
+                        <div class="rule broken">Your password is missing</div>
+                    </div>
+                </div>
+                <p>By signing in, you agree to our <a href="/content/www/us/en/legal/terms-of-use.html">Terms of Service</a>.</p>
+                <div class="row">
+                    <div class="col-xs-12">
+                        <input type="hidden" name="callBack" id="callBackSimplify"/>
+                        <input type="hidden" name="queryParam" id="queryParam"/>
+                        <input type="submit" class="btn btn-primary"
+                               value='Sign In'
+                               data-wap="{&quot;linktype&quot;:&quot;sign-in&quot;}">
+                        <label for="cbRememberMe" class="remember-user"><input id="cbRememberMe" name="rememberme"
+                                                                               type="checkbox" value="true">
+                            <span>Remember me</span></label>
+                    </div>
+                </div>
+            </form>
+            <p>
+                Forgot your Intel
+                <a href="https://www.intel.com/content/www/us/en/my-intel/forgot-userid.html">username</a>
+                or
+                <a href="https://www.intel.com/content/www/us/en/my-intel/forgot-password.html">password</a>?
+            </p>
+
+            <p class="mobile-intel-signin">Do you work for Intel? <a href="#" onclick="intel.signinsimplify.geturl('https://sifederation.intel.com/federation/bridge/sso_irp.asp?target=')">Sign in here</a>.</p>
+            
+                <p>
+                    Don’t have an Intel account?
+                    <a href="#" onclick="intel.signinHeaderSimplify.doRedirect('/forms/basic-intel-registration.html')">
+                        Sign up here
+                    </a>
+                    for a basic account.
+                </p>
+            
+        </div>
+    </div>
+</div>
+<iframe id="frameSigninSimplify" tabindex="-1" title="My Intel Sign in" aria-hidden="true" name="frameSigninSimplify" src="/etc/designs/intel/global/html/idamFormStaticSimplify.html" style="display:none;"></iframe>
+
+
+<script>
+
+    
+    
+
+    
+    var intel = intel || {};
+    intel.signinsimplifyConfig = {
+        locale: '',
+        messages: {
+            InvalidCredential: 'The username or password you entered was invalid.',
+            InvalidField: 'The username or password you entered was invalid.',
+            AccountDisabled: 'For security reasons, your account has been disabled. For help, <a href=\"#\" class=\"contactLink new-tab-link\" target=\"_blank\" rel=\"noopener noreferrer\" >contact us<\/a>.',
+            AccountLocked: 'Your account has been locked. For help, please read the <a href=\"#\" class=\"faqsLink new-tab-link\" target=\"_blank\" rel=\"noopener noreferrer\" >Sign In FAQ<\/a>.',
+            UserNotFound: 'The username or password you entered was invalid.',
+            Unknown: 'An unexpected error occurred. Try it again. For help, use the contact or support options below.',
+            PasswordExpired: 'Your password is expired. Please change your password.',
+            LoginAssistLink: 'https://signin.intel.com/ContactUs.aspx',
+            faqsLink: '/content/www/us/en/my-intel/sign-in-help.html'
+        },
+        nameField: 'Username',
+        passField: 'Password',
+        signinUrl: '/libs/apps/intel/login.json/securitytoken',
+        isPopup: true,
+        responseHref: 'https://www.intel.com/content/www/us/en/404.html' + window.location.hash,
+        sslDomainUrl: 'www.intel.com',
+        loginUrl: 'https://welcome.intel.com/login.aspx?appid=258&qlogin=true',
+        ssoUri: 'https://federatesso.intel.com',
+        logoutUrl: 'https://welcome.intel.com/logout.aspx',
+        logoutHref: 'https://signin.intel.com/Logout?RedirectURL=https://www.intel.com/content/www/us/en/404' + '.html',
+        loginErrorID: '#login-error',
+        usernameID: '#username',
+        remembermeId: '#cbRememberMe',
+        formID: '#igm-form-signin',
+        unameErrorID: '#uname-error',
+        passID: '#password',
+        passError: '#pwd-error',
+        changePasswordUrl: '/content/www/us/en/my-intel/change-password.html',
+        emailVerificationUrl: '/content/www/us/en/my-intel/email-verification.expired.html',
+        aboutToExpireEmailUrl: '/content/www/us/en/my-intel/email-verification.html',
+        renewalUrl: '/content/www/us/en/secure/technology-provider/forms/renew-technology-provider-membership.html',
+        limitedUrl: '/content/www/us/en/resellers/limited-status-secondary.html',
+        isaPRMDashBoardURL: '/content/www/us/en/secure/partner/solutions-alliance/overview.html',
+        itpPRMDashBoardURL: '/content/www/us/en/secure/partner/technology-provider/iot/overview.html',
+        itpisaPRMDashBoardURL: '/content/www/us/en/secure/partner/iot-itp-isa/overview.html',
+        isaRenewalURL: '/content/www/us/en/secure/partner/forms/solutions-alliance-renewal.html'
+    };
+</script>
+
+                </div>
+                    <div class="slide-myintel component" data-component="myintel-navmenu" data-component-id="1"></div>
+            </div>
+            <div class="search-info">
+
+                
+                
+                
+                    <a id="dropDownSearchSignIn" target="_self" tabindex="0" href="#" class="login-toggle pale-blue" data-target="#modal-signin-form">Sign In</a> to access restricted content.
+            </div>
+            <div class="signout-info">
+                <button type="button" class="btn btn-primary"
+                        data-sso-uri='https://federatesso.intel.com'
+                        data-logout-uri="" data-wap="{&quot;linktype&quot;:&quot;logout&quot;}"
+                        onclick="intel.signinsimplify.signOut()">Sign Out
+                </button>
+            </div>
+        </div>
+    </div>
+
+<script type="text/javascript">
+    var global_config = {
+        "icsUrl": "https://supporttickets.intel.com/services/oauth2/authorize?response_type=token&client_id=3MVG9QDx8IX8nP5Rh0X3B7gohGtUh8sjFQ8Tw_U8sS9_PoVrupDFwZ_nwLcze2n64lGBbGchyUb7_9W8n8pAV&redirect_uri=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fsecure%2Fmy-intel%2Ftoken.html",
+        "ipsUrl": "https://premiersupport.intel.com/IPS/services/oauth2/authorize?response_type=token&client_id=3MVG9xOCXq4ID1uEa5F2lCYAp6mmKvTMlKbMIrsMKShY2oOqs1ETvPRjwmhoPivHd9_U53EzmiyYxn3nVpA9J&redirect_uri=https%3A%2F%2Fwww.intel.com%2Fcontent%2Fwww%2Fus%2Fen%2Fsecure%2Fmy-intel%2Ftoken.html"
+    };
+    var globalSearch = globalSearch || {};
+    globalSearch = {
+        sharePointSearchPromote:true,
+        searchProvider: 'searchpromote',
+        baseSearchQuery: 'localecode:"en_US" NOT generic1:"false" ',
+        langRootPath: '/content/www/us/en',
+        headingTxt: 'Best Match',
+        locale: 'en_US',
+        typeAheadUrl: 'http://search.intel.com/SearchLookup/DataProvider.ashx',
+        bestMatchUrl: 'http://search.intel.com/webhandlers/searchwebhandler.ashx',
+        searchRealm: 'Default',
+        bestMatchQ1: 'NAR',
+        bestMatchQ2: 'en',
+        bestMatchQ11: 'sptitle,description,url,thumbnailurl,reimaginerootlevel',
+        progId: '',
+        useEMTTags: true,
+        defaultPage: 'search.html',
+        token: 'xx43151f87-f1d8-4211-ae65-ce98d805849c',
+        searchHub: '',
+
+        gtvLabels: {
+            suggested: "Suggested",
+            products: "Products",
+            support: "Support",
+            developers: "Developers",
+            drivers: "Drivers",
+            forums: "Forums",
+            specifications: "Specifications",
+            download: "Downloads/Drivers",
+            searchesRelatedTo: "Related Searches",
+            search: "Search Intel.com",
+            inLabel: "in",
+            searchSupport: "What can we help you find?",
+            intelcom: "Search Intel.com",
+            forLabel: "for",
+            allResults: "All Results",
+            show: "Show",
+            results: "Results"
+        },
+        mobileResults: "5",
+        laptopResults: "10",
+        EDCProgramIdentifier: "false",
+        rdcContentDataSource: ""
+    };
+</script>
+</div>
+
+                </nav>
+                <!-- end global intel header -->
+                <div class="mega-menu-content"></div>
+                    
+            </header>
+        </div>
+
+        <script type="text/javascript">
+            var globalHeader = globalHeader || {};
+            globalHeader = {
+                currentPath: "/content/www/us/en/404",
+                lanloc: "/us/en",
+                lanLoc: "US/en",
+                helpformurl: "",
+                intelHeaderFooterVersion: "menu3",
+                megaMenuPath: "/content/data/globalelements/US/en/globalnav3",
+                globalBannerPath: "/content/data/globalelements/US/en/sitewide-banner-placeholder",
+                subMenuPath: "",
+                isCHF:false,
+                secureRedirectURL: "",
+            }
+        </script>
+    
+
+
+
+
+<section data-scroll-track="false">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 pull-right" id="alertMsg">
+                <div id="alertSupport">
+                    <div class="browser_detect" id="browserdetectid" style="display:none;">
+                        <p>The browser version you are using is not recommended for this site.<br/>Please consider upgrading to the latest version of your browser by clicking one of the following links.</p>
+                        <div class="browser_types">
+                            <ul>
+                                
+                                    <li><a href="https://support.apple.com/downloads/safari">Safari</a></li>
+                                
+                                    <li><a href="https://support.google.com/chrome/answer/95346?hl=en">Chrome</a></li>
+                                
+                                    <li><a href="https://www.microsoft.com/en-us/download/internet-explorer.aspx">IE</a></li>
+                                
+                                    <li><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a></li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+    
+
+
+
+
+<div class="fullscreenmedia-comp-cont wapwrapper" data-component-id="1" data-component="ssi-fullscreenmedia">
+<div class="assetcontentpar intelparsys">
+<div class="systemchecker section">
+
+
+
+
+
+        	 <script type="text/javascript">
+        	 
+             </script>
+             
+            <link rel="stylesheet" href="/content/dam/www/public/us/en/include/404/us_en.css" type="text/css">
+
+<div id="ssi-content">
+
+	<div class="section singlePartBrick">
+
+
+<div id="singlePartBrick-1" class="component" data-component="singlePartBrick" data-component-id="1">
+
+        <section title="Oops something went wrong" class="overview-component overview-component-1 blade homepage-one-up text-align-center theme-dark-1 full-bleed-image in-viewport" data-picture-full-bleed="" data-header-peek="true" data-viewport-component="0.85" style="background-image: url(&quot;/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1648.927.jpg&quot;);">
+                        <span data-picture-sources="">
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.480.270.jpg" data-intrinsic=""></span>
+                            <!--[if lte IE 9]>
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1920.1080.jpg"></span>
+                            <![endif]-->
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.864.486.jpg" data-media="(min-width: 480px)" data-intrinsic=""></span>
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1072.603.jpg" data-media="(min-width: 768px)"></span>
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1280.720.jpg" data-media="(min-width: 992px)"></span>
+                            <!--<span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1648.927.jpg" data-media="(min-width: 1200px)"></span>-->
+                            <span data-src="/content/dam/www/public/us/en/images/404-star-image-16x9.jpg.rendition.intel.web.1920.1080.jpg" data-media="(min-width: 1650px)"></span>
+                        </span>
+            <div class="container blade-content-container">
+                <div class="intrinsic-ratio">
+                    <div class="intrinsic-element"></div>
+                </div>
+                <!-- start blade items -->
+
+				<div class="row overview-items">
+                    <div class="blade-item blade-item-0">
+
+                            <a href="#"></a>
+
+                        <div class="blade-item-content">
+                            <div class="blade-item-content-wrapper">
+                                <h1 class="headline-font">Oops!</h1>
+								<h2 class="headline-font">Something went wrong</h2>
+                                <div class="content">
+                                    <p class="description" style="padding: 15px;">The page you requested has moved or doesn’t exist. If you followed a link, it’s probably broken – but don’t worry we’ve already reported it.</p>
+
+									<p class="description">In the meantime, why not take a look around?</p>
+									<!--<h3>In the meantime, why not take a look around?</h3>-->
+                                </div>
+
+								<div class="row custom-row">
+									<div class="col-md-4" title="">
+										<a href="/content/www/us/en/products/processors.html" class="btn btn-transparent btn-block">Processors</a>
+									</div>
+									<div class="col-md-4" title="">
+										<a href="/content/www/us/en/business/overview.html" class="btn btn-transparent btn-block">Business Solutions</a>
+									</div>
+									<div class="col-md-4" title="">
+										<a href="/content/www/us/en/technology-provider/overview.html" class="btn btn-transparent btn-block">Intel&reg; Technology Provider</a>
+									</div>
+								</div>
+
+								<div class="row custom-row">
+									<div class="col-md-4" title="">
+										<a href="/content/www/us/en/support.html" class="btn btn-transparent btn-block">Intel Support</a>
+									</div>
+									<div class="col-md-4" title="">
+										<a href="https://ark.intel.com" class="btn btn-transparent btn-block">Product Specifications</a>
+									</div>
+									<div class="col-md-4" title="">
+										<a href="https://downloadcenter.intel.com" class="btn btn-transparent btn-block">Drivers and Software</a>
+									</div>
+								</div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+</div>
+
+</div>
+</div>
+ 
+</div>
+</div>
+
+
+
+</div>
+
+
+
+
+    <div class="disclaimer parbase">
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+        
+        
+    
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="global blade solid brand-lightest-gray theme-light-2 component" data-component-id="1"
+        data-component="footer" role="contentinfo" data-wap_type="wa_skip_track" id="skip-footer">
+    <div class="component-padding clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="logo-container hidden-xs hidden-sm">
+                        <a href="/content/www/us/en/homepage.html" class="footer-logo" aria-label="Intel homepage" title="Intel homepage"></a>
+                    </div>
+                    <div class="content clearfix">
+                        
+                            
+                                
+                                    <ul class="footer-links">
+                                        
+                                            <li>
+                                                <a href="/content/www/us/en/company-overview/company-overview.html">Company Information</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/content/www/us/en/corporate-responsibility/corporate-responsibility.html">Our Commitment</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/content/www/us/en/blogs-communities-social.html">Communities </a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="https://www.intc.com/investor-relations/default.aspx">Investor Relations</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/content/www/us/en/company-overview/contact-us.html">Contact Us</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="https://newsroom.intel.com/">Newsroom</a>
+                                            </li>
+                                        
+                                            <li>
+                                                <a href="/content/www/us/en/jobs/jobs-at-intel.html"> Jobs</a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                    <ul class="footer-links social">
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <a href="https://www.facebook.com/Intel" target="" aria-label="Intel on Facebook" data-wap="{&quot;linktype&quot;:&quot;footersocial&quot;}">
+                                                            <i aria-hidden="true" class="fa-facebook"></i>
+                                                        </a>
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <a href="https://twitter.com/intel" target="" aria-label="Intel on Twitter" data-wap="{&quot;linktype&quot;:&quot;footersocial&quot;}">
+                                                            <i aria-hidden="true" class="fa-twitter"></i>
+                                                        </a>
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <a href="https://www.linkedin.com/company/intel-corporation" target="" aria-label="Intel on LinkedIn" data-wap="{&quot;linktype&quot;:&quot;footersocial&quot;}">
+                                                            <i aria-hidden="true" class="fa-linkedin"></i>
+                                                        </a>
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <a href="https://www.youtube.com/user/channelintel?sub_confirmation=1" target="" aria-label="Intel on YouTube" data-wap="{&quot;linktype&quot;:&quot;footersocial&quot;}">
+                                                            <i aria-hidden="true" class="fa-youtube"></i>
+                                                        </a>
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <a href="https://www.instagram.com/intel/" target="" aria-label="Intel on Instagram" data-wap="{&quot;linktype&quot;:&quot;footersocial&quot;}">
+                                                            <i aria-hidden="true" class="fa-instagram"></i>
+                                                        </a>
+                                                    
+                                                
+                                            </li>
+                                        
+                                    </ul>
+                                
+                                
+                            
+                        
+                            
+                                
+                                
+                                
+                                    <ul class="footer-links secondary-links" id="footerSecondaryLinks">
+                                        
+                                            <li>
+                                                
+                                                    
+                                                    
+                                                        <small>© Intel Corporation</small>
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/legal/terms-of-use.html"><small>Terms of Use</small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/legal/trademarks.html"><small>*Trademarks</small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/privacy/intel-privacy-notice.html"><small>Privacy</small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/privacy/intel-cookie-notice.html"><small>Cookies</small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/policy/policy-human-trafficking-and-slavery.html"><small>Supply Chain Transparency </small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                    
+                                                        <a href="/content/www/us/en/siteindex.html"><small>Site Map</small></a>
+                                                    
+                                                    
+                                                
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            
+                        
+                    </div>
+                    <div class="modal modal-intel language-selector modal-expose-menu fade" id="modal-language-selector"
+                         tabindex="-1" role="dialog" aria-hidden="false">
+                    </div>
+                    <a href="/content/www/us/en/homepage.html" class="footer-logo-mobile visible-xs visible-sm" aria-label="Intel homepage" title="Intel homepage"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+
+
+</body>
+
+        </html>
+    
+
