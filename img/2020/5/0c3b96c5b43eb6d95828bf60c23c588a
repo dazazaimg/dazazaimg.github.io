@@ -1,0 +1,416 @@
+<!doctype html>
+<html>
+<head>
+	<!-- Hello there, it's true that all the best web developers look at the source code of other webpages. ;) -->
+
+	<!-- Meta -->
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious.">
+	<meta name="author" content="ThinkPrivacy">
+	<meta name="theme-color" content="#0099ee">
+
+	<!-- Root -->
+	<base href="/">
+
+	<!-- Title -->
+	<title>It's about time you try Linux. - Try Linux</title>
+	<meta name="apple-mobile-web-app-title" content="It's about time you try Linux. - Try Linux">
+
+	<!-- Icons -->
+	<link rel="shortcut icon" href='/img/favicon.ico' type="image/x-icon" sizes="16x16">
+	<link rel="icon" type="image/png" href="">
+	<link rel="image_src" href="">
+	<link rel="apple-touch-icon" type="image/png" href="">
+
+	<!-- Twitter Optimization  -->
+	<meta name="twitter:title" content="It's about time you try Linux. - Try Linux">
+	<meta name="twitter:description" content="A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious.">
+	<meta name="twitter:image" content="https://trylinux.today">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:url" content="https://trylinux.today/">
+
+	<!-- Facebook Optimization -->
+	<meta property="og:site_name" content="Try Linux">
+	<meta property="og:title" content="It's about time you try Linux. - Try Linux">
+	<meta property="og:description" content="A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious.">
+	<meta property="og:image" content="https://trylinux.today">
+
+	<!-- Google Optimization -->
+	<meta itemprop="name" content="It's about time you try Linux. - Try Linux">
+	<meta itemprop="description" content="A friendly place to start for the Free &amp; Open Source Software and GNU/Linux curious.">
+	<meta itemprop="image" content="https://trylinux.today">
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" type="text/css" href="/assets/css/all.css">
+
+	<!-- JavaScripts -->
+	<script type="text/javascript" src="/js/simple-jekyll-search.min.js"></script>
+
+</head>
+<!-- End Head -->
+
+<noscript>
+	<div class="infobar row coloured error">I've noticed you've disabled JavaScript. 😞 Please consider re-enabling it for this site to experience it fully.</div>
+</noscript>
+
+<!-- Body -->
+<body>
+<div class="wrapper">
+
+    <!-- Nav -->
+<nav>
+	<div class="row">
+		<a href="/what-is-linux">What Is Linux?</a>
+		<a href="/why-use-linux">Why Use Linux?</a>
+		<a href="/switching">Making the Switch</a>
+		<a href="/hardware">Linux Hardware</a>
+		<span class="search right"><input type="search" id="search-input" placeholder="Search by name, desktop,..."></span>
+	</div>
+</nav>
+
+<!-- Header -->
+<header>
+	<div class="row">
+		<img class="logo" src="/img/2020_logo.png">
+	</div>
+</header>
+
+<!-- Row -->
+<div class="row">
+	<!-- results section -->
+	<section id="results-container" class="cards text-center">
+		<!-- search results appear here -->
+	</section>
+</div>
+
+<!-- Row -->
+<div class="row narrow">
+	<section class="text-center">
+		<h3>Unlike Windows and MacOS<br>Linux gives you options</h3>
+		<p>While it may seem overwhelming to see all your OS options on Linux, you may instead find it comforting. The major operating systems put their users in a box, while Linux allows you to choose an OS that fits your needs and skill level.</p>
+	</section>
+</div>
+
+<!-- Row -->
+<div class="row wide">
+	<section>
+		<p class="footnote text-center">These cards are shuffled when the page refreshes.</p>
+		<!-- distro list -->
+		<div id="distro-list" class="cards">
+		
+			<a href="/distro/pure-os" class="card">
+				<img src="/img/logos/purism-circle.svg">
+				<div class="card-text">
+					<span>PureOS</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/kali-linux" class="card">
+				<img src="/img/logos/kali-linux.svg">
+				<div class="card-text">
+					<span>Kali Linux</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/guix" class="card">
+				<img src="/img/logos/guix.svg">
+				<div class="card-text">
+					<span>Guix</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/mx-linux" class="card">
+				<img src="/img/logos/mxlinux.svg">
+				<div class="card-text">
+					<span>MX Linux</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/xubuntu" class="card">
+				<img src="/img/logos/xubuntu.svg">
+				<div class="card-text">
+					<span>Xubuntu</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/trisquel" class="card">
+				<img src="/img/logos/trisquel.svg">
+				<div class="card-text">
+					<span>Trisquel</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/pop-os" class="card">
+				<img src="/img/logos/pop-os.svg">
+				<div class="card-text">
+					<span>Pop!_OS</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/lubuntu" class="card">
+				<img src="/img/logos/lubuntu.svg">
+				<div class="card-text">
+					<span>Lubuntu</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/kubuntu" class="card">
+				<img src="/img/logos/kubuntu.svg">
+				<div class="card-text">
+					<span>Kubuntu</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/puppy-linux" class="card">
+				<img src="/img/logos/puppylinux.svg">
+				<div class="card-text">
+					<span>Puppy Linux</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/ubuntu-mate" class="card">
+				<img src="/img/logos/ubuntu-mate.svg">
+				<div class="card-text">
+					<span>Ubuntu MATE</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/linux-mint" class="card">
+				<img src="/img/logos/linux-mint.svg">
+				<div class="card-text">
+					<span>Linux Mint</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/endless-os" class="card">
+				<img src="/img/logos/endlessos.svg">
+				<div class="card-text">
+					<span>Endless OS</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/alpine-linux" class="card">
+				<img src="/img/logos/alpine.svg">
+				<div class="card-text">
+					<span>Alpine Linux</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/fedora" class="card">
+				<img src="/img/logos/fedora.svg">
+				<div class="card-text">
+					<span>Fedora</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/zorin-os" class="card">
+				<img src="/img/logos/zorin-os.svg">
+				<div class="card-text">
+					<span>Zorin OS</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/debian" class="card">
+				<img src="/img/logos/debian.svg">
+				<div class="card-text">
+					<span>Debian</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/solus" class="card">
+				<img src="/img/logos/solus.svg">
+				<div class="card-text">
+					<span>Solus</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/arch-linux" class="card">
+				<img src="/img/logos/arch-linux.svg">
+				<div class="card-text">
+					<span>Arch Linux</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/ubuntu" class="card">
+				<img src="/img/logos/ubuntu.svg">
+				<div class="card-text">
+					<span>Ubuntu</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/elementary-os" class="card">
+				<img src="/img/logos/elementary.svg">
+				<div class="card-text">
+					<span>elementary OS</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/slackware" class="card">
+				<img src="/img/logos/slackware.svg">
+				<div class="card-text">
+					<span>Slackware</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/qubes-os" class="card">
+				<img src="/img/logos/qubes.svg">
+				<div class="card-text">
+					<span>Qubes OS</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/tails" class="card">
+				<img src="/img/logos/tails.svg">
+				<div class="card-text">
+					<span>Tails</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/opensuse" class="card">
+				<img src="/img/logos/opensuse.svg">
+				<div class="card-text">
+					<span>openSUSE</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/manjaro" class="card">
+				<img src="/img/logos/manjaro.svg">
+				<div class="card-text">
+					<span>Manjaro</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/mageia" class="card">
+				<img src="/img/logos/mageia.svg">
+				<div class="card-text">
+					<span>Mageia</span>
+					<small class="category intermediate">intermediate</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/centos" class="card">
+				<img src="/img/logos/centos.svg">
+				<div class="card-text">
+					<span>CentOS</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/gentoo" class="card">
+				<img src="/img/logos/gentoo.svg">
+				<div class="card-text">
+					<span>Gentoo</span>
+					<small class="category advanced">advanced</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+			<a href="/distro/deepin" class="card">
+				<img src="/img/logos/deepin.svg">
+				<div class="card-text">
+					<span>Deepin</span>
+					<small class="category beginner">beginner</small>
+					<small class="read-more">Read more »</small>
+				</div>
+			</a>
+		
+		</div>
+		<!-- Shuffle list -->
+		<script type="text/javascript">
+		// For those who may say "This is biased!"
+		var list = document.getElementById('distro-list');
+		for (var i = list.children.length; i >= 0; i--) {list.appendChild(list.children[Math.random() * i | 0]);}
+		</script>
+	</section>
+</div>
+
+<!-- Javascript -->
+<script type="text/javascript">
+	// search function
+	window.simpleJekyllSearch = new SimpleJekyllSearch({
+		searchInput: document.getElementById('search-input'),
+		resultsContainer: document.getElementById('results-container'),
+		json: '/search.json',
+		searchResultTemplate: '<a class="card small" href="{url}"><img src="/img/logos/{logo}.svg"><div class="card-text"><span>{title}</span><small class="category {category}">{category}</small><small class="read-more">Read more »</small></div></a>',
+		noResultsText: '<div class="infobar">Sorry, no results for that search.</div>',
+		fuzzy: false,
+		exclude: ['Welcome']
+	})
+</script>
+
+
+<!-- end of .wrapper -->
+<div class="push"></div></div>
+<!-- Footer -->
+<footer>
+	<div class="row">
+		<span>Maintained by <a href="https://thinkprivacy.io/">ThinkPrivacy</a> &copy; 2020. Some rights reserved. All logos and trademarks are property of their respective owners. </span>
+		<span>This work is licenced under the Creative Commons Attribution-Share Alike 4.0.</span>
+		<ul>
+			<li><a href="/about">About</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+			<li><a href="/terms">Terms</a></li>
+			<li><a href="https://gitlab.com/thinkprivacy/trylinux" target="_blank">Contribute</a></li>
+		</ul>
+	</div>
+</footer>
+</body>
+</html>
