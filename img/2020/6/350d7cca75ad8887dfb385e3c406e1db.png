@@ -1,0 +1,1326 @@
+
+<!DOCTYPE html >
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+
+
+
+<head>
+
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+	<link rel="profile" href="//gmpg.org/xfn/11" />
+
+
+
+	<!-- <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/jquery.tinysort.js'></script>
+
+    
+
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/jquery.tinysort.min.js'></script>
+
+    
+
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/tinysort.charorder.js'></script>
+
+    
+
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/tinysort.charorder.min.js'></script>
+
+    
+
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/tinysort.js'></script>
+
+    
+
+    <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/tinysort/2.3.6/tinysort.min.js'></script>
+
+    
+
+    <script type='text/javascript'>tinysort('div.kc_posts',{attr:'title'});</script> -->
+
+
+
+	<title>
+
+         Page not found - Semiconductor Engineering
+		 	</title>
+	<link rel="pingback" href="https://semiengineering.com/xmlrpc.php" />
+		<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700|Open+Sans:200,300,400,700,800' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+	<!-- Latest compiled and minified JavaScript -->
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+	<!-- WP CSS -->
+			<link rel="stylesheet" type="text/css" media="all" href="https://semiengineering.com/wp-content/themes/se_current/style.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="https://semiengineering.com/wp-content/themes/se_current/includes/res_style.css" />
+			<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <style>
+        .ad_block_identification { display: none; }
+        .footer_bk .ad_block_identification { display: block; }
+    </style>
+
+<script type="text/javascript">
+jQuery(document).ready(function ($) {
+     size_li = $("#myList li").size();
+    x=3;
+    $('#myList li:lt('+x+')').show();
+    $('#loadMore').click(function () {
+        x= (x+5 <= size_li) ? x+5 : size_li;
+        $('#myList li:lt('+x+')').show();
+    });
+    $('#showLess').click(function () {
+        x=(x-5<0) ? 3 : x-5;
+        $('#myList li').not(':lt('+x+')').hide();
+    });
+});
+</script>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Semiconductor Engineering</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Semiconductor Engineering" />
+	<meta property="og:site_name" content="Semiconductor Engineering" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://semiengineering.com/#website","url":"https://semiengineering.com/","name":"Semiconductor Engineering","description":"Deep Insights For Chip Engineers","potentialAction":[{"@type":"SearchAction","target":"https://semiengineering.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Semiconductor Engineering &raquo; Feed" href="https://semiengineering.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Semiconductor Engineering &raquo; Comments Feed" href="https://semiengineering.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Semiconductor Engineering &raquo; iCal Feed" href="https://semiengineering.com/events-semi/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/semiengineering.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='smw-plugin-style-css'  href='https://semiengineering.com/wp-content/plugins/premium-stock-market-widgets/assets/css/style.css?ver=2.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://semiengineering.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://semiengineering.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.10.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='custom-css-css'  href='https://semiengineering.com/wp-content/plugins/wpjm-auto-location/custom/style.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.6.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://semiengineering.com/wp-content/plugins/wpjm-auto-location/custom/custom.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyAhyl9dxMPzBU736iH4LSJt6ybfJDUomnk&#038;libraries=places&#038;ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://semiengineering.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://semiengineering.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://semiengineering.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://semiengineering.com"><link rel="https://theeventscalendar.com/" href="https://semiengineering.com/wp-json/tribe/events/v1/" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/03/cropped-SE-Icon-3.jpg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/03/cropped-SE-Icon-3.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/03/cropped-SE-Icon-3.jpg?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/03/cropped-SE-Icon-3.jpg?fit=270%2C270&#038;ssl=1" />
+			<link rel="stylesheet" type="text/css" id="wp-custom-css" href="https://semiengineering.com/?custom-css=2166ec77f1" />
+		
+
+
+	<script type="text/javascript">
+	function fixDiv() {
+	  var $cache = $('#fixedbc_sb'); 
+	  if ($(window).scrollTop() > 70) 
+	    $cache.css({'position': 'fixed', 'top': '0px','background':'#fbf7e5'}); 
+	  else
+	    $cache.css({'position': 'relative', 'top': 'auto','background':'#fff'});
+	}
+	$(window).scroll(fixDiv);
+	fixDiv();
+	
+	
+	// tooltip init
+	$(function () {
+	  $('[data-toggle="tooltip"]').tooltip()
+	})
+</script>
+
+
+
+
+
+	<script>
+
+
+
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+
+
+
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+
+
+
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+
+
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+
+
+	
+
+
+
+	  ga('create', 'UA-44475900-1', 'semiengineering.com');
+
+
+
+	  ga('send', 'pageview');
+
+
+
+	
+
+
+
+	</script>
+
+
+
+    
+
+
+
+  
+
+
+
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c363f28ad0b1400119dbbe2&product=inline-share-buttons' async='async'></script>
+
+
+
+
+</head>
+
+
+
+
+
+
+
+<body class="error404 tribe-no-js tribe-bar-is-disabled tribe-theme-se_current semieng-4" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+	<h2 class="snippet_header"><i class="fa fa-line-chart"></i>  Trending People</h2>
+
+	<ul class="lmenu">
+
+	
+			<li><a href="https://semiengineering.com/kc/semi/includes/people.php?pid=">
+
+				</a></li>
+
+			
+	</ul>
+
+	<small class="pull-right"><a href="https://semiengineering.com/kc/semi/includes/all_people.php">(see all)</a></small>
+
+	--><!--
+
+	<h2 class="snippet_header"><i class="fa fa-line-chart"></i>  Trending Technology</h2>
+
+	<ul class="lmenu">
+
+	
+			<li><a href="https://semiengineering.com/kc/semi/includes/technology.php?tid="></a></li>
+
+			
+	</ul>
+
+	<small class="pull-right"><a href="https://semiengineering.com/kc/semi/includes/all_technology.php">(see all)</a></small>
+
+	--><!--
+
+	<h2 class="snippet_header"><i class="fa fa-line-chart"></i>  Trending Entities</h2>
+
+	<ul class="lmenu">
+
+	
+			<li><a href="https://semiengineering.com/kc/semi/includes/entity.php?eid="></a></li>
+
+			
+	</ul>
+
+	<small class="pull-right"><a href="https://semiengineering.com/kc/semi/includes/all_entity.php">(see all)</a></small>
+
+	-->
+<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="header">
+					<div class="row">
+						<div class="col-xs-12 col-sm-8 col-md-5">
+							<div class="logo">
+								<a href="/"><img src="https://semiengineering.com/wp-content/themes/se_current/images/semi_logo.jpg"></a>
+							</div>
+
+						</div>
+						<!--<form class="search-form" role="search">
+        						<div class="form-group pull-right" id="search">
+									<input type="text" class="form-control" placeholder="Search">
+									<button type="submit" class="form-control form-control-submit">Submit</button>
+									<span class="search-label"><i class="glyphicon glyphicon-search"></i></span>
+        						</div>
+      						 </form>-->
+      						<!--<div id="jetpack-search-filters-2" class="widget jetpack-filters widget_search widget-shortcode area-wp_inactive_widgets"><div id="jetpack-search-filters--1-wrapper">
+<div class="jetpack-search-form"><form role="search" method="get" id="searchform" class="searchform search-form" action="https://semiengineering.com/">
+<div class="form-group pull-right" id="search">
+<label class="screen-reader-text" for="s">Search for:</label>
+<input type="text" value="" name="s" id="s">
+<input type="submit" id="searchsubmit" value="Search">
+</div>
+<input type="hidden" name="orderby" value="date"><input type="hidden" name="order" value="DESC"><input type="hidden" name="post_type" value="post,page,attachment,knowledge_centers,people,entities,technologies,multiple-sidebars,se_newsletter"></form></div></div></div>-->
+      						 <!-- Widget Shortcode --><div id="jetpack-search-filters-2" class="widget jetpack-filters widget_search widget-shortcode area-wp_inactive_widgets ">			<div id="jetpack-search-filters--1-wrapper" >
+		<div class="jetpack-search-form"><form role="search" method="get" id="searchform" class="searchform" action="https://semiengineering.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			<input type="hidden" name="orderby" value="date" /><input type="hidden" name="order" value="DESC" /><input type="hidden" name="post_type" value="post,page,attachment,knowledge_centers,people,entities,technologies,multiple-sidebars,se_newsletter" /></form></div></div></div><!-- /Widget Shortcode -->      						 
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="header_wrapper">
+		<div class="nav-menu_new-menu_wrapper">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="visible-md visible-lg">
+							<div class="nav-menu_new-menu">
+								
+	<ul class="nav-menu_new-menu">
+
+		<li  class=""><a href="/">Home</a></li>
+
+		<li id="active" class="mlb"><a href="/category-main-page-sld/">Systems & Design</a></li>
+
+		<li  class="mlb"><a href="/category-main-page-lphp/">Low Power - High Performance</a></li>
+
+		<li  class="mlb"><a href="/category-main-page-manufacturing/">Manufacturing, Packaging & Materials</a></li>
+
+		<li  class="mlb"><a href="/category-main-page-packaging-test-electronic-systems/">Test, Measurement & Analytics</a></li>
+
+		<li  class="mlb"><a href="/category-main-page-iot-security/">Auto, Security & Pervasive Computing</a></li>
+        
+       <!-- <li  class="mlb"><a href="/startup-corner">Startup Corner</a></li> -->
+
+	   <!-- <li  class="mlb "><a href="/semiconductor-research/">Industry Research</a></li> -->
+        
+		
+	</ul>
+	<ul class="nav-menu_second-level">
+		<li   class="mlb "><a href="/special-reports/">Special Reports</a></li>
+
+		<li  class="mlb"><a href="/videos">Videos</a></li>
+
+		<li  class="mlb"><a href="/jobs/">Jobs</a></li>
+
+		<li  class="mlb"><a href="/knowledge-center">Knowledge Center</a></li>
+
+		<li   class="mlb "><a href="javascript:void(0)"><i class="fas fa-angle-down"></i>Events & Webinars</a>
+         	<ul>
+				<li  class="mlb"><a href="/semiconductor-events/">Events</a></li>
+				<li  class="mlb"><a href="/webinars/">Webinars</a></li>
+        	</ul>
+		</li>
+
+		<li   class="mlb "><a href="javascript:void(0)"><i class="fas fa-angle-down"></i>Research & Startups</a>
+         	<ul>
+         		<li  class="mlb "><a href="/semiconductor-research/">Industry Research</a></li>
+         		<li  class="mlb"><a href="/startup-corner">Startup Corner</a></li>
+        	</ul>
+		</li>
+
+	</ul>
+
+								</div>
+						</div>
+					<div class="sd-menu visible-sm visible-xs">
+						
+	<ul class="sd-menu">
+
+		<li><a href="#">MENU <span class="logo_dropdown"><i class="fa fa-chevron-circle-down"></i></span></a>
+
+			<ul class="sd-sub-menu">
+
+				<li  class="mlb"><a href="/">Home</a></li>
+				
+				<li  class="mlb"><a href="/special-reports/">Special Reports</a></li>
+
+				<li id="active" class="mlb"><a href="/category-main-page-sld/">Systems & Design</a></li>
+
+				<li  class="mlb"><a href="/category-main-page-lphp/">Low Power-High Performance</a></li>
+
+				<li  class="mlb"><a href="/category-main-page-manufacturing/">Manufacturing, Packaging & Materials</a></li>
+                
+                <li  class="mlb"><a href="/category-main-page-packaging-test-electronic-systems/">Test, Measurement & Analytics</a></li>
+
+				<li  class="mlb"><a href="/category-main-page-iot-security/">Auto, Security & Pervasive Computing</a></li>
+
+				<li  class="mlb"><a href="/knowledge-center">Knowledge Center</a></li>
+				
+				<li  class="mlb"><a href="/videos">Videos</a></li>
+
+				<li  class="mlb"><a href="/startup-corner">Startup Corner</a></li>
+
+				<li  class="mlb"><a href="/jobs/">Jobs</a></li>
+
+				<li  class="mlb"><a href="/semiconductor-events/">Events</a></li>
+
+				<li  class="mlb"><a href="/webinars/">Webinars</a></li>
+
+				<li  class="mlb"><a href="/semiconductor-research/">Industry Research</a></li>
+                
+                 <li style="display:none;"  class="mlb "><a href="/special-reports/">Special Reports</a></li>
+
+				
+			</ul>
+
+		</li>
+
+	</ul>
+
+						</div>
+				</div>
+			</div  >
+		</div>
+	</div>
+
+
+
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<div class="header-social">
+					<div class="row">
+						<div class="col-xs-12 col-sm-8 col-md-5">
+							<!-- <div class="logo">
+								<a href="/"><img src="https://semiengineering.com/wp-content/themes/se_current/images/se_logo.png"></a>
+							</div> -->
+							<div style="width:200px; margin-top:10px; display:none;" id="google_translate_element" ></div>
+						</div>
+						<div class="hidden-xs col-xs-0 col-sm-4 col-md-4"></div>
+							<div class="hidden-xs col-xs-0 col-sm-4 col-md-2">
+							</div>
+						<div class="hidden-xs col-xs-0 col-sm-4 col-md-1">
+							<div class="social_btns" style="width:200px; float:right; display: none;">
+								
+		<a class="social_btn" target="_blank" href="https://semiengineering.com/feed" title="rss" rel="alternate" type="application/rss+xml" title="rss feed"><i class="fa fa-rss fa-md"></i></a>
+
+								
+
+		<a class="social_btn" target="_blank" href="https://www.facebook.com/SemiEngineering" title="facebook" ><i class="fa fa-facebook fa-md"></i></a>
+
+								
+
+		<a class="social_btn" target="_blank" href="https://www.twitter.com/SemiEngineering" title="twitter" ><i class="fa fa-twitter fa-md"></i></a>
+
+								
+
+		<a class="social_btn" target="_blank" href="https://www.linkedin.com/company/semiconductor-engineering" title="linkedin" ><i class="fa fa-linkedin fa-md"></i></a>
+
+								
+
+		<a class="social_btn" target="_blank" href="https://www.youtube.com/user/SperlingMediaGroup" title="youtube" ><i class="fa fa-video-camera fa-md"></i></a>
+
+									</div>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+
+</div>
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+	<div class="container">
+
+
+
+		<div class="row">
+
+
+
+			<div class="col-md-12">
+
+
+
+				<div class="bc_sb">
+
+
+
+					<div class="row">
+
+
+
+						<div class="col-xs-0 col-sm-0 col-md-7 hidden-sm hidden-xs" style="margin-top:4px; display: none;">
+
+
+
+														<a href="/">Home</a> > 
+                            							<a href="/category-main-page-sld/">Systems & Design</a> > 
+                            							Week In Review: Design, Low Power
+						    
+
+
+						</div>
+
+
+
+						<div class="col-xs-12 col-sm-12 col-md-12">
+
+
+
+							
+	<div class="header_social_sharing">
+
+		<div class="header_social_sharing_panel">
+
+			<!-- <div class="addthis_sharing_toolbox" data-url="http://semiengineering.com/wp-content/uploads/2020/06/aging1.png" data-title="Week In Review: Design, Low Power"></div> -->
+			<div class="sharethis-inline-share-buttons"></div>
+
+		</div>
+
+	</div>
+
+	
+
+	
+
+
+						</div>
+
+
+
+					</div>
+
+
+
+				</div>
+
+
+
+			</div>
+
+
+
+		</div>
+
+
+
+	</div>
+
+
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+
+$("#searchform :first-child" ).replaceWith( "<div class='form-group-new pull-right' id='search'><input type='text' name='s' id='search_text' class='form-control' value='' placeholder='Search'><button type='submit' class='form-control form-control-submit'>Submit</button><span class='search-label'><i class='glyphicon glyphicon-search'></i></span></div>");
+
+$("#searchform #search_text").attr("placeholder", "Search");
+
+ $('#search').on("click",(function(e){
+  $(".form-group-new").addClass("sb-search-open");
+    e.stopPropagation()
+  }));
+   $(document).on("click", function(e) {
+    if ($(e.target).is("#search") === false && $(".form-control").val().length == 0) {
+      $(".form-group-new").removeClass("sb-search-open");
+    }
+  });
+    $(".form-control-submit").click(function(e){
+      $(".form-control").each(function(){
+        if($(".form-control").val().length == 0){
+          e.preventDefault();
+          $(this).css('border', '2px solid red');
+        }
+    })
+  });
+
+})
+</script>
+
+
+
+
+
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="fourofour">
+				<br /><br />
+				<i class="fa fa-cog fa-4x fa-lg"></i><br/>
+				<h1>404 Error - Page not found</h1>
+				
+				<p>Sorry, the content you were looking for could not be found.</p>
+				<p>Perhaps you can search for your topic or find another page that interests you.</p>
+				<br /><br />
+				<!-- Widget Shortcode --><div id="jetpack-search-filters-2" class="widget jetpack-filters widget_search widget-shortcode area-wp_inactive_widgets ">			<div id="jetpack-search-filters--1-wrapper" >
+		<div class="jetpack-search-form"><form role="search" method="get" id="searchform" class="searchform" action="https://semiengineering.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			<input type="hidden" name="orderby" value="date" /><input type="hidden" name="order" value="DESC" /><input type="hidden" name="post_type" value="post,page,attachment,knowledge_centers,people,entities,technologies,multiple-sidebars,se_newsletter" /></form></div></div></div><!-- /Widget Shortcode -->				<br /><br />
+			</div>
+	
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="footer_logo">
+
+
+
+	<div class="container">
+
+
+
+		<div class="row">
+
+
+
+			<div class="col-md-12">
+
+
+
+				<a href="/"><img src="/wp-content/themes/se_current/images/se_logo_blk.gif"></a>
+
+
+
+			</div>
+
+
+
+		</div>
+
+
+
+	</div>
+
+
+
+</div>
+
+
+
+<div class="footer_bk">
+
+
+
+	<div class="container">
+
+
+
+		<div class="row">
+
+
+
+			<div class="col-md-12">
+
+
+
+				<div class="footer_c">
+
+
+
+					<div class="row">
+
+
+
+						<div class="col-md-3">
+
+
+
+							<h3>About</h3>
+
+
+
+							<ul>
+
+
+
+								<li><a href="https://semiengineering.com/about-us/">About us</a></li>
+
+
+
+								<li><a href="https://semiengineering.com/about-us/">Contact us</a></li>
+
+
+
+								<li><a href="https://semiengineering.com/advertise/">Advertising on SemiEng</a></li>
+
+                                
+
+                                <li><a href="https://semiengineering.com/about-us/">Newsletter SignUp</a></li>
+
+
+
+							</ul>
+
+
+
+						</div>
+
+
+
+						<div class="col-md-6">
+
+
+
+							<h3>Navigation</h3>
+
+
+
+							<div class="row">
+
+
+
+								<div class="col-md-6">
+
+
+
+									<ul>
+
+
+
+										<li><a href="https://semiengineering.com/">Homepage</a></li>
+
+                                        
+
+                                        <li><a href="https://semiengineering.com/special-reports/">Special Reports</a></li>
+
+
+
+										<li><a href="https://semiengineering.com/category-main-page-sld/">Systems & Design</a></li>
+
+
+
+										<li><a href="https://semiengineering.com/category-main-page-lphp/">Low Power-High Perf</a></li>
+
+
+
+										<li><a href="https://semiengineering.com/category-main-page-manufacturing/">Manufacturing, Packaging & Materials</a></li>
+                                        
+                                        
+                                        
+                                        <li><a href="https://semiengineering.com/category-main-page-packaging-test-electronic-systems/">Test, Measurement & Analytics</a></li>
+
+
+
+										<li><a href="https://semiengineering.com/category-main-page-iot-security/">Auto, Security & Pervasive Computing</a></li>
+
+
+
+									</ul>
+
+
+
+								</div>
+
+
+
+								<div class="col-md-6">
+
+
+
+									<ul>
+
+										<li><a href="https://semiengineering.com/videos/">Videos</a></li>
+										
+										<li><a href="https://semiengineering.com/jobs/">Jobs</a></li>
+										
+										<li><a href="https://semiengineering.com/semiconductor-events/">Events</a></li>
+										
+										<li><a href="https://semiengineering.com/webinars/">Webinars</a></li>
+
+										<li><a href="https://semiengineering.com/knowledge-center/">Knowledge Centers</a></li>
+
+
+
+										<li><a href="https://semiengineering.com/startup-corner">Startup Corner</a></li>
+
+
+
+										<li style="display:none;"><a href="https://semiengineering.com/bussiness-marketing-strategies/">Bus & Marketing Strategies</a></li>
+
+
+
+									</ul>
+
+
+
+								</div>
+
+
+
+							</div>							
+
+
+
+						</div>
+
+
+
+						<div class="col-md-3">
+
+
+
+							<h3>Connect With Us</h3>
+
+
+
+							<ul>
+
+
+
+								<li><a href="https://www.facebook.com/SemiEngineering">Facebook</a></li>
+
+
+
+								<li><a href="https://www.twitter.com/SemiEngineering">Twitter</a>  @semiEngineering</li>
+
+
+
+								<li><a href="https://www.linkedin.com/company/semiconductor-engineering">LinkedIn</a></li>
+
+
+
+								<li><a href="https://www.youtube.com/user/SperlingMediaGroup">YouTube</a></li>
+
+                                
+
+                                
+
+                               
+
+
+
+							</ul>
+
+
+
+							
+
+
+
+						</div>
+
+
+
+					</div>			
+
+
+
+				</div>
+
+
+
+				<div class="footer_sig">
+
+
+
+					Copyright &copy;2013-2020 SMG &nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://semiengineering.com/terms-of-service/">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://semiengineering.com/privacy/">Privacy Policy</a> 
+
+
+
+					
+
+
+				</div>
+
+
+
+				
+
+
+
+			</div>
+
+
+
+		</div>		
+
+
+
+	</div>
+
+
+
+</div>
+
+
+
+
+
+
+
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		
+			<script>
+			jQuery.noConflict();
+			jQuery( document ).ready(function() {
+			  
+
+				function initialize() {
+					var autocompleteOptions = {
+							types: [ '(regions)']					};
+					
+					var options = {
+                       types: ['(cities)']
+	                };
+
+	                autocompleteOptions = Object.assign(autocompleteOptions, options);
+
+
+					/* Used on main search page */
+					if (jQuery( '#search_location, #job_location, #candidate_location, .search_jobs--frontpage #search_location').length) {
+
+				  		var normal_input = jQuery('#search_location, #job_location, #candidate_location, .search_jobs--frontpage #search_location')[0];
+
+				  						  			var autocomplete = new google.maps.places.Autocomplete(normal_input, options);
+				  						  	}
+				}
+
+				google.maps.event.addDomListener(window, 'load', initialize); 
+
+			});	
+			</script>
+
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/sortable.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var premiumStockMarketWidgets = {"shortcodeOpenTag":"[stock_market_widget ","shortcodeCloseTag":"]","pluginUrl":"https:\/\/semiengineering.com\/wp-content\/plugins\/premium-stock-market-widgets","websiteUrl":"https:\/\/semiengineering.com","ajaxUrl":"https:\/\/semiengineering.com\/wp-admin\/admin-ajax.php","ajaxNonce":"630e2eebe8","ajaxMethod":null,"assetsLogoImages":{"AAPL":"AAPL.png","AAXN":"AAXN.png","ABCB":"ABCB.png","ABEO":"ABEO.png","ABLX":"ABLX.png","ABMD":"ABMD.png","ABTX":"ABTX.png","ACBI":"ACBI.png","ACET":"ACET.gif","ACFC":"ACFC.png","ACHC":"ACHC.png","ACHN":"ACHN.gif","ACHV":"ACHV.png","ACIA":"ACIA.png","ACIW":"ACIW.png","ACNB":"ACNB.png","ACRS":"ACRS.png","ACST":"ACST.png","ACXM":"ACXM.png","ADAP":"ADAP.png","ADBE":"ADBE.png","ADMA":"ADMA.png","ADMS":"ADMS.png","AEIS":"AEIS.png","AEMD":"AEMD.png","AFMD":"AFMD.png","AFSI":"AFSI.png","AGEN":"AGEN.png","AGFS":"AGFS.png","AGIO":"AGIO.png","AKAM":"AKAM.png","AKBA":"AKBA.png","AKCA":"AKCA.png","AKER":"AKER.png","AKTX":"AKTX.png","ALOG":"ALOG.png","ALOT":"ALOT.png","ALRM":"ALRM.png","ALTR":"ALTR.png","AMAG":"AMAG.png","AMCX":"AMCX.png","AMDA":"AMDA.png","AMED":"AMED.png","AMGN":"AMGN.png","AMMA":"AMMA.png","AMOT":"AMOT.png","AMSC":"AMSC.png","AMSWA":"AMSWA.png","AMTX":"AMTX.jpg","AMZN":"AMZN.png","ANCB":"ANCB.png","ANGI":"ANGI.png","ANGO":"ANGO.png","APDN":"APDN.png","APEN":"APEN.png","APLS":"APLS.png","APOP":"APOP.png","APPS":"APPS.png","APVO":"APVO.png","AQMS":"AQMS.png","ARCI":"ARCI.png","ARCT":"ARCT.png","ARDX":"ARDX.png","ARGS":"ARGS.png","ARGX":"ARGX.png","ARNA":"ARNA.png","ARQL":"ARQL.png","ARTW":"ARTW.png","ARTX":"ARTX.png","ARWR":"ARWR.png","ASNS":"ASNS.png","ATAI":"ATAI.png","ATEC":"ATEC.jpg","ATHX":"ATHX.gif","ATRI":"ATRI.jpg","AUPH":"AUPH.png","AVNW":"AVNW.png","AXGN":"AXGN.png","AXON":"AXON.png","AXSM":"AXSM.png","BABY":"BABY.png","BAND":"BAND.png","BANR":"BANR.png","BATRK":"BATRK.png","BBGI":"BBGI.png","BCLI":"BCLI.png","BCOV":"BCOV.png","BCRX":"BCRX.png","BDSI":"BDSI.png","BGFV":"BGFV.png","BGNE":"BGNE.png","BHF":"BHF.png","BIOC":"BIOC.png","BIOL":"BIOL.png","BKEP":"BKEP.png","BKEPP":"BKEPP.png","BMCH":"BMCH.png","BNTC":"BNTC.png","BOJA":"BOJA.png","BOOM":"BOOM.png","BPMC":"BPMC.png","BPOP":"BPOP.png","BRKR":"BRKR.png","BSET":"BSET.png","BSQR":"BSQR.png","BUFF":"BUFF.png","BURG":"BURG.png","BUSE":"BUSE.png","BVXV":"BVXV.png","BYFC":"BYFC.png","CA":"CA.png","CAKE":"CAKE.png","CAPR":"CAPR.png","CARA":"CARA.png","CARG":"CARG.png","CASI":"CASI.png","CASM":"CASM.png","CASY":"CASY.png","CATB":"CATB.png","CBAY":"CBAY.png","CBTX":"CBTX.png","CCIH":"CCIH.png","CCMP":"CCMP.jpg","CCRC":"CCRC.jpg","CDEV":"CDEV.png","CDK":"CDK.png","CDOR":"CDOR.png","CDXC":"CDXC.png","CDXS":"CDXS.png","CDZI":"CDZI.jpg","CELG":"CELG.png","CELH":"CELH.png","CENT":"CENT.png","CENTA":"CENTA.png","CERC":"CERC.png","CETV":"CETV.png","CETX":"CETX.png","CEVA":"CEVA.jpg","CFBK":"CFBK.png","CFFI":"CFFI.png","CFMS":"CFMS.png","CFRX":"CFRX.png","CGNT":"CGNT.png","CHCO":"CHCO.png","CHEK":"CHEK.jpg","CHKP":"CHKP.png","CHRS":"CHRS.png","CHRW":"CHRW.jpg","CIGI":"CIGI.png","CJJD":"CJJD.png","CLAR":"CLAR.png","CLCT":"CLCT.png","CLFD":"CLFD.png","CLNE":"CLNE.png","CLRB":"CLRB.png","CLSN":"CLSN.png","CMCSA":"CMCSA.png","CME":"CME.png","CNCE":"CNCE.png","CNFR":"CNFR.png","CNOB":"CNOB.png","CNTY":"CNTY.png","CODA":"CODA.png","CODX":"CODX.png","COHR":"COHR.png","COLB":"COLB.png","COLL":"COLL.png","COLM":"COLM.png","COMM":"COMM.png","CORT":"CORT.png","COUP":"COUP.png","COWN":"COWN.png","CPRX":"CPRX.png","CPST":"CPST.png","CRAY":"CRAY.png","CRBP":"CRBP.png","CREE":"CREE.png","CRMT":"CRMT.png","CRSP":"CRSP.png","CRVL":"CRVL.png","CRVS":"CRVS.png","CSCO":"CSCO.gif","CSFL":"CSFL.png","CSGS":"CSGS.png","CSII":"CSII.png","CSIQ":"CSIQ.png","CSOD":"CSOD.png","CSWI":"CSWI.png","CTRE":"CTRE.png","CTXS":"CTXS.png","CUI":"CUI.png","CUR":"CUR.png","CUTR":"CUTR.png","CVCO":"CVCO.png","CVLT":"CVLT.png","CVV":"CVV.png","CWST":"CWST.png","CYBE":"CYBE.png","CYRN":"CYRN.png","DAIO":"DAIO.png","DAKT":"DAKT.png","DCOM":"DCOM.png","DCPH":"DCPH.png","DFFN":"DFFN.png","DGII":"DGII.png","DHXM":"DHXM.png","DISCA":"DISCA.png","DISCB":"DISCB.png","DISCK":"DISCK.png","DJCO":"DJCO.png","DMLP":"DMLP.gif","DMPI":"DMPI.png","DMRC":"DMRC.png","DNKN":"DNKN.png","DORM":"DORM.png","DOTA":"DOTA.png","DRAD":"DRAD.png","DRIO":"DRIO.png","DRYS":"DRYS.png","DTEA":"DTEA.png","DTRM":"DTRM.png","DWCH":"DWCH.png","DXCM":"DXCM.png","DYNT":"DYNT.png","DYSL":"DYSL.png","EACQ":"EACQ.png","EBAY":"EBAY.png","EBMT":"EBMT.png","EBTC":"EBTC.png","EEFT":"EEFT.gif","EFOI":"EFOI.png","EGBN":"EGBN.png","EGHT":"EGHT.png","EGRX":"EGRX.png","EIGI":"EIGI.png","EIGR":"EIGR.png","EKSO":"EKSO.png","ELSE":"ELSE.png","EMMS":"EMMS.png","ENFC":"ENFC.gif","ENSG":"ENSG.png","EPAY":"EPAY.png","EPIX":"EPIX.png","ERI":"ERI.png","ERIE":"ERIE.png","ERII":"ERII.png","ERYP":"ERYP.png","ESES":"ESES.png","ESGR":"ESGR.png","ESPR":"ESPR.png","ESQ":"ESQ.png","ETFC":"ETFC.png","EVBG":"EVBG.png","EVGN":"EVGN.png","EVOK":"EVOK.png","EVOL":"EVOL.png","EXEL":"EXEL.png","EXFO":"EXFO.png","EXPE":"EXPE.png","EXTR":"EXTR.png","EZPW":"EZPW.jpg","FARO":"FARO.png","FAT":"FAT.png","FB":"FB.png","FBMS":"FBMS.jpg","FBNC":"FBNC.png","FBSS":"FBSS.png","FCEL":"FCEL.png","FCFS":"FCFS.png","FEYE":"FEYE.png","FFIN":"FFIN.png","FFIV":"FFIV.png","FFKT":"FFKT.png","FFNW":"FFNW.png","FFWM":"FFWM.png","FGBI":"FGBI.png","FITB":"FITB.png","FITBI":"FITBI.png","FLDM":"FLDM.png","FLEX":"FLEX.png","FLIR":"FLIR.png","FMI":"FMI.png","FNJN":"FNJN.png","FNSR":"FNSR.png","FNTE":"FNTE.png","FNWB":"FNWB.png","FOGO":"FOGO.png","FORM":"FORM.png","FORR":"FORR.png","FOX":"FOX.png","FOXA":"FOXA.png","FOXF":"FOXF.png","FRGI":"FRGI.png","FRPH":"FRPH.png","FRTA":"FRTA.png","FSCT":"FSCT.png","FTD":"FTD.png","FTEO":"FTEO.png","FWONK":"FWONK.png","FWRD":"FWRD.png","GABC":"GABC.png","GBT":"GBT.png","GDS":"GDS.png","GEVO":"GEVO.png","GIFI":"GIFI.png","GIII":"GIII.png","GILT":"GILT.png","GLDD":"GLDD.png","GNCA":"GNCA.png","GNUS":"GNUS.png","GOGL":"GOGL.png","GOOG":"GOOG.png","GOV":"GOV.png","GPIC":"GPIC.png","GPOR":"GPOR.png","GRPN":"GRPN.png","GSHT":"GSHT.png","GSM":"GSM.png","GT":"GT.png","GTHX":"GTHX.png","GTIM":"GTIM.png","GYRO":"GYRO.png","HABT":"HABT.jpg","HAIN":"HAIN.png","HAIR":"HAIR.png","HBHC":"HBHC.png","HCCI":"HCCI.png","HCM":"HCM.png","HDNG":"HDNG.png","HDP":"HDP.png","HELE":"HELE.png","HFWA":"HFWA.png","HIHO":"HIHO.gif","HIIQ":"HIIQ.png","HOLI":"HOLI.png","HSIC":"HSIC.png","HSTM":"HSTM.png","HTBI":"HTBI.png","HTBX":"HTBX.png","HTLD":"HTLD.png","HX":"HX.png","IAC":"IAC.png","IBCP":"IBCP.png","ICCH":"ICCH.png","ICFI":"ICFI.jpg","ICHR":"ICHR.png","ICLR":"ICLR.png","IDSY":"IDSY.png","IDXG":"IDXG.png","IDXX":"IDXX.png","IEP":"IEP.gif","IGLD":"IGLD.png","IIVI":"IIVI.png","IMGN":"IMGN.png","IMI":"IMI.png","IMMR":"IMMR.png","IMMU":"IMMU.png","IMMY":"IMMY.png","IMNP":"IMNP.png","IMRN":"IMRN.jpg","INCY":"INCY.png","INFO":"INFO.png","INGN":"INGN.png","INPX":"INPX.png","INSE":"INSE.png","INSM":"INSM.png","INTC":"INTC.png","INTU":"INTU.png","INVA":"INVA.png","IOVA":"IOVA.png","IPAS":"IPAS.png","IPCI":"IPCI.png","IRMD":"IRMD.png","IRWD":"IRWD.png","ISBC":"ISBC.png","ISRG":"ISRG.png","ISSC":"ISSC.png","ITI":"ITI.png","ITUS":"ITUS.png","IVTY":"IVTY.png","IZEA":"IZEA.png","JACK":"JACK.png","JAGX":"JAGX.png","JAKK":"JAKK.png","JBLU":"JBLU.png","JBSS":"JBSS.png","JNCE":"JNCE.png","KBAL":"KBAL.png","KEYW":"KEYW.gif","KFRC":"KFRC.png","KIN":"KIN.png","KMPH":"KMPH.png","KONA":"KONA.png","KOSS":"KOSS.png","KRNY":"KRNY.png","KTOS":"KTOS.png","KTOV":"KTOV.png","KTWO":"KTWO.png","LABL":"LABL.png","LAKE":"LAKE.png","LARK":"LARK.png","LAWS":"LAWS.png","LBRDA":"LBRDA.png","LBRDK":"LBRDK.png","LBTYA":"LBTYA.png","LBTYB":"LBTYB.png","LBTYK":"LBTYK.png","LCUT":"LCUT.png","LE":"LE.png","LEXEA":"LEXEA.png","LGIH":"LGIH.png","LGND":"LGND.png","LHCG":"LHCG.png","LILA":"LILA.png","LILAK":"LILAK.png","LINK":"LINK.png","LITE":"LITE.png","LIVN":"LIVN.png","LLNW":"LLNW.png","LMAT":"LMAT.png","LMNR":"LMNR.png","LMNX":"LMNX.png","LMRK":"LMRK.png","LNDC":"LNDC.png","LNTH":"LNTH.png","LOGI":"LOGI.png","LOGM":"LOGM.png","LONE":"LONE.png","LOPE":"LOPE.png","LPTH":"LPTH.png","LPTX":"LPTX.png","LRCX":"LRCX.png","LSCC":"LSCC.png","LSXMK":"LSXMK.png","LTRPA":"LTRPA.png","LTRPB":"LTRPB.png","LTRX":"LTRX.png","LULU":"LULU.png","LYL":"LYL.png","LYTS":"LYTS.png","MACK":"MACK.png","MAGS":"MAGS.png","MAMS":"MAMS.png","MAR":"MAR.png","MARA":"MARA.png","MARK":"MARK.png","MAT":"MAT.png","MATR":"MATR.png","MBII":"MBII.png","MBIN":"MBIN.png","MBIO":"MBIO.jpg","MBRX":"MBRX.png","MBVX":"MBVX.png","MDGL":"MDGL.png","MDWD":"MDWD.png","MEDP":"MEDP.png","MEET":"MEET.png","MEIP":"MEIP.png","MELR":"MELR.png","MEOH":"MEOH.png","METC":"METC.png","MFIN":"MFIN.png","MGIC":"MGIC.png","MGYR":"MGYR.png","MIDD":"MIDD.png","MIME":"MIME.png","MIND":"MIND.png","MINI":"MINI.png","MITK":"MITK.png","MLHR":"MLHR.png","MMAC":"MMAC.png","MMLP":"MMLP.png","MMSI":"MMSI.png","MNTX":"MNTX.png","MOBL":"MOBL.png","MORN":"MORN.png","MOSY":"MOSY.png","MPAA":"MPAA.png","MPAC":"MPAC.png","MRDN":"MRDN.png","MRLN":"MRLN.png","MRNS":"MRNS.png","MRTX":"MRTX.png","MRUS":"MRUS.png","MSCC":"MSCC.png","MSFT":"MSFT.png","MSG":"MSG.png","MSTR":"MSTR.png","MTEX":"MTEX.png","MTFB":"MTFB.png","MTLS":"MTLS.png","MTRX":"MTRX.png","MU":"MU.png","MVIS":"MVIS.png","MYGN":"MYGN.png","MZOR":"MZOR.jpg","NAII":"NAII.png","NANO":"NANO.png","NATR":"NATR.png","NAUH":"NAUH.jpg","NBEV":"NBEV.png","NCBS":"NCBS.png","NCLH":"NCLH.png","NCSM":"NCSM.png","NDAQ":"NDAQ.png","NEOG":"NEOG.png","NEON":"NEON.jpg","NESR":"NESR.png","NETE":"NETE.png","NEWA":"NEWA.png","NEXT":"NEXT.jpg","NFLX":"NFLX.png","NGHC":"NGHC.jpg","NGHCP":"NGHCP.jpg","NH":"NH.png","NHLD":"NHLD.png","NHTC":"NHTC.png","NICE":"NICE.png","NIHD":"NIHD.png","NITE":"NITE.png","NLNK":"NLNK.png","NNBR":"NNBR.png","NRCIA":"NRCIA.png","NRCIB":"NRCIB.png","NSIT":"NSIT.png","NSYS":"NSYS.png","NTNX":"NTNX.png","NTRA":"NTRA.png","NTWK":"NTWK.png","NUAN":"NUAN.png","NURO":"NURO.png","NUVA":"NUVA.png","NVEE":"NVEE.gif","NVTR":"NVTR.png","NWFL":"NWFL.png","NWPX":"NWPX.png","NXEO":"NXEO.png","NXST":"NXST.png","NXTD":"NXTD.jpg","NXTM":"NXTM.png","OBLN":"OBLN.png","OCLR":"OCLR.png","OESX":"OESX.png","OFED":"OFED.png","OHGI":"OHGI.png","OMER":"OMER.gif","OMNT":"OMNT.png","ONCS":"ONCS.png","ONS":"ONS.jpg","ONTX":"ONTX.png","ONVO":"ONVO.png","OPB":"OPB.png","ORIG":"ORIG.png","ORMP":"ORMP.png","ORPN":"ORPN.png","OSBC":"OSBC.png","OTIV":"OTIV.png","OTTR":"OTTR.jpg","OVAS":"OVAS.png","OVID":"OVID.png","PAAS":"PAAS.png","PANL":"PANL.png","PATI":"PATI.png","PAVM":"PAVM.png","PAYX":"PAYX.png","PBIP":"PBIP.jpg","PBSK":"PBSK.png","PCRX":"PCRX.png","PCTI":"PCTI.png","PDCO":"PDCO.png","PDLI":"PDLI.png","PEIX":"PEIX.png","PEP":"PEP.png","PFIE":"PFIE.png","PFIN":"PFIN.png","PFIS":"PFIS.png","PFSW":"PFSW.png","PGTI":"PGTI.jpg","PHII":"PHII.png","PHIIK":"PHIIK.png","PI":"PI.png","PIH":"PIH.png","PKBK":"PKBK.jpg","PLAY":"PLAY.jpg","PLUS":"PLUS.png","PLXP":"PLXP.png","PMTS":"PMTS.png","PNTR":"PNTR.png","PODD":"PODD.png","PPSI":"PPSI.png","PRAA":"PRAA.png","PRCP":"PRCP.png","PRGS":"PRGS.png","PRGX":"PRGX.png","PRPO":"PRPO.png","PRTA":"PRTA.png","PRTK":"PRTK.jpg","PRTO":"PRTO.png","PTI":"PTI.png","PTNR":"PTNR.png","PTSI":"PTSI.png","PTX":"PTX.png","PVAC":"PVAC.png","PWOD":"PWOD.png","PXLW":"PXLW.png","PXS":"PXS.png","PYPL":"PYPL.png","PZZA":"PZZA.png","QADA":"QADA.png","QADB":"QADB.png","QCOM":"QCOM.png","QGEN":"QGEN.png","QLYS":"QLYS.png","QRVO":"QRVO.png","QTNA":"QTNA.png","QUMU":"QUMU.png","QURE":"QURE.png","RAND":"RAND.png","RARX":"RARX.png","RBCAA":"RBCAA.png","RCII":"RCII.png","RCMT":"RCMT.png","RDCM":"RDCM.png","RDFN":"RDFN.png","RDUS":"RDUS.png","REIS":"REIS.png","RELV":"RELV.png","REPH":"REPH.png","RGNX":"RGNX.png","RICK":"RICK.png","RIGL":"RIGL.png","RIOT":"RIOT.png","RMBL":"RMBL.png","RMGN":"RMGN.png","RMR":"RMR.png","RNDB":"RNDB.png","ROKU":"ROKU.png","ROSE":"ROSE.png","ROST":"ROST.png","RP":"RP.png","RRD":"RRD.png","RTTR":"RTTR.png","RUN":"RUN.png","RYAAY":"RYAAY.png","RYTM":"RYTM.png","SAIA":"SAIA.png","SAL":"SAL.png","SANM":"SANM.png","SASR":"SASR.png","SBGI":"SBGI.png","SBLK":"SBLK.png","SBRA":"SBRA.png","SBRAP":"SBRAP.png","SBSI":"SBSI.png","SBUX":"SBUX.png","SCVL":"SCVL.png","SCWX":"SCWX.png","SCYX":"SCYX.png","SEAC":"SEAC.png","SEED":"SEED.jpg","SEIC":"SEIC.png","SFBS":"SFBS.png","SFM":"SFM.png","SFNC":"SFNC.png","SGBX":"SGBX.png","SGMO":"SGMO.png","SGRP":"SGRP.jpg","SGYP":"SGYP.png","SHLD":"SHLD.png","SHOO":"SHOO.png","SHPG":"SHPG.png","SIEN":"SIEN.png","SIFY":"SIFY.jpg","SIR":"SIR.jpg","SIRI":"SIRI.jpg","SLCT":"SLCT.png","SLP":"SLP.png","SMTC":"SMTC.png","SMTX":"SMTX.png","SNBR":"SNBR.png","SND":"SND.jpg","SNDX":"SNDX.png","SNFCA":"SNFCA.png","SNGX":"SNGX.png","SNH":"SNH.png","SNNA":"SNNA.png","SNOA":"SNOA.png","SODA":"SODA.png","SOHU":"SOHU.png","SPAR":"SPAR.png","SPHS":"SPHS.png","SPLK":"SPLK.png","SPNE":"SPNE.png","SPSC":"SPSC.png","SPWR":"SPWR.png","SRAX":"SRAX.png","SRCE":"SRCE.png","SRDX":"SRDX.png","SRPT":"SRPT.png","SRRA":"SRRA.png","SSB":"SSB.jpg","SSKN":"SSKN.png","SSNC":"SSNC.jpg","SSNT":"SSNT.jpg","SSRM":"SSRM.png","SSTI":"SSTI.png","STAA":"STAA.png","STB":"STB.png","STDY":"STDY.png","SUMR":"SUMR.png","SUNW":"SUNW.png","SVRA":"SVRA.png","SYKE":"SYKE.png","SYMC":"SYMC.png","SYNC":"SYNC.png","SYRS":"SYRS.png","TA":"TA.png","TAST":"TAST.jpg","TATT":"TATT.png","TBK":"TBK.png","TCCO":"TCCO.jpg","TCON":"TCON.png","TECH":"TECH.png","TELL":"TELL.png","TESS":"TESS.png","TGA":"TGA.gif","TGEN":"TGEN.png","TGLS":"TGLS.png","TIG":"TIG.png","TLF":"TLF.png","TLND":"TLND.png","TNAV":"TNAV.png","TNDM":"TNDM.png","TORM":"TORM.png","TPIV":"TPIV.png","TRCB":"TRCB.png","TRIB":"TRIB.png","TRIL":"TRIL.png","TRMT":"TRMT.png","TRNC":"TRNC.png","TRNS":"TRNS.png","TRS":"TRS.png","TRVG":"TRVG.png","TRVN":"TRVN.png","TSBK":"TSBK.png","TSC":"TSC.png","TSEM":"TSEM.png","TSG":"TSG.png","TSLA":"TSLA.png","TST":"TST.png","TTD":"TTD.png","TTEC":"TTEC.png","TTNP":"TTNP.png","TTOO":"TTOO.png","TTPH":"TTPH.png","TTWO":"TTWO.png","TUES":"TUES.jpg","TUSK":"TUSK.png","TWMC":"TWMC.png","TWNK":"TWNK.png","TWOU":"TWOU.png","TXMD":"TXMD.png","TXRH":"TXRH.png","TYPE":"TYPE.png","TZOO":"TZOO.png","UBFO":"UBFO.png","UBNT":"UBNT.png","UEIC":"UEIC.png","UFPI":"UFPI.png","UFPT":"UFPT.png","ULH":"ULH.png","UMBF":"UMBF.png","UNFI":"UNFI.png","UNIT":"UNIT.png","UONE":"UONE.jpg","UONEK":"UONEK.jpg","UPL":"UPL.png","UPLD":"UPLD.png","URBN":"URBN.png","URGN":"URGN.jpg","USAT":"USAT.png","USATP":"USATP.png","USAU":"USAU.png","USEG":"USEG.png","UTMD":"UTMD.gif","VBFC":"VBFC.png","VBIV":"VBIV.png","VECO":"VECO.png","VEON":"VEON.png","VERI":"VERI.png","VIA":"VIA.png","VIAB":"VIAB.png","VIRC":"VIRC.png","VIVE":"VIVE.png","VNDA":"VNDA.png","VOD":"VOD.png","VREX":"VREX.png","VRNA":"VRNA.png","VRSK":"VRSK.png","VRSN":"VRSN.png","VRTS":"VRTS.png","VRTU":"VRTU.png","VSTM":"VSTM.png","VTGN":"VTGN.png","VTVT":"VTVT.png","VUZI":"VUZI.png","WAFD":"WAFD.png","WDFC":"WDFC.png","WEN":"WEN.png","WHLM":"WHLM.png","WINA":"WINA.png","WING":"WING.png","WINS":"WINS.png","WRLD":"WRLD.png","WSBC":"WSBC.png","WSBF":"WSBF.png","WSCI":"WSCI.png","WSFS":"WSFS.png","WSTL":"WSTL.png","WTBA":"WTBA.png","WVVI":"WVVI.png","XBIO":"XBIO.png","XENT":"XENT.png","XGTI":"XGTI.png","XLNX":"XLNX.png","XLRN":"XLRN.png","XNCR":"XNCR.png","XPER":"XPER.png","XPLR":"XPLR.png","YGYI":"YGYI.png","YNDX":"YNDX.png","YORW":"YORW.png","ZBRA":"ZBRA.png","ZEAL":"ZEAL.png","ZEUS":"ZEUS.png","ZFGN":"ZFGN.png","ZGNX":"ZGNX.png","ZKIN":"ZKIN.png","ZN":"ZN.png","ZNGA":"ZNGA.png","ZSAN":"ZSAN.png"},"thousandsSeparator":null,"decimalSeparator":null,"locale":null,"assetRecognitionRegexp":null,"assetNamesOverrides":null,"text":{"_self":"Same window","_blank":"New window","15m":"15 minutes","30m":"30 minutes","60m":"60 minutes","90m":"90 minutes","1h":"1 hour","1d":"1 day","5d":"5 days","1wk":"1 week","1mo":"1 month","3mo":"3 months","6mo":"6 months","1y":"1 year","2y":"2 years","5y":"5 years","10y":"10 years","52_week_low":"52 week low","52_week_low_change_abs":"52 week low change","52_week_low_change_pct":"52 week low % change","52_week_high":"52 week high","52_week_high_change_abs":"52 week high change","52_week_high_change_pct":"52 week high % change","52_week_change":"52 week change","52_week_low_high":"52 week low \/ high","52_week_range":"52 week range","5_year_avg_dividend_yield":"Five Year Avg Dividend Yield","50_day_average":"50 day average","200_day_average":"200 day average","address":"Address","annual_dividend_rate":"Trailing Annual Dividend Rate","annual_dividend_yield":"Trailing Annual Dividend Yield","algorithm":"Algorithm","anonymity":"Anonymity","analyst_opinions":"Analyst opinions count","api":"API","api_type":"API type","asc":"Ascending","ask":"Ask","asset":"Asset","assets":"Assets","average_volume":"Average volume","average_volume_10_days":"Average volume 10 days","axes":"Display axes","beta":"Beta","bid":"Bid","book_value":"Book value","bottomCenter":"Bottom center","bottomLeft":"Bottom left","bottomRight":"Bottom right","buy":"Buy","center":"Center","change_abs":"Change","change_pct":"% Change","chart":"Chart","city":"City","close":"Close","color":"Color","copy":"Copy","country":"Country","current_ratio":"Current ratio","currency":"Currency","currency_symbol":"Currency symbol","currencies":"Currencies","cursor":"Cursor","date":"Date","day_low_high":"Day low \/ high","date_time":"Date \/ time","debt_equity":"Debt \/ Equity","desc":"Descending","description":"Description","direction":"Direction","display_chart":"Display chart for selected asset","display_header":"Display header","dividend_rate":"Dividend rate","dividend_yield":"Dividend yield","earnings_growth":"Earnings growth","ebitda":"EBITDA","ebitda_margin":"EBITDA margin","employees_count":"Number of employees","enterprise_ebitda":"Enterprise EBITDA","enterprise_revenue":"Enterprise revenue","enterprise_value":"Enterprise value","eps":"Earnings per share","ex_dividend_date":"Ex-Dividend date","exchange_code":"Exchange code","exchange_name":"Exchange","exchange_tz_name":"Exchange timezone","exchange_tz_code":"Exchange timezone code","field":"Field","fields":"Fields","forward_eps":"Forward earnings per share","forward_pe_ratio":"Forward P\/E ratio","free_cashflow":"Free cashflow","gross_profit":"Gross profit","gross_margin":"Gross margin","high":"High","industry":"Industry","interval":"Interval","yes":"Yes","last_split_factor":"Last split factor","last_split_date":"Last split date","last_update":"Last udpate","last_update_ago":"Last udpate","left":"Left","limit":"Limit","line":"Line","link":"Link","logo":"Logo","logo_name":"Name","logo_name_link":"Name","low":"Low","low_high":"Low \/ High","market":"Market","market_cap":"Market cap","market_cap2":"Mkt cap","markup":"Text (markup)","max":"Max","mode":"Mode","name":"Name","name_lc":"Name (LC)","name_link":"Name","net_income_to_common":"Net income to common","no":"No","number_b":"b","number_k":"k","number_m":"m","number_t":"b","open":"Open","operating_cashflow":"Operating cashflow","operating_margin":"Operating margin","page_url":"Asset page URL","pagination":"Pagination","pause":"Pause on hover","payout_ratio":"Payout ratio","pe_ratio":"P\/E ratio","peg_ratio":"PEG ratio","period":"Period","phone":"Phone","position":"Position","preview":"Preview","previous_close":"Previous close","price":"Price","price_book":"Price \/ Book","price_to_sales_trailing_12_months":"Price \/ Sales","profit_margin":"Profit margin","portfolio_date":"Purchase date","portfolio_price":"Purchase price","portfolio_sell_date":"Sell date","portfolio_sell_price":"Sell price","portfolio_structure":"Portfolio structure","portfolio_quantity":"Quantity","portfolio_change_abs":"Change","portfolio_change_pct":"% Change","portfolio_cost":"Cost","portfolio_value":"Market value","portfolio_return_abs":"Return","portfolio_return_pct":"% Return","quantity":"Quantity","quarter_earnings_growth":"Quarterly earnings growth","quick_ratio":"Quick ratio","range":"Range","range_short_5d":"5d","range_short_1mo":"1m","range_short_3mo":"3m","range_short_6mo":"6m","range_short_1y":"1y","range_short_2y":"2y","range_short_5y":"5y","range_short_10y":"10y","read_more":"Read more","recommendation_mean":"Recommendation mean","recommendation_key":"Recommendation key","revenue_growth":"Revenue growth","revenue_per_share":"Revenue per share","return_on_assets":"Return on assets","return_on_equity":"Return on equity","right":"Right","rows_per_page":"Rows per page","search":"Search","search_placeholder":"Symbol or company name","search2":"Search...","search_not_found":"No matching records found","sector":"Sector","sell":"Sell","shares_outstanding":"Shares outstanding","shares_float":"Shares float","shares_short":"Shares short","short_ratio":"Short ratio","short_pct_of_float":"Short % of float","shortcode":"Shortcode","server_locations":"Server locations","sort_field":"Sort field","sort_direction":"Sort direction","symbol":"Symbol","symbol_lc":"Symbol (LC)","speed":"Speed","start_expanded":"Start expanded","state":"State","style":"Extra CSS styles","target":"Target","target_high_price":"Target high price","target_low_price":"Target low price","target_mean_price":"Target mean price","target_median_price":"Target median price","template":"Template","theme":"Theme","timeout":"Timeout","topCenter":"Top center","topLeft":"Top left","topRight":"Top right","total":"Total","total_cash":"Total cash","total_cash_per_share":"Total cash per share","total_debt":"Total debt","total_portfolio_change_abs":"Total change","total_portfolio_change_pct":"Total % change","total_portfolio_cost":"Total cost","total_portfolio_value":"Total value","total_revenue":"Total revenue","type":"Type","unknown":"Unknown","url":"URL","variables":"Available substitute variables","volume":"Volume","website":"Website","zip":"ZIP"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://semiengineering.com/wp-content/plugins/premium-stock-market-widgets/assets/js/dist/app.js?ver=2.1.2'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.6.1/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.6.1/modules/widgets/search/js/search-widget.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.6.1/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202024.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.6.1',blog:'143345712',post:'0',tz:'-7',srv:'semiengineering.com'} ]);
+	_stq.push([ 'clickTrackerInit', '143345712', '0' ]);
+</script>
+
+
+
+
+
+
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+
+
+
+<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51bca74f0ad814fc"></script> -->
+    
+
+
+
+<!-- Quantcast Tag -->
+
+
+
+<script type="text/javascript">
+
+
+
+var _qevents = _qevents || [];
+
+
+
+
+
+
+
+(function() {
+
+
+
+var elem = document.createElement('script');
+
+
+
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+
+
+
+elem.async = true;
+
+
+
+elem.type = "text/javascript";
+
+
+
+var scpt = document.getElementsByTagName('script')[0];
+
+
+
+scpt.parentNode.insertBefore(elem, scpt);
+
+
+
+})();
+
+
+
+
+
+
+
+_qevents.push({
+
+
+
+qacct:"p-7GRJG2X5Sq9J8"
+
+
+
+});
+
+
+
+</script>
+
+
+
+
+
+
+
+<noscript>
+
+
+
+<div style="display:none;">
+
+
+
+<img src="//pixel.quantserve.com/pixel/p-7GRJG2X5Sq9J8.gif" border="0" height="1" width="1" alt="Quantcast"/>
+
+
+
+</div>
+
+
+
+</noscript>
+
+
+
+<!-- End Quantcast tag -->
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+
+function googleTranslateElementInit() {
+
+
+
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+
+
+
+}
+
+
+
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+
+
+
+
+
+<script>
+
+
+
+$(document).ready( function () {
+
+
+
+    $('#purchase').load( function () {
+
+
+
+        $('this').contents().find("img").css("display","none");
+
+
+
+    });
+
+
+
+});
+
+
+
+
+
+
+
+ 
+
+
+
+        $(document).ready(function() {
+
+
+
+            $ ('ul.display-posts-listing li:even').addClass('even');
+
+
+
+            $ ('ul.display-posts-listing li:odd').addClass('odd');
+
+
+
+        });
+
+
+
+   
+
+
+
+$(document).ready(function() {
+
+    setTimeout(function(){
+        jQuery('.gsc-search-box').addClass('show');
+    }, 1800);
+
+    $('.smw-market-data-field:contains("Corporatio")').each(function(){
+
+        $(this).html($(this).html().split("Corporatio").join());
+
+    });
+
+
+    $('#jetpack-search-filters--1-wrapper').find('input#s').attr('placeholder', 'Search');
+    $('.sidebar_widget #jetpack-search-filters--1-wrapper').find('input#s').attr('placeholder', 'Search');
+
+
+
+
+if ($("body").hasClass("page-template-report")){
+
+
+
+    $( ".bc_sb a:nth-child(2)" ).hide;
+    
+    $('ul.nav-menu li:first-child').removeAttr('id');
+    
+    $('ul.nav-menu li:nth-child(2').attr('id', 'active');
+
+
+
+
+
+}
+
+
+
+$("ul.nav-menu li:nth-child(2)").click(function(){
+
+	$('ul.nav-menu li:first-child').removeAttr('id');
+
+});
+
+
+
+
+
+ 
+
+ if ($(".sidebar").hasClass("2_5d_ic")){
+
+	 $("ul#2_5d_ic h3").hide;
+
+	 $("ul#2_5d_ic table").hide;
+
+	 $("ul#2_5d_ic .side-ads").css('display', 'block');
+
+ }
+
+
+
+$('.kc_posts').sort(function(a, b){
+
+
+
+    return $(a).find('.terminal').data('price') - $(b).find('.loop_post_meta').data('price');
+
+}).each(function (_, container) {
+
+  $(container).parent().append(container);
+
+
+
+});
+
+
+
+
+
+// comments widet size script
+if( $('body').hasClass('single-post') ){
+    var left_col_height = parseInt( $('.col-sm-8.col-md-6').height() ) - 70, // left col height
+        comment_height  = left_col_height + "px"; // make it 70px less and append px to it
+    
+    console.log( comment_height );
+    
+    // make comment section equal to column
+    $('div.sidebar').css({
+        paddingLeft: "8px",
+        overflow: "hidden",
+        height: comment_height
+    });
+}
+
+
+
+
+
+ });
+
+</script>
+
+
+
+</body>
+
+
+
+</html>
