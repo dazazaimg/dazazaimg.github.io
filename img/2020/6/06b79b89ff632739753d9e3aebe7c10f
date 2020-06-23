@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <title>Squarespace - No Such Website</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-8dcbf1aec1959294d5bd0-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/common-83b7f986b33276bfae0d91f1c1e7c4fe-min.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/dialog-1d2530a59496925d58210-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/dialog-afeb96ba160fb642a2d98c892a956065-min.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/system-page-8a7aa3ecdaee2cb335f1c-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/system-page-6b393a4b3a1b687988d925d9496458ce-min.css">
+
+</head>
+<body class="squarespace-config squarespace-system-page">
+
+  <div class="minimal-logo">&nbsp;</div>
+
+  <script>
+
+    Static =  { };
+    Static.CONTEXT = {};
+
+    Y = YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+
+      var message;
+
+      if (Static.CONTEXT.removed) {
+
+        message = '<div class="bigtext"><div class="title">SITE DELETED</div><div class="description">This site has been deleted by the owner.</div></div>';
+
+      } else {
+
+        message = '<div class="bigtext"><div class="title">No Such Website</div><div class="description">The website you requested does not exist.</div></div>';
+
+      }
+
+      LB = new Y.Squarespace.Lightbox({
+        disableNormalClose: true,
+        clickAnywhereToExit: false,
+        content: message,
+        margin: 100,
+        height: 90
+      });
+
+      LB.show();
+
+    });
+
+  </script>
+
+</body>
+</html>
+
