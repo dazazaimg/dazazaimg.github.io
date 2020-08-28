@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <base href="/" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="copyright" content="Marvin Blum" />
+    <meta name="author" content="Marvin Blum" />
+    <meta name="title" content="Marvin Blum" />
+    <meta name="description" content="A full stack software engineer from Germany, open source and Linux enthusiast and co-founder of Emvi." />
+    <meta name="msapplication-TileColor" content="#000000" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="twitter:card" content="profile" />
+    <meta name="twitter:site" content="@m5blum" />
+    <meta name="twitter:title" content="Marvin Blum" />
+    <meta name="twitter:description" content="A full stack software engineer from Germany, open source and Linux enthusiast and co-founder of Emvi." />
+    <meta name="twitter:image" content="https://marvinblum.de/avatar.png" />
+    <meta property="og:url" content="https://marvinblum.de/" />
+    <meta property="og:title" content="Marvin Blum" />
+    <meta property="og:description" content="A full stack software engineer from Germany, open source and Linux enthusiast and co-founder of Emvi." />
+    <meta property="og:image" content="https://marvinblum.de/avatar.png" />
+    <title>marvin blum</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="../static/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="../static/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="../static/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="../static/favicon/site.webmanifest" />
+    <link rel="mask-icon" href="../static/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
+    <link rel="stylesheet" type="text/css" href="../static/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="../static/concrete.css" />
+    <link rel="stylesheet" type="text/css" href="../static/style.css" />
+</head>
+<body>
+
+<div class="menu">
+    <a href="/" class="button filled">About</a>
+    <a href="/blog" class="button filled">Blog</a>
+    <a href="mailto:marvin@marvinblum.de" class="button">Contact me</a>
+    <a href="https://github.com/Kugelschieber" target="_blank" class="button">GitHub</a>
+    <a href="https://twitter.com/m5blum" target="_blank" class="button">Twitter</a>
+</div>
+
+
+<section>
+    <h2>Page not found</h2>
+    <p>
+        Nothing to see here...<br />
+        <a href="/">Return home</a>
+    </p>
+</section>
+
+    <hr />
+    <section>
+        <p>
+            Would you like to see more? Read my blog articles on <a href="https://emvi.com/blog" target="_blank">Emvi</a>, my project page on <a href="https://github.com/Kugelschieber" target="_blank">GitHub</a> or send me a <a href="mailto:marvin@marvinblum.de">mail</a>.
+        </p>
+        <p>
+            This page uses <a href="https://concrete.style/" target="_blank">concrete</a> for styling. Check it out!
+        </p>
+        <p>
+            This page does not use cookies. <a href="/legal">Legal</a>
+        </p>
+    </section>
+</body>
+</html>
+
