@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="generator" content="Hugo 0.74.3" />
+  
+    <title>LainSystems</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Personal website of Zach Easterbrook" />
+<meta name="keywords" content="Programming, Software Engineering, Web Development" />
+<meta name="robots" content="noodp" />
+
+<script src="https://cdn.usefathom.com/script.js" site="ZQNSDGRZ" honor-dnt="true" defer></script>
+
+<link rel="canonical" href="https://lainsystems.com/" />
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://lainsystems.com/css/style.min.css">
+
+
+  
+  
+  <link rel="stylesheet" href="https://lainsystems.com/css/color/green.min.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://lainsystems.com/img/apple-touch-icon-144-precomposed.png">
+
+  <link rel="shortcut icon" href="https://lainsystems.com/favicon.ico">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="" />
+  
+    <meta name="twitter:creator" content="" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="LainSystems">
+<meta property="og:description" content="Personal website of Zach Easterbrook" />
+<meta property="og:url" content="https://lainsystems.com/" />
+<meta property="og:site_name" content="" />
+
+  
+    <meta property="og:image" content="https://lainsystems.com/favicon.ico">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+
+  <link href="/index.xml" rel="alternate" type="application/rss+xml" title="LainSystems" />
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    LainSystems
+  </div>
+</a>
+
+    </div>
+    <div class="menu-trigger">menu</div>
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+        
+          <li><a href="/posts">Articles</a></li>
+        
+      
+        
+          <li><a href="/resume.pdf">Résumé</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+      
+        <li><a href="/posts">Articles</a></li>
+      
+    
+      
+        <li><a href="/resume.pdf">Résumé</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+  
+    <div class="index-content framed">
+      <p>Welcome to <code>LainSystems</code>, here you will find articles about anything I find interesting as well as random musings.</p>
+<p>Have a nice day!</p>
+
+    </div>
+  
+  <div class="posts">
+    
+    
+
+    
+    
+      
+    
+    
+
+    
+      <div class="post on-list">
+        <h1 class="post-title">
+          <a href="https://lainsystems.com/posts/exploring-mullender-dot-c/">Exploring mullender.c - A deep dive into the first IOCCC winner</a>
+        </h1>
+        <div class="post-meta">
+          <span class="post-date">
+            2020-08-17
+          </span>
+          
+            <span class="post-author">:: Zach</span>
+          
+        </div>
+
+        
+
+        
+
+        <div class="post-content">
+          
+          This post will explore the famous winner of the first IOCCC contest, dive into the story behind the code, and even display the original source programs!
+          
+        </div>
+
+        
+        <div>
+          <a class="read-more button"
+            href="/posts/exploring-mullender-dot-c/">Read more →</a>
+        </div>
+        
+      </div>
+    
+    <div class="pagination">
+  <div class="pagination__buttons">
+    
+    
+  </div>
+</div>
+
+  </div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>Zach Easterbrook</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+	<div class="analytics-statement" style="display:block;">
+		<span>:: This site uses <a href="https://usefathom.com/">Fathom Analytics</a> for basic, privacy-focused analytics.</span>
+	</div>
+</footer>
+
+
+
+
+
+
+<script src="https://lainsystems.com/js/menu.js"></script>
+<script src="https://lainsystems.com/js/prism.js"></script>
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
